@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-#title:
+title: Boris Babic
 
 # Short description of your site
 #description: 
@@ -24,8 +24,8 @@ baseurl: ""
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research:
-  Teaching:
+  Research: some research
+  Teaching: some teaching 
   Author's home: "https://babicb.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)

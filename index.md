@@ -9,7 +9,7 @@ bigimg:
   - "/img/pasadena.JPG" : "Venice Beach, photo by Nevena Novakovic (2018)"
 ---
 
-Hello! Welcome to my page. I am currently a Postdoc at [Caltech](http://www.hss.caltech.edu/content/boris-babic). You can follow the links above to learn more about my research and teaching. 
+Hello! Welcome to my page. I am currently a Postdoc at [Caltech](http://www.hss.caltech.edu/content/boris-babic). The overarching theme of my research is epistemic risk. This project has three main components -- in (1) philosophy of science/formal epistemology, (2) normative ethics, and (3) public policy. You can follow the Research link to learn more. 
 
 #### About Me
 From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was Jim Joyce. 

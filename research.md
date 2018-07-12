@@ -17,11 +17,11 @@ You will find below a list of publications and works in progress, followed by a 
   _Economics & Philosophy_ (forthcoming)
 
 #### In Progress 
-  Dynamic Epistemic Risk (draft available on request)
+  * Dynamic Epistemic Risk (draft available on request)
   
-  A Challenge for Approximate Coherentism (draft available on request)
+  * A Challenge for Approximate Coherentism (draft available on request)
   
-  Fisher Information vs. Shannon Entropy
+  * Fisher Information vs. Shannon Entropy
 
 #### Overview 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Research
 ---
 
 The overaching theme of my current research is **epistemic risk**. It consists of three components:

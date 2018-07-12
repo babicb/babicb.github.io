@@ -9,4 +9,10 @@ bigimg:
   - "/img/pasadena.JPG" : "Venice Beach, photo by Nevena Novakovic (2018)"
 ---
 
-Hi, Welcome to my page. I am currently a Postdoc at Caltech. 
+Hello! Welcome to my page. I am currently a Postdoc at [Caltech](http://www.hss.caltech.edu/content/boris-babic). You can follow the links above to learn more about my research and teaching. 
+
+#### About Me
+From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). 
+
+Prior to that, I studied law at [Harvard University](https://hls.harvard.edu/), and practiced briefly as an intellectual property lawyer at Quinn, [Emanuel, Urquhart & Sullivan](https://www.quinnemanuel.com/), where I represented companies fighting over fashion dolls, cell phones, and comic books. In particular, I played some small role representing Mattel, the makers of Barbie, in the now famous ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) against rival company, MGA, the makers of Bratz. 
+

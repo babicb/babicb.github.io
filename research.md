@@ -13,7 +13,7 @@ You will find below a list of publications and works in progress, followed by a 
   
   3. Testing for Discrimination and the Risk of Error, _Economics & Philosophy_ (forthcoming)
 
-#### In Progress 
+ #### In Progress 
   4. Dynamic Epistemic Risk (draft available on request)
   
   5. A Challenge for Approximate Coherentism (draft available on request)

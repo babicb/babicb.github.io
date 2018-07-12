@@ -7,7 +7,7 @@ You will find below a list of publications and works in progress, followed by a 
 
 #### Publications 
 
-  1. A Theory of Epistemic Risk 
+  1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
   
   2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  

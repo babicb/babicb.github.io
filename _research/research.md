@@ -11,7 +11,8 @@ The overaching theme of my current research is **epistemic risk**. It consists o
 #### Publications 
 
   1. A Theory of Epistemic Risk, _Philosophy of Science_ (Forthcoming) 
-  <embed src="https://babicb.github.io/testfile.pdf" type="application/pdf" />
-    
+  [PDF](/_research/aac.pdf)
+     
   2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King), _Oxford Studies in Normative Ethics_ (Provisionally Forthcoming) 
+  
   3. Testing for Discrimination and the Risk of Error, _Economics & Philosophy_ (Forthcoming)

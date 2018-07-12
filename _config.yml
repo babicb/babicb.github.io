@@ -104,15 +104,4 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
- 
-# prose.io options
-prose:
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - /_includes
-    - /_layouts
-    - /css
-    - /img
-- /js
+  

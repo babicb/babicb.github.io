@@ -10,7 +10,7 @@ The overaching theme of my current research is **epistemic risk**. It consists o
 
 #### Publications 
 
-  1. A Theory of Epistemic Risk, _Philosophy of Science_ (Forthcoming) 
+  1. [A Theory of Epistemic Risk, _Philosophy of Science_ (Forthcoming)](babicb.github.io/_research/aac.pdf)
   
   [PDF](/_research/aac.pdf )
   

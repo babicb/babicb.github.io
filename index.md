@@ -3,8 +3,8 @@ layout: page
 title: Boris Babic
 subtitle: Postdoctoral Scholar, California Institute of Technology
 css: "/css/index.css"
-meta-title: "Derek Ogle"
-meta-description: "Professor of Mathemetical Sciences and Natural Resources at Northland College."
+meta-title: "Boris Babic"
+meta-description: "Postdoctoral Scholar, California Institute of Technology"
 bigimg:
   - "/img/venice2.png" : "Venice Beach, photo by Nevena Novakovic (2018)"
 ---

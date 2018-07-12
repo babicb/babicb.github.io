@@ -20,8 +20,8 @@ description: Postdoc, Caltech
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Teaching: "aboutme"
-  CV: "aboutme"
+  Teaching: "teaching"
+  CV: "cv"
   DGL2019: "DGL2019"
  
 

@@ -10,7 +10,7 @@ The overaching theme of my current research is **epistemic risk**. It consists o
 
 #### Publications 
 
-  1. A Theory of Epistemic Risk, _Philosophy of Science_ (forthcoming) [PDF](research/babic-ter.pdf)
+  1. A Theory of Epistemic Risk, _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
   
   2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King), _Oxford Studies in Normative Ethics_ (Provisionally forthcoming) 
   

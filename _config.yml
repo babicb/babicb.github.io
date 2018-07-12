@@ -24,7 +24,7 @@ description: Postdoc, Caltech
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Research: "/_research/research"
+  Research: "research"
   Teaching: "aboutme"
   CV: "aboutme"
   

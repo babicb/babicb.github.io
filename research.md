@@ -3,6 +3,7 @@
 layout: page
 title: Research
 ---
+
 The overaching theme of my current research is **epistemic risk**. It consists of three components:
   - Philosophy of science/formal epistemology. 
   - Normative ethics. 

@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle: Postdoctoral Scholar, California Institute of Technology
 css: "/css/index.css"
-meta-title: "Boris Babic"
+meta-title: ""
 meta-description: "Postdoctoral Scholar, California Institute of Technology"
 bigimg:
   - "/img/pasadena.JPG" : "South Pasadena, photo by Nevena Novakovic (2018)"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boris Babic
+title: 
 subtitle: Postdoctoral Scholar, California Institute of Technology
 css: "/css/index.css"
 meta-title: "Boris Babic"

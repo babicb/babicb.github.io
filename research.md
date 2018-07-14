@@ -6,6 +6,7 @@ title: Research
 You will find below a list of publications and works in progress, followed by a general overview of my research. 
 
   **Publications**
+  
 1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
   
@@ -13,7 +14,7 @@ You will find below a list of publications and works in progress, followed by a 
   _Oxford Studies in Normative Ethics_ (provisionally forthcoming) 
   
 3. Testing for Discrimination and the Risk of Error  
-  _Economics & Philosophy_ (forthcoming)
+  _Economics & Philosophy_ (forthcoming)  
   **In Progress**
 
 4. Dynamic Epistemic Risk (draft available on request)

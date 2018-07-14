@@ -4,23 +4,23 @@ title: Research
 ---
 
 You will find below a list of publications and works in progress, followed by a general overview of my research.  
-  **Publications**  
- 
-<p><b> Publications <b></p>
- 
-<ol type="1">
+
+**Publications**  
+
+<ol start="1">
   <li>First pub</li>
   <li>Second Pub</li>
   <li>Third Pub</li>
- 
-<p><b> work in progress <b></p>
- 
-  <li>First WIP</li>
- <li>Second WIP</li>
- <li>Third WIP</li>
 </ol> 
 
-<p><b> Overview of research <b></p>
+**Work in Progress** 
+
+<ol start="4">
+  <li>First WIP</li>
+  <li>Second WIP</li>
+  <li>Third WIP</li>
+</ol> 
+
  
 1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)

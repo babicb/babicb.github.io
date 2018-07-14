@@ -7,22 +7,22 @@ You will find below a list of publications and works in progress, followed by a 
 
   **Publications**
 
-  1. A Theory of Epistemic Risk  
+1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
   
-  2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
+2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
   _Oxford Studies in Normative Ethics_ (provisionally forthcoming) 
   
-  3. Testing for Discrimination and the Risk of Error  
+3. Testing for Discrimination and the Risk of Error  
   _Economics & Philosophy_ (forthcoming)
 
   **In Progress**
 
-  4. Dynamic Epistemic Risk (draft available on request)
+4. Dynamic Epistemic Risk (draft available on request)
   
-  5. A Challenge for Approximate Coherentism (draft available on request)
+5. A Challenge for Approximate Coherentism (draft available on request)
   
-  6. Fisher Information vs. Shannon Entropy
+6. Fisher Information vs. Shannon Entropy
 
   **Overview**
 

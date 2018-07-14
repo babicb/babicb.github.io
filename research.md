@@ -6,13 +6,17 @@ title: Research
 You will find below a list of publications and works in progress, followed by a general overview of my research.  
   **Publications**  
  
+<b> Publications <b>
 <ol type="1">
-  <li>Coffee</li>
-  <li>Tea</li>
+  <li>First pub</li>
+  <li>Second Pub</li>
+  <li>Third Pub</li>
 <b> work in progress <b>
-  <li>Milk</li>
+  <li>First WIP</li>
+ <li>Second WIP</li>
+ <li>Third WIP</li>
 </ol> 
-
+<b> Overview of research <b>
 1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
   

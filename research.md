@@ -5,7 +5,7 @@ title: Research
 
 You will find below a list of publications and works in progress, followed by a general overview of my research. 
 
-**Publications**
+    **Publications**
 
   1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
@@ -16,7 +16,7 @@ You will find below a list of publications and works in progress, followed by a 
   3. Testing for Discrimination and the Risk of Error  
   _Economics & Philosophy_ (forthcoming)
 
-**In Progress**
+    **In Progress**
 
   4. Dynamic Epistemic Risk (draft available on request)
   
@@ -24,7 +24,7 @@ You will find below a list of publications and works in progress, followed by a 
   
   6. Fisher Information vs. Shannon Entropy
 
-**Overview**
+    **Overview**
 
 The overaching theme of my current research is **epistemic risk**. It consists of three main components:
   - **Philosophy of science/formal epistemology**. I try to motivate and construct a general theory of epistemic risk in terms of alethic sensitivity to small changes in accuracy. This theory is currently developed within the epistemic utility/accuracy framework, though I think of this as a starting point rather than a fundamental commitment. If you would like to learn more, see _A Theory of Epistemic Risk_. Currently, I am working on a project that extends considerations of epistemic risk to the updating context (_Dynamic Epistemic Risk_). I am also working on a project on randomness and coherence for imperfect Bayesian agents (_A Challenge for Approximate Coherentism_) and a project that explores disparate measures of information in statistical theory (_Fisher Information vs. Shannon Entropy_). 

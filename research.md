@@ -9,7 +9,7 @@ You will find below a list of publications and works in progress, followed by a 
 
 <ol start="1">
   <li>A Theory of Epistemic Risk  
-  _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)</li>
+  _Philosophy of Science_ (forthcoming) <a href="research/babic_ter.pdf">PDF</a></li>
   <li>Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
   _Oxford Studies in Normative Ethics_ (provisionally forthcoming) PDF</li>
 </ol> 

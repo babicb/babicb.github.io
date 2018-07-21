@@ -19,6 +19,15 @@ Pasadena, CA                                                        917.267.9873
  B | 2 
  C | 3 
  D | 4 
+ 
+Johnny Coder
+============
+
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
 
 Education
 ---------

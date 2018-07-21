@@ -24,18 +24,6 @@ Visitor, Carnegie Mellon University (June 2014)
 
 **Honors BA**, _summa cum laude_, York University (2003-2007)
 
-2013-2017
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
 Experience
 ----------
 

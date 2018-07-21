@@ -15,7 +15,7 @@ Education
 
 **PhD in Philosophy**, University of Michigan, Ann Arbor (2013-2017)    
 Dissertation: Foundations of Epistemic Risk    
-Committee: James Joyce (chair), Peter Railton, Brian Weatherson, Rich Gonzalez (Statistics/Psychology)
+Committee: James Joyce (chair), Peter Railton, Brian Weatherson, Rich Gonzalez (Statistics/Psychology)    
 Visitor, Carnegie Mellon University (June 2014)
 
 **MS in Statistics**, University of Michigan, Ann Arbor (2013-2017)

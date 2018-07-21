@@ -7,12 +7,12 @@ My CV is below. You can also download the PDF.
 Boris Babic
 ============
 
--------------------       |    ----------------------------
-MC101-40                  |    bbabic@caltech.edu
-1200 E. California Blvd.  |    babic917@gmail.com
-Pasadena, CA 91125        |    917.267.9873
-                          |    [borisbabic.com](borisbabic.com)
--------------------       |    ----------------------------
+-------------------                 ----------------------------
+MC101-40                                      bbabic@caltech.edu
+1200 E. California Blvd.                      babic917@gmail.com
+Pasadena, CA 91125                                  917.267.9873
+                                [borisbabic.com](borisbabic.com)
+-------------------                 ----------------------------
 
  MC 101-40 | bbabic@caltech.edu 
 ---|---

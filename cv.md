@@ -8,16 +8,10 @@ Boris Babic
 ============
 --------------------------------------------------------------------------------------------
 MC101-40 - 1200 E. California Blvd. - Pasadena, CA 91125    
-917.267.9873 - bbabic@caltech.edu - babic917@gmail.com - [borisbabic.com](borisbabic.com)
+917.267.9873 - bbabic@caltech.edu - babic917@gmail.com
 --------------------------------------------------------------------------------------------
 
 
--------------------------                 --------------------------------------
-MC101-40                                                      bbabic@caltech.edu
-1200 E. California Blvd.                                      babic917@gmail.com
-Pasadena, CA                                                        917.267.9873
-91125                                           [borisbabic.com](borisbabic.com)
--------------------------                 --------------------------------------
 
  MC 101-40 | bbabic@caltech.edu 
 ---|---

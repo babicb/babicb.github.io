@@ -13,6 +13,17 @@ MC101-40 - 1200 E. California Blvd. - Pasadena, CA 91125
 Education
 ---------
 
+**PhD in Philosophy**, University of Michigan, Ann Arbor (2013-2017)    
+Dissertation: Foundations of Epistemic Risk    
+Committee: James Joyce (chair), Peter Railton, Brian Weatherson, Rich Gonzalez (Statistics/Psychology)
+Visitor, Carnegie Mellon University (June 2014)
+
+**MS in Statistics**, University of Michigan, Ann Arbor (2013-2017)
+
+**JD**, _cum laude_,  Harvard Law School (2007-2010)
+
+**Honors BA**, _summa cum laude_, York University (2003-2007)
+
 2013-2017
 :   **PhD, Computer Science**; Awesome University (MyTown)
 

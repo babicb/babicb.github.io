@@ -12,7 +12,7 @@ MC101-40                      bbabic@caltech.edu
 1200 E. California Blvd.      babic917@gmail.com
 Pasadena, CA 91125            917.267.9873
                               [borisbabic.com](borisbabic.com)
--------------------     ----------------------------
+-------------------           ----------------------------
 
 Education
 ---------

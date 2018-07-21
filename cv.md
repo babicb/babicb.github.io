@@ -2,7 +2,7 @@
 layout: page
 title: 
 --- 
-My CV is below. You can also download the PDF. 
+My CV is below. You can also download the [PDF](Babic_CV.pdf). 
 
 Boris Babic
 =================================================================

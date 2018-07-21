@@ -8,29 +8,12 @@ Boris Babic
 ================================================================================================
 MC101-40 - 1200 E. California Blvd. - Pasadena, CA 91125    
 917.267.9873 - bbabic@caltech.edu - babic917@gmail.com
-------------------------------------------------------------------------------------------------
-
-
-
- MC 101-40 | bbabic@caltech.edu 
----|---
- B | 2 
- C | 3 
- D | 4 
- 
-Johnny Coder
-============
-
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+================================================================================================
 
 Education
 ---------
 
-2010-2014 (expected)
+2013-2017
 :   **PhD, Computer Science**; Awesome University (MyTown)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness

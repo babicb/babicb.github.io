@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
+title: Teaching
 ---
-## Teaching 
 
-Here you can find information about my teaching. 
+
+

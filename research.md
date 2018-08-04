@@ -1,10 +1,7 @@
 ---
 layout: page
-title:
+title: Research
 ---
-
-## Research 
-
 You will find below a list of publications and works in progress, followed by a general overview of my research.  
 
 **Publications**  

@@ -30,4 +30,4 @@ _Previous_
   * Philosophy, Politics & Economics (Winter 2015) 
   * Intermediate Logic (Fall 2014)
 
-## Quantitative Feedback
+**Quantitative Feedback**

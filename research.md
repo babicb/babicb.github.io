@@ -4,16 +4,10 @@ title: Research
 ---
 You will find below a list of publications and works in progress, followed by a general overview of my research.  
 
-Here is a list. 
-1. first item 
-2. second item 
-3. third item
-End of list. 
-
-**Publications**  
-	1. A Theory of Epistemic Risk  
-  _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)  
-  	2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
+**Publications**
+1. A Theory of Epistemic Risk  
+  _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
+2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
   _Oxford Studies in Normative Ethics_ (provisionally forthcoming) 
 
 **Work in Progress** 

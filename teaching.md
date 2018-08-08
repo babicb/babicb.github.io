@@ -37,15 +37,7 @@ _Previous_
   
   ![viz](/img/visualization.jpg)
   
-  _Class averages_
 <html>
 <img src="/img/visualization.jpg" alt="vizz" width="500" height="600">
 </html>
-  
-_First class averages_ 
-![averages](visualization.jpg)
-
-_Class averages_
-<html>
-<img src="visualization.jpg" alt="class averages" width="500" height="600">
-</html>
+ 

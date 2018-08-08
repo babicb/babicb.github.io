@@ -33,9 +33,9 @@ _Previous_
 **Quantitative Feedback**
 
 _First class averages_ 
-![averages](_teaching_files/visualization.jpg)
+![averages](visualization.jpg)
 
 _Class averages_
 <html>
-<img src="_teaching_files/visualization.jpg" alt="class averages" width="500" height="600">
+<img src="visualization.jpg" alt="class averages" width="500" height="600">
 </html>

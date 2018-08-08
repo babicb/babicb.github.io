@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-Hello! You will find below a list of publications and works in progress, followed by a general overview of my research.  
+You will find below a list of publications and works in progress, followed by a general overview of my research.  
 
 **Publications**  
 	1. A Theory of Epistemic Risk  

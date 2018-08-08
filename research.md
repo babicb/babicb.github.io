@@ -5,9 +5,9 @@ title: Research
 You will find below a list of publications and works in progress, followed by a general overview of my research.  
 
 Here is a list. 
-	1. Hi list
-	2. Second item 
-	3. Third item
+1. first item 
+2. second item 
+3. third item
 End of list. 
 
 **Publications**  

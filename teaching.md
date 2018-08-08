@@ -33,7 +33,7 @@ _Previous_
 **Quantitative Feedback**
 
 
-  ![pasadena]("/img/pasadena.JPG") 
+  ![pasadena](/img/pasadena.JPG) 
   
 _First class averages_ 
 ![averages](visualization.jpg)

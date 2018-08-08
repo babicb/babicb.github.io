@@ -32,12 +32,10 @@ _Previous_
 
 **Quantitative Feedback**
 
+The following is a summary of my overall teaching effectiveness for every class I have taught so far at Caltech. I have included _all_ evaluations. 
 
-  ![pasadena](/img/pasadena.JPG) 
-  
+The following is a summary of my overall teaching effectiveness for the three most recent classes I taught at UM. I have included _all_ evaluations. The students were asked to rank, on a scale from 1-5, how strongly they agree with the statement: "Overall, the instructor was an excellent teacher."
+ 
   ![um_teaching](/img/um_teaching.png)
   
-<html>
-<img src="/img/visualization.jpg" alt="vizz" width="500" height="600">
-</html>
- 
+

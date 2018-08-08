@@ -35,6 +35,13 @@ _Previous_
 
   ![pasadena](/img/pasadena.JPG) 
   
+  ![viz](/img/visualization.jpg)
+  
+  _Class averages_
+<html>
+<img src="/img/visualization.jpg" alt="vizz" width="500" height="600">
+</html>
+  
 _First class averages_ 
 ![averages](visualization.jpg)
 

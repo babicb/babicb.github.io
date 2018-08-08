@@ -36,6 +36,6 @@ The following is a summary of my overall teaching effectiveness for every class 
 
 The following is a summary of my overall teaching effectiveness for the three most recent classes I taught at UM. I have included _all_ evaluations. The students were asked to rank, on a scale from 1-5, how strongly they agree with the statement: "Overall, the instructor was an excellent teacher."
  
-  ![um_teaching](/img/um_teaching.png)
+  ![um_teach](/img/um_teach.png)
   
 

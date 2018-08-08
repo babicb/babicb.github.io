@@ -31,7 +31,8 @@ _Previous_
   * Intermediate Logic (Fall 2014)
 
 **Quantitative Feedback**
+
+_Class averages_
 <html>
-<h4>HTML Image</h2>
 <img src="_teaching_files/visualization.svg" alt="class averages" width="500" height="600">
 </html>

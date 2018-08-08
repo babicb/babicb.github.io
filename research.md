@@ -13,7 +13,7 @@ Hello! You will find below a list of publications and works in progress, followe
 **Work in Progress** 
 
 <ol start="3">
-  <li>Dynamic Epistemic Risk (draft available on request) <a href="research/babic_ter.pdf">PDF</a> </li>
+  <li>Dynamic Epistemic Risk (draft available on request) <a href="babic_ter.pdf">PDF</a> </li>
   <li>A Challenge for Approximate Coherentism (draft available on request)</li>
   <li>Fisher Information vs. Shannon Entropy</li>
   <li>Testing for Discrimination and the Risk of Error</li>

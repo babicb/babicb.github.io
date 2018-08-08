@@ -35,7 +35,7 @@ _Previous_
 
   ![pasadena](/img/pasadena.JPG) 
   
-  ![viz](/img/visualization.jpg)
+  ![um_teaching](/img/um_teaching.png)
   
 <html>
 <img src="/img/visualization.jpg" alt="vizz" width="500" height="600">

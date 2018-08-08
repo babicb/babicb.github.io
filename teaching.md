@@ -32,9 +32,9 @@ _Previous_
 
 **Quantitative Feedback**
 
-bigimg:
-  "/img/pasadena.JPG" : "South Pasadena, photo by Nevena Novakovic (2018)"
 
+  ![pasadena]("/img/pasadena.JPG") 
+  
 _First class averages_ 
 ![averages](visualization.jpg)
 

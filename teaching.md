@@ -31,3 +31,5 @@ _Previous_
   * Intermediate Logic (Fall 2014)
 
 **Quantitative Feedback**
+
+![averages](_teaching_files/visualization.svg)

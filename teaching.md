@@ -31,9 +31,6 @@ _Previous_
   * Intermediate Logic (Fall 2014)
 
 ## Quantitative Feedback
-
-<!DOCTYPE html>
-<html>
 <head>
   <style>
     .vega-actions a {
@@ -71,4 +68,4 @@ _Previous_
       .catch(error => showError(el, error));
   </script>
 </body>
-</html>
+

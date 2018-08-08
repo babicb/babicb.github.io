@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Teaching
 ---
 
 Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.

@@ -32,5 +32,5 @@ _Previous_
 
 ## Quantitative Feedback
 
-![averages](teaching_files/visualization.svg)
+![averages](_teaching_files/visualization.svg)
 

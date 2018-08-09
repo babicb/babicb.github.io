@@ -50,4 +50,4 @@ Since the department at Michigan provided historical data, I have also included 
   
 The following is a summary of various teaching attributes for the three most recent classes I have taught at the University of Michigan. I have included all evaluations. The students ranked each on a scale from 1 to 5.
  
- ![um_teach2](/img/um_teach1.svg)
+ ![um_teach2](/img/um_teach2.svg)

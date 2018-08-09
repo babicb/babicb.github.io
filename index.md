@@ -5,7 +5,7 @@ css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Postdoctoral Scholar, California Institute of Technology"
 bigimg:
-  - "/img/sopa.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
+  - "/img/sopa.jpg" : "Arroyo Del Mar (Pasadena), photo by Nevena Novakovic (2018)"
 ---
 
 Hi! Welcome to my page. I am currently a postdoctoral scholar in philosophy of science at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). The overarching theme of my research is **epistemic risk**. The various dimensions of this project span philosophy of science/formal epistemology, normative ethics, and law & public policy. You can learn more about epistemic risk by clicking on the Research tab. 

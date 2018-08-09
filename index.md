@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Boris Babic
+title: ![](CITHSS_MG_1321.jpg =50x25) Boris Babic
 css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Postdoctoral Scholar, California Institute of Technology"

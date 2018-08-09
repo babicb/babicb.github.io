@@ -42,7 +42,9 @@ The following is a summary of various teaching attributes for every class I have
   
   ![caltech_teach2](/img/caltech_teach2.svg)
 
-The following is a summary of my overall teaching effectiveness for the three most recent classes I have taught at the University of Michigan. I have included all evaluations. The students were asked to evaluate my overall excellence as a teacher, on a scale from 1 to 5.
+The following is a summary of my overall teaching effectiveness for the three most recent classes I have taught at the University of Michigan. I have included all evaluations. The students were asked to evaluate my overall excellence as a teacher, on a scale from 1 to 5. 
+
+Since the department at Michigan provided historical data, I have also included 5 year departmental averages for comparison. 
  
   ![um_teach1](/img/um_teach1.svg)
   

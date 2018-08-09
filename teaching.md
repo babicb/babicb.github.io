@@ -9,7 +9,7 @@ Here you will find information about my teaching experience and graphical summar
 
 **Califoria Institute of Technology**
 
-_Upcoming_
+_Scheduled_
 
   * Probability, Evidence & Belief (Spring 2019) 
   * Knowledge & Reality (Spring 2019) 
@@ -20,6 +20,9 @@ _Previous_
   * Probability, Evidence & Belief (Spring 2018) Syllabus PDF 
   * Seminar in Ethics, Statistics & Law (Spring 2018) Syllabus PDF 
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
+
+_Prepared to teach_
+  * Law, Probability & Risk Syllabus PDF
 
 **University of Michigan, Ann Arbor (primary instructor)**
 

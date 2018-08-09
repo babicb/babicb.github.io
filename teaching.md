@@ -11,15 +11,15 @@ Here you will find information about my teaching experience and graphical summar
 
 _Upcoming_
 
-  * Probability Evidence and Belief (Spring 2019) 
+  * Probability, Evidence & Belief (Spring 2019) 
   * Knowledge & Reality (Spring 2019) 
   * Introduction to Philosophy of Science (Winter 2019) 
 
 _Previous_ 
 
-  * Probability Evidence and Belief (Spring 2018) Syllabus PDF 
-  * Seminar in Ethics, Statistics, and Law (Spring 2018) Syllabus PDF 
-  * Knowledge & Reality (Fall 2017) Syllabus PDF 
+  * Probability, Evidence & Belief (Spring 2018) Syllabus PDF 
+  * Seminar in Ethics, Statistics & Law (Spring 2018) Syllabus PDF 
+  * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
 **University of Michigan, Ann Arbor (primary instructor)**
 

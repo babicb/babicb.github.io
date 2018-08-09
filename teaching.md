@@ -22,7 +22,7 @@ _Previous_
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
 _Additionally Prepared to teach_
-  * Law, Probability & Risk Syllabus PDF
+  * Law, Probability & Risk [Syllabus PDF](teaching/lpr_syllabus.pdf)
 
 **University of Michigan, Ann Arbor (primary instructor)**
 

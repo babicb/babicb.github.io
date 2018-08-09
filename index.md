@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Boris Babic
+title: ![](/img/babic.JPG) Boris Babic
 css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Postdoctoral Scholar, California Institute of Technology"

@@ -6,7 +6,7 @@ bigimg:
 ---
 **Decisions, Games, & Logic Workshop**
 
-The Decisions, Games, & Logic (DGL) Workshop is a roughly biannual conference series which was founded by Richard Bradley at the London School of Economics in 2007 and has since been held at various universities around the world. 
+The Decisions, Games, & Logic (DGL) Workshop is a roughly biannual conference series founded by Richard Bradley at the London School of Economics in 2007 and has since been held at various universities around the world. 
 
 I am co-organizing, with Chris Hitchcock and Frederick Eberhardt, the 10th DGL Workshop, which will be held in June 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. There will be a call for papers and posters in early 2019. The schedule will be available here Spring 2019.
 

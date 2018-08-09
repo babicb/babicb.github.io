@@ -24,7 +24,7 @@ _Previous_
 **University of Michigan, Ann Arbor (primary instructor)**
 
   * Nature of Science (Fall 2016) [Syllabus PDF](teaching/PHIL155syllabus.pdf)
-  * Knowledge & Reality (Summer 2016) Syllabus PDF 
+  * Knowledge & Reality (Summer 2016) [Syllabus PDF](teaching/PHIL383syllabus.pdf) 
 
 **University of Michigan, Ann Arbor (TA)**
 

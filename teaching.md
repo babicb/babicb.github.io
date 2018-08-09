@@ -34,10 +34,18 @@ _Previous_
 
 **Quantitative Feedback**
 
-The following is a summary of my overall teaching effectiveness for every class I have taught so far at Caltech. I have included _all_ evaluations. 
+The following is a summary of my overall teaching effectiveness for every class I have taught so far at Caltech. I have included all evaluations. The students were asked to evaluate my overall command of the subject, on a scale from 1 to 7.
 
-The following is a summary of my overall teaching effectiveness for the three most recent classes I taught at the University of Michigan. I have included _all_ evaluations. The students were asked to rank, on a scale from 1-5, how strongly they agree with the statement: "**_Overall, the instructor was an excellent teacher._**"
+  ![caltech_teach1](/img/caltech_teach1.svg)
  
-  ![um_teach](/img/um_teach.svg)
+The following is a summary of various teaching attributes for every class I have taught so far at Caltech. I have included all evaluations. The students ranked each on a scale from 1 to 7.
   
+  ![caltech_teach2](/img/caltech_teach2.svg)
 
+The following is a summary of my overall teaching effectiveness for the three most recent classes I have taught at the University of Michigan. I have included all evaluations. The students were asked to evaluate my overall excellence as a teacher, on a scale from 1 to 5.
+ 
+  ![um_teach1](/img/um_teach1.svg)
+  
+The following is a summary of various teaching attributes for the three most recent classes I have taught at the University of Michigan. I have included all evaluations. The students ranked each on a scale from 1 to 5.
+ 
+ ![um_teach1](/img/um_teach1.svg)

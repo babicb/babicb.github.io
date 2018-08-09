@@ -21,7 +21,7 @@ _Previous_
   * Seminar in Ethics, Statistics & Law (Spring 2018) Syllabus PDF 
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
-_Prepared to teach_
+_Additionally Prepared to teach_
   * Law, Probability & Risk Syllabus PDF
 
 **University of Michigan, Ann Arbor (primary instructor)**

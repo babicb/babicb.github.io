@@ -18,8 +18,8 @@ You will find below a list of publications and works in progress, followed by a 
   <li>A Challenge for Approximate Coherentism PDF </li>
   <li>Testing for Discrimination and the Risk of Error PDF </li>
   <li>Adaptive Burdens of Proof PDF </li>
-  <li>Norms, Stereotypes and Accuracy PDF </li>
-  <li>Dynamic Epistemic Risk PDF-brief sketch <a href="babic_ter.pdf">PDF</a> </li>
+  <li>Norms, Stereotypes and Accuracy <a href="NSA_final.pdf">PDF</a> </li>
+  <li>Dynamic Epistemic Risk PDF </li>
   <li>Invariance, Entropy, and (Objective) Bayesianism </li>
 </ol> 
 

@@ -16,7 +16,7 @@ You will find below a list of publications and works in progress, followed by a 
 
 <ol start="3">
   <li>A project on approximate coherence (blinded for review, e-mail for draft) </li>
-  <li>Testing for Discrimination and the Risk of Error <a href="babic_dre.pdf">PDF</a> </li>
+  <li>Testing for Discrimination and the Risk of Error <a href="babic_tfd.pdf">PDF</a> </li>
   <li>Adaptive Burdens of Proof PDF <a href="babic_abp.pdf">PDF</a> </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>
   <li>Dynamic Epistemic Risk </li>

@@ -10,12 +10,12 @@ You will find below a list of publications and works in progress, followed by a 
 1. A Theory of Epistemic Risk  
   _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
 2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
-  _Oxford Studies in Normative Ethics_ (provisionally forthcoming) PDF
+  _Oxford Studies in Normative Ethics_ (provisionally forthcoming) (e-mail for draft)
 
 **Work in Progress** 
 
 <ol start="3">
-  <li>A Challenge for Approximate Coherentism PDF </li>
+  <li>A project on approximate coherence (blinded for review, e-mail for draft) </li>
   <li>Testing for Discrimination and the Risk of Error <a href="babic_dre.pdf">PDF</a> </li>
   <li>Adaptive Burdens of Proof PDF <a href="babic_abp.pdf">PDF</a> </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>

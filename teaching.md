@@ -18,7 +18,7 @@ _Scheduled_
 _Previous_ 
 
   * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf) 
-  * Seminar in Ethics, Statistics & Law (Spring 2018) [Syllabus PDF](/teaching/sel102_syllabus.pdf)
+  * Seminar in Ethics, Statistics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
 _Additionally Prepared to teach_

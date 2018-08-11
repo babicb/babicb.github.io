@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 bigimg:
-  - "/img/sopa.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
+  - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
 
 Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.

@@ -2,7 +2,7 @@
 layout: page 
 title:
 bigimg:
-  - "/img/P71800662.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
+  - "/img/P718006623.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---
 **Decisions, Games & Logic Workshop**
 

@@ -17,7 +17,6 @@ Hi! Welcome to my page. I am currently a postdoctoral scholar in philosophy of s
 From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk. 
 
 Prior to that, I studied law at [Harvard University](https://hls.harvard.edu/), and practiced briefly as an intellectual property lawyer at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, where I represented companies fighting over fashion dolls, cell phones, and comic books. In particular, I spent most of my time representing Mattel, the makers of Barbie, in the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) against rival company, MGA, the makers of Bratz. 
-
-<! And prior to that, [I mostly tried](/img/hockey.jpg), and failed, to become a professional hockey player. >
+<!-- And prior to that, [I mostly tried](/img/hockey.jpg), and failed, to become a professional hockey player. -->
 
 You can contact me at bbabic@caltech.edu or babic917@gmail.com. 

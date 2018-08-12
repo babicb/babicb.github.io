@@ -12,7 +12,7 @@ Hi! Welcome to my page. I am currently a postdoctoral scholar in philosophy of s
 
 **About Me**
 
-![profile_pic](/img/babic.JPG)
+![profile_pic](/img/babic.jpg)
 
 From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk. 
 

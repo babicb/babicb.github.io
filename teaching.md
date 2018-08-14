@@ -55,4 +55,4 @@ The following is a summary of various teaching attributes for the three most rec
  
  ![um_teach2](/img/um_teach2.svg)
  
-The plots above were generated using Altair in Python. If you'd like to see the code you can find the [Jupyter](http://jupyter.org/index.html) notebook [here](https://github.com/babicb/python_utils.git). 
+The plots above were generated using Altair in Python. If you'd like to see the code you can find my [Jupyter](http://jupyter.org/index.html) notebook [here](https://github.com/babicb/python_utils.git). 

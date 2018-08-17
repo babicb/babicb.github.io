@@ -15,7 +15,7 @@ You will find below a list of publications and works in progress, followed by a 
 **Work in Progress** 
 
 <ol start="3">
-  <li>A project on approximate coherence (blinded for review, e-mail for draft) </li>
+  <li>A Challenge for Approximate Coherentism (down for revisions, e-mail for draft) </li>
   <li>Testing for Discrimination and the Risk of Error <a href="babic_tfd.pdf">PDF</a> </li>
   <li>Adaptive Burdens of Proof <a href="babic_abp.pdf">PDF</a> </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>
@@ -31,7 +31,7 @@ The overaching theme of my current research is **epistemic risk**. It consists o
 
 Currently, I am working on a project that extends considerations of epistemic risk to the updating of beliefs (_Dynamic Epistemic Risk_). I aim to show that we can establish an update rule by considering how an agent's attitudes to epistemic risk should change in response to different possible learning experiences. Roughly, if the answer is that attitudes to epistemic risk should change as little as possible, then the associated update rule is Bayes' Rule. 
 
-I am also working on a project on chance and coherence for imperfect Bayesian agents (_title blinded for review_). I suggest that approximating coherence may not be an appropriate proxy for traditional (all or nothing) coherence because unlike the latter, approximating coherence is susceptible to misfortune. 
+I am also working on a project on chance and coherence for imperfect Bayesian agents (_A Challenge for Approximate Coherentism_). I suggest that approximating coherence may not be an appropriate proxy for traditional (all or nothing) coherence because unlike the latter, approximating coherence is susceptible to misfortune. 
 
 **Normative ethics**. I believe the theory of epistemic risk can fruitfully speak to several problems that have been articulated in the moral encroachment/ normative dilemmas literature. In a joint project with Zoe Johnson-King (_Moral Obligations and Epistemic Risk_), we explore the relationship between moral obligations and attitudes to epistemic risk.
 

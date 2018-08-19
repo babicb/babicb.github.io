@@ -18,7 +18,7 @@ _Scheduled_
 _Previous_ 
 
   * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf) 
-  * Seminar in Ethics, Statistics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
+  * Seminar in Statistics, Ethics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
 _Additionally Prepared to teach_
@@ -26,7 +26,7 @@ _Additionally Prepared to teach_
 
 **University of Michigan, Ann Arbor (primary instructor)**
 
-  * Nature of Science (Fall 2016) [Syllabus PDF](teaching/PHIL155syllabus.pdf)
+  * Hypothesis Testing and its Discontents (Fall 2016) [Syllabus PDF](teaching/PHIL155syllabus.pdf)
   * Knowledge & Reality (Summer 2016) [Syllabus PDF](teaching/PHIL383syllabus.pdf) 
 
 **University of Michigan, Ann Arbor (TA)**

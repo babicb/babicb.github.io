@@ -26,7 +26,7 @@ _Additionally Prepared to teach_
 
 **University of Michigan, Ann Arbor (primary instructor)**
 
-  * Hypothesis Testing and its Discontents (Fall 2016) [Syllabus PDF](teaching/PHIL155syllabus.pdf)
+  * Nature of Science (Fall 2016) [Syllabus PDF](teaching/PHIL155syllabus.pdf)
   * Knowledge & Reality (Summer 2016) [Syllabus PDF](teaching/PHIL383syllabus.pdf) 
 
 **University of Michigan, Ann Arbor (TA)**

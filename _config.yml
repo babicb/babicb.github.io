@@ -6,7 +6,7 @@ url: "http://babicb.github.io"
 baseurl: ""
 
 # Name of website
-title: 
+title: Home
 # Short description of your site
 description: Postdoc, Caltech
 
@@ -23,7 +23,6 @@ navbar-links:
   Teaching: "teaching"
   CV: "Babic_CV.pdf"
   DGL: "DGL"
-  Home: ""
 
 # --- Footer options --- #
 

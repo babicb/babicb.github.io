@@ -1,6 +1,6 @@
 ---
 layout: page 
-title:
+title: DGL
 bigimg:
   - "/img/P718006624.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---

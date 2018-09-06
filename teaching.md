@@ -16,9 +16,9 @@ _Scheduled_
   * Introduction to Philosophy of Science (Winter 2019) 
 
 _Previous_ 
-
-  * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf) 
-  * Seminar in Statistics, Ethics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
+ 
+  * Statistics, Ethics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
+  * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf)
   * Knowledge & Reality (Fall 2017) [Syllabus PDF](teaching/Hum41syllabus.pdf) 
 
 _Additionally Prepared to teach_

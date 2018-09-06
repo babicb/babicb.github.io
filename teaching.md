@@ -9,13 +9,7 @@ Here you will find information about my teaching experience and graphical summar
 
 **Califoria Institute of Technology**
 
-_Scheduled_
-
-  * Probability, Evidence & Belief (Spring 2019) 
-  * Knowledge & Reality (Spring 2019) 
-  * Introduction to Philosophy of Science (Winter 2019) 
-
-_Previous_ 
+_Previously taught_ 
  
   * Statistics, Ethics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
   * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf)
@@ -23,6 +17,12 @@ _Previous_
 
 _Additionally Prepared to teach_
   * Law, Probability & Risk [Syllabus PDF](teaching/lpr_syllabus.pdf)
+  
+_Scheduled to teach_
+
+  * Probability, Evidence & Belief (Spring 2019) 
+  * Knowledge & Reality (Spring 2019) 
+  * Introduction to Philosophy of Science (Winter 2019) 
 
 **University of Michigan, Ann Arbor (primary instructor)**
 

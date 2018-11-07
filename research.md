@@ -8,9 +8,9 @@ You will find below a list of publications and works in progress, followed by a 
 
 **Publications**
 1. A Theory of Epistemic Risk  
-  _Philosophy of Science_ (forthcoming) [PDF](research/babic_ter.pdf)
-2. Moral Obligations and Epistemic Risk (w/ Zoe Johnson-King)  
-  _Oxford Studies in Normative Ethics_ (provisionally forthcoming, e-mail for draft)
+  **Philosophy of Science** (forthcoming) [PDF](research/babic_ter.pdf)
+2. Moral Obligations and Epistemic Risk (with Zoë Johnson-King)  
+  **Oxford Studies in Normative Ethics** (prov forthcoming, e-mail for draft)
 
 **Work in Progress** 
 
@@ -33,6 +33,6 @@ Currently, I am working on a project that extends considerations of epistemic ri
 
 I am also working on a project on chance and coherence for imperfect Bayesian agents (_Assessment Reversal in Approximate Coherentism_). I suggest that approximating coherence may not be an appropriate proxy for traditional (all or nothing) coherence because unlike the latter, approximating coherence is susceptible to misfortune. 
 
-**Normative ethics**. I believe the theory of epistemic risk can fruitfully speak to several problems that have been articulated in the moral encroachment/ normative dilemmas literature. In a joint project with Zoe Johnson-King (_Moral Obligations and Epistemic Risk_), we explore the relationship between moral obligations and attitudes to epistemic risk.
+**Normative ethics**. I believe the theory of epistemic risk can fruitfully speak to several problems that have been articulated in the moral encroachment/ normative dilemmas literature. In a joint project with Zoë Johnson-King (_Moral Obligations and Epistemic Risk_), we explore the relationship between moral obligations and attitudes to epistemic risk.
 
 **Law and public policy**. This dimension of my research engages the emerging literature on algorithmic fairness and ethics in statistics and machine learning. I am interested in both the normative dimension of what constitutes fair AI/ML and the statistical engineering problem of how to construct fair learning algorithms. I am also interested in the empirical study of related public policy problems. Currently, I am working on applying the theory of epistemic risk to evaluate the pervasiveness of discrimination and racial profiling. In particular, in _Testing for Discrimination and the Risk of Error_, I defend a statistical test for discrimination grounded in attitudes to epistemic risk. Meanwhile, in _Adaptive Burdens of Proof_, I argue that many apparent paradoxes of proof involving statistical evidence arise because we assume (without justification) that legal decision makers must have one unique attitude to epistemic risk -- namely, neutrality.  

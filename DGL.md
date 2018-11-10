@@ -11,7 +11,7 @@ The Decisions, Games & Logic (DGL) Workshop is a roughly biennial conference ser
 
 I am co-organizing, with Chris Hitchcock and Frederick Eberhardt, the 10th DGL Workshop, which will be held in June 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
 
-The call for papers is now available [HERE](img/DGL2019_cfp.pdf).
+The call for papers is now available [here](img/DGL2019_cfp.pdf).
 
 The schedule will be posted March 2019.
 

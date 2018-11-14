@@ -17,9 +17,9 @@ You will find below a list of publications and works in progress, followed by a 
 <ol start="3">
   <li>Assessment Reversal in Approximate Coherentism <a href="babic_arc.pdf">PDF</a> </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>
-  <li>Adaptive Burdens of Proof <a href="babic_abp.pdf">PDF</a> </li>
-  <li>Testing for Discrimination and the Risk of Error (e-mail for draft) </li>
   <li>Dynamic Epistemic Risk </li>
+  <li>Adaptive Burdens of Proof (e-mail for draft)
+  <li>Testing for Discrimination and the Risk of Error </li>
   <li>Invariance, Entropy, and (Objective) Bayesianism </li>
 </ol> 
 
@@ -35,4 +35,4 @@ I am also working on a project on chance and coherence for imperfect Bayesian ag
 
 **Normative ethics**. I believe the theory of epistemic risk can fruitfully speak to several problems that have been articulated in the moral encroachment and normative dilemmas literature. In a joint project with Zoë Johnson-King (Moral Obligations and Epistemic Risk), we explore the relationship between moral obligations and attitudes to epistemic risk.
 
-**Law and public policy**. This dimension of my research engages the emerging literature on algorithmic fairness and ethics in statistics and machine learning. I am interested in both the normative dimension of what constitutes fair AI/ML and the statistical engineering problem of how to construct fair learning algorithms. I am also interested in the empirical study of related public policy problems. Currently, I am working on applying the theory of epistemic risk to evaluate the pervasiveness of discrimination and racial profiling. In particular, in Testing for Discrimination and the Risk of Error, I defend a statistical test for discrimination grounded in attitudes to epistemic risk. Meanwhile, in Adaptive Burdens of Proof, I argue that many apparent paradoxes of proof involving statistical evidence arise because we assume (without justification) that legal decision makers must have one unique attitude to epistemic risk -- namely, neutrality.  
+**Law and public policy**. This dimension of my research engages the emerging literature on algorithmic fairness and ethics in statistics and machine learning. I am interested in both the normative dimension of what constitutes fair AI/ML and the statistical engineering problem of how to construct fair learning algorithms. I am also interested in the empirical study of related public policy problems. Currently, I am working on applying the theory of epistemic risk to evaluate the pervasiveness of discrimination. In particular, in Testing for Discrimination and the Risk of Error, I defend a statistical test for discrimination grounded in attitudes to epistemic risk. Meanwhile, in Adaptive Burdens of Proof, I argue that many apparent paradoxes of proof involving statistical evidence arise because we assume (without justification) that legal decision makers must have one unique attitude to epistemic risk -- namely, neutrality.  

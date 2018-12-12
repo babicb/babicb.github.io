@@ -10,7 +10,7 @@ You will find below a list of publications and works in progress, followed by a 
 1. A Theory of Epistemic Risk  
   **Philosophy of Science** (forthcoming) [PDF](research/babic_ter.pdf)
 2. Moral Obligations and Epistemic Risk (with Zoë Johnson-King)  
-  **Oxford Studies in Normative Ethics** [PDF](research/bjk_mer.pdf)
+  **Oxford Studies in Normative Ethics** (prov. forthcoming)[PDF](research/bjk_mer.pdf)
 
 **Work in Progress** 
 

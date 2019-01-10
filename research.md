@@ -11,6 +11,7 @@ You will find below a list of publications and works in progress, followed by a 
   **Philosophy of Science** (forthcoming) [PDF](research/babic_ter.pdf)
 2. Moral Obligations and Epistemic Risk (with Zoë Johnson-King)  
   **Oxford Studies in Normative Ethics** (prov. forthcoming) (e-mail for draft)
+  
 **Work in Progress** 
 
 <ol start="3">

@@ -6,7 +6,7 @@ bigimg:
   - "/img/P718006624.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---
 
-# Probabiity Evidence and Belief 
+# Probability Evidence and Belief 
 
 Welcome to the Caltech Probability Evidence and Belief course for Winter 2019. 
 

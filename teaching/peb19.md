@@ -31,15 +31,24 @@ I will not presuppose any background in philosophy. Rather, the course is advanc
 ## Schedule 
 
 **Week 1**
+
 Introduction to Bayesian epistemology (no readings) 
 
+
 **Week 2**
+
 Ramsey (1926) Truth and Probability 
+
 Joyce (1998) A Nonpragmatic Vindication of Probabilism
 
+
 **Week 3**
+
 Joyce (2009) Prospects for an Alethic Epistemology of Partial Belief 
+
 Heath and Sudderth (1976) de Finetti's Theorem on Exchangeable Variables
+
 Lindley (1976) Inference for a Bernoulli Process (A Bayesian View)
+
 
 **Week 4**

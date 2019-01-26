@@ -61,7 +61,7 @@ Rosenbaum and Rubin (1984) Sensitivity of Bayes Inference with Data Dependant St
 
 Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
 
-** Week 5**
+** Week5**
 
 [Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
 

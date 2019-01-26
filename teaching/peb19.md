@@ -52,3 +52,17 @@ Lindley (1976) Inference for a Bernoulli Process (A Bayesian View)
 
 
 **Week 4**
+
+Hill (1987) The Validity of the Likelihood Principle 
+
+Berger and Wolpert (1988) The Likelihood Principle (Chapters 3.1-3.3, 3.6, 3.7)
+
+Rosenbaum and Rubin (1984) Sensitivity of Bayes Inference with Data Dependant Stopping Rules 
+
+Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
+
+** Week 5**
+
+[Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
+
+[Pettigrew (2014), Accuracy Risk and the POI](https://drive.google.com/file/d/0B-Gzj6gcSXKrU0hONEJhd09Fb2c/view)

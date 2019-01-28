@@ -61,10 +61,12 @@ Rosenbaum and Rubin (1984) Sensitivity of Bayes Inference with Data Dependant St
 
 Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
 
-**Week5**
+**Week5 and Week 6**
 
 [Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
 
 [Pettigrew (2014), Accuracy Risk and the POI](https://drive.google.com/file/d/0B-Gzj6gcSXKrU0hONEJhd09Fb2c/view)
 
 [Jaynes (2003), Probability Theory: The Logic of Science](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
+
+For Jaynes, read Chapter 11, and consider whether there are other topics in the text you would be interested in presenting on. 

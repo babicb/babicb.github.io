@@ -20,7 +20,7 @@ Two 2000-3000 word essays (30 percent each), presentation (20 percent), and clas
 
 First essay: February 22. Second essay: March 18.
 
-[First essay topics](teaching/peb19/essay1)
+[First essay topics](peb19/essay1.md)
 
 ## Overview 
 

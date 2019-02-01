@@ -73,6 +73,8 @@ Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
 
 [Berger 2009: The Formal Definition of Reference Priors](https://arxiv.org/pdf/0904.0156.pdf)
 
+[Vasudevan 2018: Entropy and Insufficient Reason](/teaching/peb19/vasudevan.pdf)
+
 For Jaynes, read Chapter 11, and consider whether there are other topics in the text you would be interested in presenting on. 
 
 **Week 6 Model Selection and Multiple Comparisons**

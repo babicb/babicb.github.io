@@ -1,4 +1,4 @@
-## HPS/Pl 122: Probability Evidence and Belief 
+#### HPS/Pl 122: Probability Evidence and Belief 
 
 ### First Paper Topics
 

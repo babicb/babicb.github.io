@@ -61,7 +61,7 @@ Rosenbaum and Rubin (1984) Sensitivity of Bayes Inference with Data Dependant St
 
 Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
 
-**Week 5 and Week 6**
+**Week 5 Priors (overly long list)**
 
 [Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
 
@@ -69,4 +69,13 @@ Berger and Wolpert (1988) The Likelihood Principle (Chapters 4.1, 4.2, and 4.4)
 
 [Jaynes (2003), Probability Theory: The Logic of Science](http://www.med.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheory.pdf)
 
+[Berger 2009: The Formal Definition of Reference Priors](https://arxiv.org/pdf/0904.0156.pdf)
+
 For Jaynes, read Chapter 11, and consider whether there are other topics in the text you would be interested in presenting on. 
+
+**Week 6 Model Selection and Multiple Comparisons**
+
+[Gelman 2012: Philosophy and the Practice of Bayesian Statistics](http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf)
+
+[Gelman 2013: The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+

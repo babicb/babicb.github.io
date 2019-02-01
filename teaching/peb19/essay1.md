@@ -1,6 +1,6 @@
 #### HPS/Pl 122: Probability Evidence and Belief 
 
-### First Paper Topics
+#### First Paper Topics
 
 Papers Due: February 22 (by e-mail to instructor) 
 

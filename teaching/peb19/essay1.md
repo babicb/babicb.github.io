@@ -22,5 +22,5 @@ Explain the notion of a stopping rule, focusing on the distinctions we examined 
 
 #### Topic 4: Priors 
 
-TBD. 
+Explain the maximum information entropy approach to identifying priors in Bayesian inference, comparing (as necessary) to the Laplacean Principle of Indifference and Jeffreys' invariance method. What is the Judy Benjamin Problem and why is it a problem for entropy maximizers? Do you find it persuasive or not? 
 

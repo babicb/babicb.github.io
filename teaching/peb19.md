@@ -97,8 +97,7 @@ NOTE: the third article, below, is required reading for its presenter only, opti
 
 [Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
 
-[Huttegger (2013b), Learning Experiences and the Value of Knowledge(https://faculty.sites.uci.edu/shuttegg/files/2011/03/HutteggerVOK2014.pdf)
-
+[Huttegger (2013b), Learning Experiences and the Value of Knowledge](https://faculty.sites.uci.edu/shuttegg/files/2011/03/HutteggerVOK2014.pdf)
 
 
 Presentation slots:
@@ -113,4 +112,4 @@ Presentation slots:
 
 5) Huttegger 2013b
 
-Notes: Huttegger 2013b is a shorter (10 page article), though it is involved. I will take into account the relative difficulty of your assigned material in grading your presentation. In other words: if you take Huttegger2013b for yourself, I will cut you some more slack, relative to if you are doing half of one of the other articles, where you expect your part to be more polished. 
+Presentation notes: Huttegger 2013b is a shorter (10 page article), though it is involved. I will take into account the relative difficulty of your assigned material in grading your presentation. In other words: if you take Huttegger2013b for yourself, I will cut you some more slack, relative to if you are doing half of one of the other articles, where you expect your part to be more polished. 

@@ -83,3 +83,34 @@ For Jaynes, read Chapter 11, and consider whether there are other topics in the 
 
 [Gelman 2013: The Garden of Forking Paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 
+**Week 7 Belief Update** 
+
+Greaves and Wallace, Justifying Conditionalization 
+
+Arntzenius, Some Problems with Conditionalization and Reflection 
+
+**Week 8 Belief Update** 
+
+NOTE: the third article, below, is required reading for its presenter only, optional for everyone else. 
+
+[Huttegger (2013a), In Defense of Reflection](https://faculty.sites.uci.edu/shuttegg/files/2011/03/HutteggerReflection.pdf)
+
+[Meacham (Forthcoming), Ur Priors, Conditionalization](https://philpapers.org/archive/MEAUCA.pdf)
+
+[Huttegger (2013b), Learning Experiences and the Value of Knowledge(https://faculty.sites.uci.edu/shuttegg/files/2011/03/HutteggerVOK2014.pdf)
+
+
+
+Presentation slots:
+
+1) Huttegger 2013a, section 1-3
+
+2) Huttegger 2013a, section 4-6
+
+3) Meacham, section 1-3
+
+4) Meacham, section 4-7 
+
+5) Huttegger 2013b
+
+Notes: Huttegger 2013b is a shorter (10 page article), though it is involved. I will take into account the relative difficulty of your assigned material in grading your presentation. In other words: if you take Huttegger2013b for yourself, I will cut you some more slack, relative to if you are doing half of one of the other articles, where you expect your part to be more polished. 

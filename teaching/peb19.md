@@ -104,12 +104,12 @@ Presentation slots:
 
 1) Huttegger 2013a, section 1-3
 
-2) Huttegger 2013a, section 4-6
+2) Huttegger 2013a, section 4-6 JING 
 
 3) Meacham, section 1-3
 
 4) Meacham, section 4-7 
 
-5) Huttegger 2013b
+5) Huttegger 2013b SIDDARTH 
 
 Presentation notes: Huttegger 2013b is a shorter (10 page article), though it is involved. I will take into account the relative difficulty of your assigned material in grading your presentation. In other words: if you take Huttegger2013b for yourself, I will cut you some more slack, relative to if you are doing half of one of the other articles, where I expect your part to be more polished. 

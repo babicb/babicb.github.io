@@ -102,11 +102,11 @@ NOTE: the third article, below, is required reading for its presenter only, opti
 
 Presentation slots:
 
-1) Huttegger 2013a, section 1-3
+1) Huttegger 2013a, section 1-3 DENNIS 
 
 2) Huttegger 2013a, section 4-6 JING 
 
-3) Meacham, section 1-3
+3) Meacham, section 1-3 VEB
 
 4) Meacham, section 4-7 
 

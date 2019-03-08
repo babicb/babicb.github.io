@@ -99,17 +99,27 @@ NOTE: the third article, below, is required reading for its presenter only, opti
 
 [Huttegger (2013b), Learning Experiences and the Value of Knowledge](https://faculty.sites.uci.edu/shuttegg/files/2011/03/HutteggerVOK2014.pdf)
 
+**Week 9 New Hypotheses and Convergence to the Truth ** 
+
+Note: this can be a "choose your adventure" week. I posted the articles I have mentioned in class to give you a sense of where you might go further if you are interested in some of these topics. For the presenters, you have to pick one to present on! There are more articles than presenters, so look through, and e-mail me what you'd like to present on. I'll assign them on a first come first serve basis. One presenter per article. I realize this means more content to present on, as compared to this week, but I will correspondingly adjust my standards for how much you can reasonably be expected to do (for exmaple, you don't have to work through every definition, lemma, theorem, proof, etc. -- if you want to do one of the hard articles jut focus on explaining the core idea and results to us as best you can). 
+
+New Hypotheses: 
+
+[Ortoleva 2012](http://pietroortoleva.com/papers/Ortoleva_HTModel.pdf)
+
+[Karni-Viero2013](http://www.ma.huji.ac.il/~yulia_g/Edi%20Karni%20awareness_aer-second%20revision.pdf)
+
+Convergence to the truth:
+
+[Pomatto 2017](http://www.its.caltech.edu/~lpomatto/an_axiomatic_theory.pdf)
+
+[Belot 2013](https://sites.google.com/site/gordonbelot/home/papers-etc/bayesian-orgulity) (click "preprint" for pdf of paper). 
 
 Presentation slots:
 
-1) Huttegger 2013a, section 1-3 DENNIS 
+1) 
 
-2) Huttegger 2013a, section 4-6 JING 
+2)  
 
-3) Meacham, section 1-3 VEB
+3) 
 
-4) Meacham, section 4-7 
-
-5) Huttegger 2013b SIDDARTH 
-
-Presentation notes: Huttegger 2013b is a shorter (10 page article), though it is involved. I will take into account the relative difficulty of your assigned material in grading your presentation. In other words: if you take Huttegger2013b for yourself, I will cut you some more slack, relative to if you are doing half of one of the other articles, where I expect your part to be more polished. 

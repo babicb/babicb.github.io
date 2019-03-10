@@ -117,9 +117,9 @@ Convergence to the truth:
 
 Presentation slots:
 
-1) 
+1) BELOT 2013 -- ROBERT 
 
-2)  
+2) POMATTO 2017 -- GREG 
 
-3) 
+3) ORTOLEVA OR KARNI -- CHARLES 
 

@@ -22,6 +22,8 @@ First essay: February 22. Second essay: March 18.
 
 [First essay topics](peb19/essay1.md)
 
+[Second essay topics](peb19/essay2.md)
+
 ## Overview 
 
 This course will be an advanced research level seminar in Bayesian or probabilistic epistemology. Bayesian epistemology adopts a decision theoretic perspective to the selection and assessment of belief states. In this sense, it finds applications in philosophical analysis, economic theory, and statistical decision theory. We will read recent papers on probabilism, conditioning, accuracy, calibration, symmetry, (in)coherence, priors, information entropy, convergence, and other recent topics in the field.

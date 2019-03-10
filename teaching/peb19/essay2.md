@@ -21,7 +21,7 @@ Is it persuasive? Why or why not? You may also want to consider Huttegger's more
 
 We discussed in class how to update beliefs after a "learning" experience that involves a change in one's values (the scare quotes
 are there to remind you that it is an open question whether such a thing constitutes a learning experience). In a recent paper, 
-Dmitri Gallow takes up learning and value change (available [here](http://pitt.edu/~jdg83/publication/pdfs/lavc.pdf). 
+Dmitri Gallow takes up learning and value change (available [here](http://pitt.edu/~jdg83/publication/pdfs/lavc.pdf)). 
 Explain Gallow's argument. Do you find it persuasive? Why or why not? 
 
 #### Topic 4: The Problem of new hypotheses
@@ -29,8 +29,7 @@ Explain Gallow's argument. Do you find it persuasive? Why or why not?
 We talked quite a bit about how Bayesians can handle an increasing hypothesis space -- i.e., what happens when we learn 
 something that we did not consider in our formulation of the problem. There are several ways to make this more precise: 
 i.e., what happens when we learn that our partition of the logical space was incorrect; what happens when a probability zero
-event occurs. We have two articles on this, from the economics literature. Karni and Ortoleva. Choose one of them. Explain the
-argument. Discuss whether we can use it to account for the problem of new hypotheses. Why or why not? 
+event occurs. We have two articles on this, from the economics literature -- Karni and Ortoleva. Choose one of them. Explain the argument. Discuss whether we can use it to account for the problem of new hypotheses. Why or why not? 
 
 #### Topic 5: Error Correction 
 
@@ -41,5 +40,5 @@ Do you think this is a problem for Bayesians? Why or why not? If it is, how can 
 
 #### Topic 6: Model Selection 
 
-There are many directions for a paper in this area. If you want to write on model selection, we shoudl talk in office hours. 
+There are many directions for a paper in this area. If you want to write on model selection, we should talk in office hours. 
 Start from the Gelman article but you would have to do some extra research for this topic. 

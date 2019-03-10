@@ -11,7 +11,7 @@ Word limit: 2000 words
 Arntzenius argues against conditionalization as a rational norm for belief change. Explain his arguments -- focusing on one or two 
 of his problem cases rather than all of them. Are they persuasive? Why or why not?
 
-#### Topic 1: Updating Theory 
+#### Topic 2: Updating Theory 
 
 Explain Greaves and Wallace's argument for conditionalization. Recently, [Miriam Schoenfield](http://www.miriamschoenfield.com/F/conditionalization-final.pdf) 
 has argued that conditionalization does not in general maximize expected accuracy. Explain Schoenfield's argument. 

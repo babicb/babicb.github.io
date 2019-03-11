@@ -42,3 +42,9 @@ Do you think this is a problem for Bayesians? Why or why not? If it is, how can 
 
 There are many directions for a paper in this area. If you want to write on model selection, we should talk in office hours. 
 Start from the Gelman article but you would have to do some extra research for this topic. 
+
+#### Topic 7: The "Piranha" Problem (a more ambitious modeling project)
+
+Info [here](https://statmodeling.stat.columbia.edu/2018/03/07/important-statistical-theory-research-project-perfect-stat-grad-students-ambitious-undergrads/). If you'd like to work on this, come to office hours. 
+
+

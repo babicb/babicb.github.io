@@ -16,6 +16,22 @@ Location: B119 Baxter.
 
 Office Hours: Tuesdays 1:30-2:30pm. 
 
+## Schedule 
+
+**Tues April 2: Introduction** 
+
+Readings: None
+
+Presenters: None
+
+
+**Thur April 4: From Belief to Credence**
+
+Readings: [Ramsey, Truth and Probability](https://core.ac.uk/download/pdf/7048428.pdf), s3-s5 (pgs. 12-31)
+
+Presenters: John Wang
+
+
 ## Presentation schedule
 
 Tues April 2: 

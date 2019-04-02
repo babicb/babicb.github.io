@@ -24,7 +24,7 @@ Readings: None
 
 Presenters: None
 
-<br/><br/>
+<br/>
 
 **Thur April 4: From Belief to Credence**
 

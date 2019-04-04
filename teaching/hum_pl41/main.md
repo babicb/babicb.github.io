@@ -34,7 +34,7 @@ Presenters: John Wang
 
 **Tues April 9: Credence, Risk, and Rationality** 
 
-Readings: [Buchak 2017: Risk and Rationality (Precis)](hum_pl41/BuchakPrecis.pdf), [Joyce 2017: Comment on 'Risk and Rationality'](hum_pl41/JoyceComment.pdf)
+Readings: [Buchak 2017: Risk and Rationality (Precis)](hum_pl41/BuchakPrecis.pdf), and [Joyce 2017: Comment on 'Risk and Rationality'](hum_pl41/JoyceComment.pdf)
 
 Presenters: Steve Chen
 

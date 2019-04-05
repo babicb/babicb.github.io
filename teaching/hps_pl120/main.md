@@ -32,9 +32,9 @@ Presenters: None
 
 **Thur April 25: Falsificationism** 
 
-Readings: 
+Readings: Popper, Logic of Scientific Discovery (Chs 1, 2, and 4)
 
-Presenters: Abhisnek Lingineni, Aadyot Bhatnagar
+Presenters: Abhisnek Lingineni (Chs 1-2), Aadyot Bhatnagar (Ch 4)
 
 <br/>
 

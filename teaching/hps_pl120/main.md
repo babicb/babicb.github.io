@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: "HPL/PL 120: Intro to Philosophy of Science"
+title: "HPL/PL 120"
 meta-title: "DGL"
 ---
 

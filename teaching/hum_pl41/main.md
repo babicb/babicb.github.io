@@ -58,7 +58,7 @@ Presenters: None
 
 <br/>
 
-**Tues April 23: From Risk to Accuracy ** 
+**Tues April 23: From Risk to Accuracy** 
 
 Readings: 
 
@@ -66,7 +66,7 @@ Presenters: David Wu
 
 <br/>
 
-**Thur April 25: ** 
+**Thur April 25:** 
 
 Readings: 
 
@@ -74,7 +74,7 @@ Presenters: Daniel Zhou
 
 <br/>
 
-**Tues April 30: ** 
+**Tues April 30:** 
 
 Readings: 
 
@@ -82,7 +82,7 @@ Presenters: Peter Kulits
 
 <br/>
 
-**Thur May 2: ** 
+**Thur May 2:** 
 
 Readings: 
 
@@ -90,7 +90,7 @@ Presenters: Spiro Stameson
 
 <br/>
 
-**Tues May 7: ** 
+**Tues May 7:** 
 
 Readings: 
 
@@ -98,7 +98,7 @@ Presenters: Emily Du
 
 <br/>
 
-**Thur May 9: ** 
+**Thur May 9:** 
 
 Readings: 
 
@@ -106,7 +106,7 @@ Presenters: Myra Cheng, Jae Yoon Kim
 
 <br/>
 
-**Tues May 14: ** 
+**Tues May 14:** 
 
 Readings: 
 
@@ -114,7 +114,7 @@ Presenters: Jannie Yu
 
 <br/>
 
-**Thur May 16: ** 
+**Thur May 16:** 
 
 Readings: 
 
@@ -122,7 +122,7 @@ Presenters: Akshay Yeluri
 
 <br/>
 
-**Tues May 21: ** 
+**Tues May 21:** 
 
 Readings: 
 
@@ -130,7 +130,7 @@ Presenters: Ann Caplin, Serena Yan
 
 <br/>
 
-**Thur May 23: ** 
+**Thur May 23:** 
 
 Readings: 
 
@@ -138,7 +138,7 @@ Presenters: Dawson Beautter
 
 <br/>
 
-**Tues May 28: ** 
+**Tues May 28:** 
 
 Readings: 
 
@@ -146,7 +146,7 @@ Presenters: Grace Lu
 
 <br/>
 
-**Thur May 30: ** 
+**Thur May 30:** 
 
 Readings: 
 
@@ -154,7 +154,7 @@ Presenters: Kevin Huang
 
 <br/>
 
-**Tues June 4: ** 
+**Tues June 4:** 
 
 Readings: 
 
@@ -162,7 +162,7 @@ Presenters: Julia Sloan
 
 <br/>
 
-**Thur June 6: ** 
+**Thur June 6:** 
 
 Readings: 
 
@@ -170,7 +170,7 @@ Presenters: Sarah Zou
 
 <br/>
 
-**Fri June 7: Wrap Up ** 
+**Fri June 7: Wrap Up** 
 
 Readings: None
 

@@ -32,58 +32,146 @@ Readings: [Ramsey, Truth and Probability](https://core.ac.uk/download/pdf/704842
 
 Presenters: John Wang
 
+<br/>
+
 **Tues April 9: Credence, Risk, and Rationality** 
 
 Readings: [Buchak 2017: Risk and Rationality (Precis)](BuchakPrecis.pdf), and [Joyce 2017: Comment on 'Risk and Rationality'](JoyceComment.pdf)
 
 Presenters: Steve Chen
 
+<br/>
 
-## Presentation schedule
+**Thur April 11: NO CLASS** 
 
-Tues April 2: 
+<br/>
 
-Thur April 4:
+**Tues April 16: Writing Workshop ** 
 
-Tues April 9: 
+Readings: None 
 
-Thur April 11: NO CLASS 
+Presenters: None
 
-Tues April 16: WRITING WORKSHOP 
+<br/>
 
-Thursday April 18: NO CLASS
+**Thur April 18: No Class** 
 
-Tues April 23: 
+<br/>
 
-Thursday April 25:
+**Tues April 23: From Risk to Accuracy ** 
 
-Tues April 30: 
+Readings: 
 
-Thurday May 2:
+Presenters: David Wu
 
-Tues May 7:
+<br/>
 
-Thur May 9:
+**Thur April 25: ** 
 
-Tues May 14:
+Readings: 
 
-Thur May 16:
+Presenters: Daniel Zhou 
 
-Tues May 21:
+<br/>
 
-Thur May 23:
+**Tues April 30: ** 
 
-Tues May 28:
+Readings: 
 
-Thur May 30:
+Presenters: Peter Kulits
 
-Tues June 4:
+<br/>
 
-Thur June 6:
+**Thur May 2: ** 
 
-Fri June 7: WRAP UP 
+Readings: 
 
+Presenters: Spiro Stameson
 
+<br/>
 
+**Tues May 7: ** 
 
+Readings: 
 
+Presenters: Emily Du
+
+<br/>
+
+**Thur May 9: ** 
+
+Readings: 
+
+Presenters: Myra Cheng, Jae Yoon Kim 
+
+<br/>
+
+**Tues May 14: ** 
+
+Readings: 
+
+Presenters: Jannie Yu
+
+<br/>
+
+**Thur May 16: ** 
+
+Readings: 
+
+Presenters: Akshay Yeluri
+
+<br/>
+
+**Tues May 21: ** 
+
+Readings: 
+
+Presenters: Ann Caplin, Serena Yan 
+
+<br/>
+
+**Thur May 23: ** 
+
+Readings: 
+
+Presenters: Dawson Beautter
+
+<br/>
+
+**Tues May 28: ** 
+
+Readings: 
+
+Presenters: Grace Lu 
+
+<br/>
+
+**Thur May 30: ** 
+
+Readings: 
+
+Presenters: Kevin Huang
+
+<br/>
+
+**Tues June 4: ** 
+
+Readings: 
+
+Presenters: Julia Sloan 
+
+<br/>
+
+**Thur June 6: ** 
+
+Readings: 
+
+Presenters: Sarah Zou
+
+<br/>
+
+**Fri June 7: Wrap Up ** 
+
+Readings: None
+
+Presenters: None

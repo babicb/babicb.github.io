@@ -60,7 +60,7 @@ Presenters: None
 
 **Tues April 23: From Risk to Accuracy** 
 
-Readings: 
+Readings: [Joyce (2009), secs. 1-9](http://www-personal.umich.edu/~jjoyce/papers/aac.pdf)
 
 Presenters: David Wu
 

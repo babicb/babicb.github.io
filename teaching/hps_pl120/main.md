@@ -22,144 +22,72 @@ Presenters: None
 
 <br/>
 
-**Thur April 4: From Belief to Credence**
-
-Readings: [Ramsey, Truth and Probability](https://core.ac.uk/download/pdf/7048428.pdf), s3-s5 (pgs. 12-31)
-
-Presenters: John Wang
+**Thur April 11: No Class** 
 
 <br/>
 
-**Thur April 11: NO CLASS** 
+**Thur April 18: Writing Workshop** 
 
 <br/>
 
-**Tues April 16: Writing Workshop ** 
-
-Readings: None 
-
-Presenters: None
-
-<br/>
-
-**Thur April 18: No Class** 
-
-<br/>
-
-**Tues April 23: From Risk to Accuracy** 
-
-Readings: [Joyce (2009), secs. 1-9](http://www-personal.umich.edu/~jjoyce/papers/aac.pdf)
-
-Presenters: David Wu
-
-<br/>
-
-**Thur April 25:** 
+**Thur April 25: Falsificationism** 
 
 Readings: 
 
-Presenters: Daniel Zhou 
+Presenters: Abhisnek Lingineni, Aadyot Bhatnagar
 
 <br/>
 
-**Tues April 30:** 
+**Thur May 2:**
 
 Readings: 
 
-Presenters: Peter Kulits
+Presenters: Nick Redd, Felipe Gomez
 
 <br/>
 
-**Thur May 2:** 
+**Thur May 9:**
 
 Readings: 
 
-Presenters: Spiro Stameson
+Presenters: Tanner Moore, Sean Yu
 
 <br/>
 
-**Tues May 7:** 
+**Thur May 16:**
 
 Readings: 
 
-Presenters: Emily Du
+Presenters: Mohith Manohara, Dana Gephart
 
 <br/>
 
-**Thur May 9:** 
+**Thur May 23:**
 
 Readings: 
 
-Presenters: Myra Cheng, Jae Yoon Kim 
+Presenters: Aaron Ayres, Alexa Lauinger, Zixiao Li
 
 <br/>
 
-**Tues May 14:** 
+**Thur May 30:**
 
 Readings: 
 
-Presenters: Jannie Yu
+Presenters: Kelsi Riley, Enrico Borba 
 
 <br/>
 
-**Thur May 16:** 
+**Thur June 6:**
 
 Readings: 
 
-Presenters: Akshay Yeluri
+Presenters: Melissa G. Gonzalez, Michaelangelo V. Caporale
 
 <br/>
 
-**Tues May 21:** 
+**Thur June 7:**
 
 Readings: 
 
-Presenters: Ann Caplin, Serena Yan 
-
-<br/>
-
-**Thur May 23:** 
-
-Readings: 
-
-Presenters: Dawson Beautter
-
-<br/>
-
-**Tues May 28:** 
-
-Readings: 
-
-Presenters: Grace Lu 
-
-<br/>
-
-**Thur May 30:** 
-
-Readings: 
-
-Presenters: Kevin Huang
-
-<br/>
-
-**Tues June 4:** 
-
-Readings: 
-
-Presenters: Julia Sloan 
-
-<br/>
-
-**Thur June 6:** 
-
-Readings: 
-
-Presenters: Sarah Zou
-
-<br/>
-
-**Fri June 7: Wrap Up** 
-
-Readings: None
-
-Presenters: None
+Presenters: Zachary Chase, Eitan Borgia 

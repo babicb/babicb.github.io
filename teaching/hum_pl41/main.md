@@ -16,6 +16,8 @@ Location: B119 Baxter.
 
 Office Hours: Tuesdays 1:30-2:30pm. 
 
+First essay topics are [here](essay1.md). 
+
 ## Schedule 
 
 **Tues April 2: Introduction** 

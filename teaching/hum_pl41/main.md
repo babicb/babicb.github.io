@@ -70,7 +70,7 @@ Presenters: David Wu
 
 **Thur April 25:** 
 
-Readings: 
+Readings: [Greaves and Wallace (2006)](http://users.ox.ac.uk/~mert2255/papers/conditionalization.pdf)
 
 Presenters: Daniel Zhou 
 

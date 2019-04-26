@@ -78,7 +78,7 @@ Presenters: Daniel Zhou
 
 **Tues April 30:** 
 
-Readings: 
+Readings: [Pettigrew 2014](https://drive.google.com/file/d/0B-Gzj6gcSXKrU0hONEJhd09Fb2c/view)
 
 Presenters: Peter Kulits
 
@@ -86,7 +86,7 @@ Presenters: Peter Kulits
 
 **Thur May 2:** 
 
-Readings: 
+Readings: [van Fraassen 1981](http://joelvelasco.net/teaching/122/vanfraassen81-judybenjamin.pdf)
 
 Presenters: Spiro Stameson
 

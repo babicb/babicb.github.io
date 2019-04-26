@@ -40,9 +40,9 @@ Presenters: Abhisnek Lingineni (Chs 1-2), Aadyot Bhatnagar (Ch 4)
 
 **Thur May 2:**
 
-Readings: [Strevens, Notes on BCT, chs. 5, 6, 7, 9](http://www.nyu.edu/classes/strevens/BCT/BCT.pdf) and [Gelman and Shalizi 2013](http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf)
+Readings: [Strevens, Notes on BCT](http://www.nyu.edu/classes/strevens/BCT/BCT.pdf) chs. 5, 6, 7, 9; and [Gelman and Shalizi 2013](http://www.stat.columbia.edu/~gelman/research/published/philosophy.pdf)
 
-Presenters: Nick Redd, Felipe Gomez
+Presenters: Nick Redd (Strevens), Felipe Gomez (Gelman)
 
 <br/>
 

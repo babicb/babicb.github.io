@@ -1,10 +1,12 @@
 ---
 layout: page 
-title: "HPL/PL 120"
-meta-title: "DGL"
+title: ""
+meta-title: ""
+bigimg:
+  - "/img/P718006624.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---
 
-Welcome to the Caltech intro philosophy of science course for Spring 2019. 
+Welcome to HPS/PL 120, Caltech's intro philosophy of science course for Spring 2019. 
 
 Meetings: Th 7-9:55pm. 
 

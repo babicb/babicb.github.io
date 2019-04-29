@@ -1,4 +1,4 @@
-#### Hps/Pl 120: Intro to Philosophy of Science 
+#### HPS/Pl 120: Intro to Philosophy of Science 
 
 #### First Paper Topics
 

@@ -14,6 +14,8 @@ Location: 117 Dabney.
 
 Office Hours: Tuesdays 1:30-2:30pm. 
 
+First paper [topics](essay1.md). 
+
 ## Schedule 
 
 **Thur April 4: Introduction** 

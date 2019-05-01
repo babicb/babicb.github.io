@@ -19,7 +19,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 10px 0;
+  margin: 5px 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -41,14 +41,14 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
+  margin: 10px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
 }
 
 .main-content {
-  padding-top: 60px;
+  padding-top: 30px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -152,7 +152,7 @@ img {
   padding-top: 5px;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 40px;
+  height: 30px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -268,9 +268,9 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 10px 0;
-  border-top: 1px #EAEAEA solid;
-  margin-top: 50px;
+  padding: 5px 0;
+  border-top: 0.5px #EAEAEA solid;
+  margin-top: 20px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
@@ -293,12 +293,12 @@ footer .list-inline {
 }
 footer .copyright {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  text-align: center;
+  text-align: left;
   margin-bottom: 0;
 }
 footer .theme-by {
-  text-align: center;
-  margin: 10px 0 0;
+  text-align: left;
+  margin: 5px 0 0;
 }
 
 @media only screen and (min-width: 768px) {

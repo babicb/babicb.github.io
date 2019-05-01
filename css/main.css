@@ -19,7 +19,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: -10px -10px;
+  margin: 0px 0px;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -48,7 +48,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 10px;
+  padding-top: 30px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -268,10 +268,10 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 0 0;
-  border-top: 0.25px #EAEAEA solid;
-  margin-top: 5px;
-  font-size: 12px;
+  padding: 5px 0;
+  border-top: 0.5px #EAEAEA solid;
+  margin-top: 20px;
+  font-size: 14px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});

@@ -8,7 +8,7 @@ layout: null
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 16px;
+  font-size: 17px;
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
@@ -19,7 +19,7 @@ body {
 }
 p {
   line-height: 1.5;
-  margin: 5px 0;
+  margin: -10px -10px;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -48,7 +48,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 30px;
+  padding-top: 10px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -143,7 +143,7 @@ img {
   transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
-  height: 50px;
+  height: 30px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
@@ -268,10 +268,10 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 5px 0;
-  border-top: 0.5px #EAEAEA solid;
-  margin-top: 20px;
-  font-size: 14px;
+  padding: 0 0;
+  border-top: 0.25px #EAEAEA solid;
+  margin-top: 5px;
+  font-size: 12px;
   background-color: {{ site.footer-col }};
   {% if site.footer-img %}
   background-image: url({{ site.footer-img }});

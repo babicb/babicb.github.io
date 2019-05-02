@@ -12,6 +12,43 @@ Hi! Welcome to my page. I am currently a postdoctoral scholar in philosophy of s
 
 **About Me**
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column" style=";">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style=";">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+
 ![profile_pic](/img/babic.jpg)
 
 From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk. 

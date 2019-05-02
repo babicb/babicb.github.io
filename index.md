@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Boris Babic
+css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Postdoctoral Scholar, California Institute of Technology"
 bigimg:
@@ -10,43 +11,6 @@ bigimg:
 Hi! Welcome to my page. I am currently a postdoctoral scholar in philosophy of science at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). The overarching theme of my research is **epistemic risk**. The core dimensions of this project span philosophy of science/formal epistemology, normative ethics, and law & public policy. The latter engages the emerging literature on fair AI and machine learning. You can learn more about epistemic risk by clicking on the Research tab. 
 
 **About Me**
-
-<style>
-* {
-  box-sizing: border-box;
-}
-
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
-<body>
-
-<h2>Two Equal Columns</h2>
-
-<div class="row">
-  <div class="column" style=";">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style=";">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
-</body>
 
 ![profile_pic](/img/babic.jpg)
 

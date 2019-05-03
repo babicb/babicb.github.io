@@ -68,7 +68,7 @@ Presenters: David Wu
 
 <br/>
 
-**Thur April 25:** 
+**Thur April 25: Belief Updating** 
 
 Readings: [Greaves and Wallace (2006)](http://users.ox.ac.uk/~mert2255/papers/conditionalization.pdf)
 
@@ -76,7 +76,7 @@ Presenters: Daniel Zhou
 
 <br/>
 
-**Tues April 30:** 
+**Tues April 30: Identifying Priors** 
 
 Readings: [Pettigrew 2014](https://drive.google.com/file/d/0B-Gzj6gcSXKrU0hONEJhd09Fb2c/view)
 
@@ -84,7 +84,7 @@ Presenters: Peter Kulits
 
 <br/>
 
-**Thur May 2:** 
+**Thur May 2: Minimal Information Methods** 
 
 Readings: [van Fraassen 1981](http://joelvelasco.net/teaching/122/vanfraassen81-judybenjamin.pdf)
 
@@ -92,17 +92,19 @@ Presenters: Spiro Stameson
 
 <br/>
 
-**Tues May 7:** 
+**Tues May 7: Convergence to the Truth ** 
 
-Readings: 
+Readings: [Belot, Bayesian Orgulity](https://sites.google.com/site/gordonbelot/home/papers-etc/bayesian-orgulity) 
+
+Notes: Click on the link, then follow "preprint" to access the pdf. You will also see on the linked page some other high quality responses to this paper, if you are interested. 
 
 Presenters: Emily Du
 
 <br/>
 
-**Thur May 9:** 
+**Thur May 9: Induction and Convergence** 
 
-Readings: 
+Readings: [Pomatto and Sandroni](http://www.its.caltech.edu/~lpomatto/an_axiomatic_theory.pdf)
 
 Presenters: Myra Cheng, Jae Yoon Kim 
 

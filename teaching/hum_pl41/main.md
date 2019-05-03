@@ -92,7 +92,7 @@ Presenters: Spiro Stameson
 
 <br/>
 
-**Tues May 7: Convergence to the Truth ** 
+**Tues May 7: Convergence to the Truth** 
 
 Readings: [Belot, Bayesian Orgulity](https://sites.google.com/site/gordonbelot/home/papers-etc/bayesian-orgulity) 
 

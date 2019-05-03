@@ -52,9 +52,11 @@ Presenters: Nick Redd (Strevens), Felipe Gomez (Gelman)
 
 **Thur May 9:**
 
-Readings: 
+Readings: [Belot, Bayesian Orgulity](https://sites.google.com/site/gordonbelot/home/papers-etc/bayesian-orgulity) (click on "preprint" to access the pdf), and [Pomatto and Sandroni](http://www.its.caltech.edu/~lpomatto/an_axiomatic_theory.pdf)
 
-Presenters: Tanner Moore, Sean Yu
+Presenters: Tanner Moore (Belot) , Sean Yu (Pomatto and Sandroni)
+
+Notes: you will find some other responses to Belot's claim, when you click on the link to his paper, above. 
 
 <br/>
 

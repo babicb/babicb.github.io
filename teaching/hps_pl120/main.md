@@ -62,11 +62,9 @@ Notes: you will find some other responses to Belot's claim, when you click on th
 
 **Thur May 16:**
 
-Readings: [Lindley 1976](lindley.pdf), [Goodman 1999](http://www.perfendo.org/docs/bayesprobability/5.3_goodmanannintmed99all.pdf) (focus on part 1, part 2 is optinal), [Bohannon 2015](https://io9.gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800) (last item is a pop article). 
+Readings: [Lindley 1976](lindley.pdf), [Goodman 1999](http://www.perfendo.org/docs/bayesprobability/5.3_goodmanannintmed99all.pdf) (focus on part 1, part 2 is optional), [Bohannon 2015](https://io9.gizmodo.com/i-fooled-millions-into-thinking-chocolate-helps-weight-1707251800) (last item is a pop article). 
 
-Presenters: Mohith Manohara
-
-Notes for presentation: Lindley and part 1 of Goodman is central. The rest only if helpful. 
+Presenters: Mohith Manohara. Notes for presentation: Lindley and part 1 of Goodman is central. The rest only if helpful. 
 
 <br/>
 

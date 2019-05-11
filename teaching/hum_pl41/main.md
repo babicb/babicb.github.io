@@ -112,7 +112,9 @@ Presenters: Myra Cheng, Jae Yoon Kim
 
 **Tues May 14:** 
 
-Readings: 
+Readings: [Williams 1970](https://www.uvm.edu/~lderosse/courses/metaph/Williams(1970).pdf)
+
+Optional: [Lewis 1976](http://home.sandiego.edu/~baber/metaphysics/readings/Lewis.SurvivalAndIdentity.pdf)
 
 Presenters: Jannie Yu
 
@@ -120,7 +122,9 @@ Presenters: Jannie Yu
 
 **Thur May 16:** 
 
-Readings: 
+Readings: [Parfit 1984, Ch 10](https://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/17613_101712.pdf)
+
+Screening: Futurama, The Prisoner of Benda 
 
 Presenters: Akshay Yeluri
 

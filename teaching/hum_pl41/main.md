@@ -132,9 +132,11 @@ Presenters: Akshay Yeluri
 
 **Tues May 21:** 
 
-Readings: 
+Readings: [SEP Free Will](https://plato.stanford.edu/entries/freewill/#ArguAgaiRealFreeWill), sections 2 and 3; [Roskies 2006](http://www.dartmouth.edu/~adinar/CV_files/TICS%20free%20will%20&%20MR.pdf)
 
-Presenters: Ann Caplin, Serena Yan 
+Presenters: Ann Caplin (SEP Entry), Serena Yan (Roskies) 
+
+Notes: Presentation on SEP entry does not have to be comprehensive. Focus on main themes and distinctions in discussion of nature of free will and whether it exists. 
 
 <br/>
 

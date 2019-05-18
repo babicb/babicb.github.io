@@ -134,7 +134,7 @@ Presenters: Akshay Yeluri
 
 Readings: [SEP Free Will](https://plato.stanford.edu/entries/freewill/#ArguAgaiRealFreeWill), sections 2 and 3; [Roskies 2006](http://www.dartmouth.edu/~adinar/CV_files/TICS%20free%20will%20&%20MR.pdf)
 
-Presenters: Ann Caplin (SEP Entry), Serena Yan (Roskies) 
+Presenters: Ann Caplin (SEP Entry, sections 2 and 3), Serena Yan (Roskies) 
 
 Notes: Presentation on SEP entry does not have to be comprehensive. Focus on main themes and distinctions in discussion of nature of free will and whether it exists. 
 
@@ -142,9 +142,11 @@ Notes: Presentation on SEP entry does not have to be comprehensive. Focus on mai
 
 **Thur May 23:** 
 
-Readings: 
+Readings: [Frankfurt (1971)](http://www.sci.brooklyn.cuny.edu/~schopra/Persons/Frankfurt.pdf)
 
 Presenters: Dawson Beautter
+
+Screening: Futurama, Free Wil Hunting
 
 <br/>
 

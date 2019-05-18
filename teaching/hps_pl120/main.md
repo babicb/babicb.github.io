@@ -70,9 +70,11 @@ Presenters: Mohith Manohara. Notes for presentation: Lindley and part 1 of Goodm
 
 **Thur May 23:**
 
-Readings: 
+Readings: [Ioannidis (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124); and [Gelman and Loken (2013)](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf); and [Simmons (2011)](fpp.pdf). 
 
-Presenters: Aaron Ayres, Alexa Lauinger, Zixiao Li
+Optional: [Nuzzo (2014)](https://www.nature.com/news/scientific-method-statistical-errors-1.14700), and [XKCD cartoon](https://xkcd.com/882/)
+
+Presenters: Aaron Ayres (Ioannidis), Alexa Lauinger (Gelman and Loken), Zixiao Li (Simmons)
 
 <br/>
 

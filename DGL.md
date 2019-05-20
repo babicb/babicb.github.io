@@ -7,12 +7,14 @@ bigimg:
 ---
 **Decisions, Games & Logic Workshop**
 
-The Decisions, Games & Logic (DGL) Workshop is a roughly biennial conference series founded by Richard Bradley at the London School of Economics in 2007 and has since been held at various universities around the world. 
+The 10th DGL Workshop will be held in June 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
 
-I am co-organizing, with Chris Hitchcock and Frederick Eberhardt, the 10th DGL Workshop, which will be held in June 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
+The schedule is available [here](DGL10_Program(4).pdf).
 
-The call for papers is now available [here](img/DGL2019_cfp.pdf).
+All talks will be held in Baxter Room B125. Participation is free and open to all. If you would like to attend and are not on the program please RSVP to caltech.dgl2019@gmail.com by June 1, 2019.
 
-The schedule will be posted March 2019.
+Directions to Caltech: [https://www.caltech.edu/about/visit/directions](https://www.caltech.edu/about/visit/directions).
 
-In 2016, I co-organized with Sara Aronowitz the [9th DGL Workshop](http://www-personal.umich.edu/~skaron/dgl/) at the University of Michigan, Ann Arbor. For earlier iterations of the Workshop, follow [this](http://personal.lse.ac.uk/marcoci/dgl2015/) link. 
+Campus parking ($6/day): [http://parking.caltech.edu/Parking](http://parking.caltech.edu/Parking).
+
+For earlier iterations of the Workshop, follow [this](http://www-personal.umich.edu/~skaron/dgl/) link. 

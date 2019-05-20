@@ -7,7 +7,7 @@ bigimg:
 ---
 **Decisions, Games & Logic Workshop**
 
-The 10th DGL Workshop will be held in June 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
+The 10th DGL Workshop will be held June 10-12 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
 
 The schedule is available [here](DGL10_Program(4).pdf).
 

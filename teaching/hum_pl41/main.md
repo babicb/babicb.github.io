@@ -18,6 +18,8 @@ Office Hours: Tuesdays 1:30-2:30pm.
 
 First essay topics are [here](essay1.md). 
 
+Second essay topics are [here](essay2.md).
+
 ## Schedule 
 
 **Tues April 2: Introduction** 

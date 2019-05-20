@@ -16,6 +16,8 @@ Office Hours: Tuesdays 1:30-2:30pm.
 
 First paper [topics](essay1.md). 
 
+Second paper [topics](essay2.md).
+
 ## Schedule 
 
 **Thur April 4: Introduction** 

@@ -154,7 +154,7 @@ Screening: Futurama, Free Wil Hunting
 
 **Tues May 28:** 
 
-Readings: [Nagel 1974](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf); and [Jackson 1982, Section I only](https://watermark.silverchair.com/pq32-0127.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAjkwggI1BgkqhkiG9w0BBwagggImMIICIgIBADCCAhsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMwhgTODcSJ28OUn2oAgEQgIIB7FatA9kOx2_voEBRiPJEINlCp1fd-cjAJWVXTycI9KbW6SoVCh8nIOWdwWAa7n9Cno47_RFwIF_aw1Gg-rcuJNiVxl2_aARwgW5p5q4UaKeYdiFpzzE1Gq6u94OFEeZypTNCy98udu3_7a_dkAoG9mbPLfDXi4j6hC6c6SqHKMjdG0ucQ1lvK5X04EO3UPnW6R4KImfpyHsyRbT3TlHFqUCUgYR9IUfclSbgnHI18FLWvaCd4bBOomAnhBSSCce85qphVxM7bCkUAQJvXNRxgvH0ahS__D7YO6N_wdylkQNFSJ7GSrkIYMzrecP01wsqchNGe9sR5p1Y4us6XzS1dY3UhTHwHEG6kAUpiOl0pRIHYQLJsx46boWtDHw-5Ei51UQMaMf1JjFfGKODjFgytteH74tE7p1vaesXg-7ttbCinQNDdww7El563VsXwQmZzNW_UKdRxigdpPuNenaKkBQCkZLcm0Rf8pSe0z4suwGn5_pSq8k78ceMRFlvRbqHMLFLObzx5PaPhb9s5sc7bOmm1sii1WjFORVyWl-nRaGRdjK1v9gNpJ3Y3Q3rFLic8qtWuyhh9IIdCHB-f7iDosJT4vOyzZFCqSzVWwrjN5cIXt9MDhs5LTNlAT6E9iuZhWWmr0MPw9zjopVXMQ)
+Readings: [Nagel 1974](https://warwick.ac.uk/fac/cross_fac/iatl/study/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf); and [Jackson 1982, Section I only](jackson.pdf)
 
 Presenters: Grace Lu 
 

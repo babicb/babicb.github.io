@@ -82,9 +82,9 @@ Presenters: Aaron Ayres (Ioannidis), Alexa Lauinger (Gelman and Loken), Zixiao L
 
 **Thur May 30:**
 
-Readings: 
+Readings: [Huttegger (2015)](https://faculty.sites.uci.edu/shuttegg/files/2011/03/PPRFinal.pdf), and [Steele and Stefansson (draft)](steele.pdf)
 
-Presenters: Kelsi Riley, Enrico Borba 
+Presenters: Eitan Borgia, Enrico Borba 
 
 <br/>
 
@@ -96,8 +96,8 @@ Presenters: Melissa G. Gonzalez, Michaelangelo V. Caporale
 
 <br/>
 
-**Thur June 7:**
+**Fri June 7:**
 
 Readings: 
 
-Presenters: Zachary Chase, Eitan Borgia 
+Presenters: Zachary Chase

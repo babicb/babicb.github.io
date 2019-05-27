@@ -84,7 +84,7 @@ Presenters: Aaron Ayres (Ioannidis), Alexa Lauinger (Gelman and Loken), Zixiao L
 
 Readings: [Huttegger (2015)](https://faculty.sites.uci.edu/shuttegg/files/2011/03/PPRFinal.pdf), and [Steele and Stefansson (draft)](steele.pdf)
 
-Presenters: Eitan Borgia, Enrico Borba 
+Presenters: Eitan Borgia (Huttegger), Enrico Borba (S&S)
 
 <br/>
 

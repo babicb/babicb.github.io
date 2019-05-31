@@ -90,9 +90,9 @@ Presenters: Eitan Borgia (Huttegger), Enrico Borba (S&S)
 
 **Thur June 6:**
 
-Readings: 
+Readings: [Sober 2002](https://827166e3-a-bf4ca052-s-sites.googlegroups.com/a/wisc.edu/sober/selected-papers/PS%202002%20InstrumentalismParsimonyandAkaike.pdf?attachauth=ANoY7cq2qPbIseMzWC9j5-yo8cZK0RQ9w4wApKZy5I3cn66_TwJHifr1b_tP-gJP1LFLL0gvM-ZyRjohSgQ-eP4cLsceRoj4jdknb3YWYrgZ8S3ilrWDcxED14r5Xp_maSEnwh6bQsQa2J9BTFiDqgXBSfV7zOkZFLOUhnFVkxWpl9EmM35xqu6GjhZ8BmjR5opSSRP_0IptZchENPm8KYL9DBJBl_mByRuK42bD_l9z7GolDv4NeLVhxJ2Hcxjhe-dUisThmGHc&attredirects=0), [Sober 2016](https://aeon.co/essays/are-scientific-theories-really-better-when-they-are-simpler), [Breitenbach 2015](http://angelabreitenbach.weebly.com/uploads/5/7/5/7/57579773/breitenbach-beautyproofs.pdf), [Hajek 2009](https://link.springer.com/article/10.1007%2Fs10670-009-9154-1)
 
-Presenters: Melissa G. Gonzalez, Michaelangelo V. Caporale
+Presenters: Melissa (Breitenbach), Michaelangelo (2 Sober articles), Zach (Hajek)
 
 <br/>
 

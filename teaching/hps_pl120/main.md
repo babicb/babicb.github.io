@@ -96,8 +96,3 @@ Presenters: Melissa (Breitenbach), Michaelangelo (2 Sober articles), Zach (Hajek
 
 <br/>
 
-**Fri June 7:**
-
-Readings: 
-
-Presenters: Zachary Chase

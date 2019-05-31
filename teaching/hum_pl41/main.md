@@ -170,22 +170,17 @@ Presenters: Kevin Huang
 
 **Tues June 4:** 
 
-Readings: 
+Readings: [Steward 2015](https://www.philosophersmag.com/essays/38-do-animals-have-free-will), [Steward 2009](https://www.tandfonline.com/doi/full/10.1080/00201740902917119)
 
-Presenters: Julia Sloan 
+Presenters: Julia Sloan (Note: focus on Steward 2009, because Steward 2015 is a popular article) 
 
 <br/>
 
 **Thur June 6:** 
 
-Readings: 
+Readings: [Churchland 1990](http://sils.shoin.ac.jp/~gunji/AI/CR/sciam90couldamachinethink.pdf), [Churchland 1994](https://www.jstor.org/stable/3130741?seq=1#metadata_info_tab_contents)
 
 Presenters: Sarah Zou
 
 <br/>
 
-**Fri June 7: Wrap Up** 
-
-Readings: None
-
-Presenters: None

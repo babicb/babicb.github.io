@@ -9,9 +9,9 @@ bigimg:
 
 The 10th DGL Workshop will be held June 10-12 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 
 
-The schedule is available [here](img/dglprogram.pdf).
+The schedule is available [here](img/dgl10_final_program.pdf).
 
-All talks will be held in Baxter Room B125. Participation is free and open to all. If you would like to attend and are not on the program please RSVP to caltech.dgl2019@gmail.com by June 1, 2019.
+All talks will be held in Baxter Room B125. 
 
 Directions to Caltech: [https://www.caltech.edu/about/visit/directions](https://www.caltech.edu/about/visit/directions).
 

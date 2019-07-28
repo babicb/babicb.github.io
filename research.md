@@ -8,9 +8,9 @@ bigimg:
 
 **Publications**
 1. A Theory of Epistemic Risk  
-  **Philosophy of Science** (forthcoming) [PDF](research/babic_ter.pdf)
+  **Philosophy of Science** (2019) [PDF](research/babic_ter.pdf)
 2. Moral Obligations and Epistemic Risk (with Zoë Johnson-King)  
-  **Oxford Studies in Normative Ethics** (prov. forthcoming, e-mail for draft)
+  **Oxford Studies in Normative Ethics** (forthcoming 2019, e-mail for draft)
   
 **Work in Progress** 
 

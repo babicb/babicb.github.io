@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Boris Babic
+subtitle: INSEAD
 css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Postdoctoral Scholar, California Institute of Technology"

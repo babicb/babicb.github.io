@@ -9,6 +9,47 @@ bigimg:
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
 
+<html>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+</body>
+</html>
+
 Hi! Welcome to my page. I recently joined [INSEAD](https://www.insead.edu/) as an Assistant Professor in the Decision Sciences department. Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) foundational questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial technology and machine learning in organizations. 
 
 <!--- The overarching theme of my research is **epistemic risk**. The core dimensions of this project span philosophy of science/formal epistemology, normative ethics, and law & public policy. The latter engages the emerging literature on fair AI and machine learning. You can learn more about epistemic risk by clicking on the Research tab. --> 

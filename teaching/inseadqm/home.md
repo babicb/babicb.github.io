@@ -72,6 +72,8 @@ All materials will also be posted to the course Canvas page, should you find it 
  * LaTeX file 
  * Mathematica notebook
  * R notebook 
+ * [Beginner's guide to R](http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf) 
+ * [Intermediate guide to R](https://r4ds.had.co.nz/index.html)
  
 
 <p><b><font size="6"><font color="006E51">Session 5</font></font></b></p>

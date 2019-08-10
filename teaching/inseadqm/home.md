@@ -15,27 +15,16 @@ You can find the syllabus [here](001qm_syllabus_babic.pdf) and the schedule [her
 These materials will also be posted to the course Canvas page, should you find it easier to retrieve them from Canvas. 
  
 
-#### Session 1
 
-<p><b><font size="10"><font color="8F2727">New Session 1 hey there</font></font></b></p>
+<p><b><font size="6"><font color="006E51">Session 1</font></font></b></p>
 
-<p><b><font size="11"><font color="004990">New Session 1 how about this</font></font></b></p>
-
-<p><b><font size="12"><font color="B8274C">New Session 1 final choice</font></font></b></p>
-
-<p><b><font size="6"><font color="A0CE67">New Session 1 hey there</font></font></b></p>
-
-<p><b><font size="24"><font color="006E51">New Session 1 hey there</font></font></b></p>
-
-<p><b><font size="8"><font color="A0CE67">One last try</font></font></b></p>
-
-**Main Content**
+<p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
  * Reading 1
  * Exercise
  * Solutions
 
-**Miscallaneous Content**
+<p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * LaTeX file 
  * Python notebook
 

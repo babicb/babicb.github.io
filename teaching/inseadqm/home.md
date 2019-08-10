@@ -17,7 +17,11 @@ These materials will also be posted to the course Canvas page, should you find i
 
 #### Session 1
 
-<p><b><font size="10"><font color="8F2727">New Session 1</font></font></b></p>
+<p><b><font size="10"><font color="8F2727">New Session 1 hey there</font></font></b></p>
+
+<p><b><font size="11"><font color="8F2727">New Session 1 how about this</font></font></b></p>
+
+<p><b><font size="12"><font color="8F2727">New Session 1 final choice</font></font></b></p>
 
 **Main Content**
  * Lecture Notes 

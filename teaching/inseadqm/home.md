@@ -2,9 +2,9 @@
 layout: page 
 title: ""
 meta-title: ""
-bigimg:
-  - "/img/insead_logo2.png" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---
+
+![profile_pic](/img/insead_logo2.png)
 
 # Applied Quantitative Methods for Management, Economics and Finance
 

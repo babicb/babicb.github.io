@@ -4,7 +4,7 @@ title: Boris Babic
 subtitle: Assistant Professor of Decision Sciences, INSEAD
 css: "/css/index.css"
 meta-title: "Boris Babic"
-meta-description: "Postdoctoral Scholar, California Institute of Technology"
+meta-description: "Asistant Professor, INSEAD"
 bigimg:
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---

@@ -9,6 +9,8 @@ bigimg:
 # Applied Quantitative Methods for Management, Economics and Finance
 
 Welcome to INSEAD's 2019 Quantitative Methods course in the Business Foundations Programme! I will post all materials to this page so as to provide a one-stop-shop for lecture notes, handouts, readings, exercises and solutions, cases and solutions, and supplemantary material.  
+
+The materials will also be on the course Canvas page, should you find it easier to retrieve them from there. 
  
 
 ## Session 1 

@@ -15,7 +15,7 @@ You can find the syllabus [here](001qm_syllabus_babic.pdf) and the schedule [her
 These materials will also be posted to the course Canvas page, should you find it easier to retrieve them from Canvas. 
  
 
-#### Session 1 
+#### <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 **Main Content**
  * Lecture Notes 
  * Reading 1

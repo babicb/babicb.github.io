@@ -17,14 +17,14 @@ These materials will also be posted to the course Canvas page, should you find i
 
 #### Session 1 
 **Main Content**
-*Lecture Notes 
-*Reading 1
-*Exercise
-*Solutions
+ * Lecture Notes 
+ * Reading 1
+ * Exercise
+ * Solutions
 
 **Miscallaneous Content**
-* LaTeX file 
-* Python notebook
+ * LaTeX file 
+ * Python notebook
 
 #### Session 2
 

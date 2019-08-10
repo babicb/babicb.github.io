@@ -19,9 +19,13 @@ These materials will also be posted to the course Canvas page, should you find i
 
 <p><b><font size="10"><font color="8F2727">New Session 1 hey there</font></font></b></p>
 
-<p><b><font size="11"><font color="8F2727">New Session 1 how about this</font></font></b></p>
+<p><b><font size="11"><font color="004990">New Session 1 how about this</font></font></b></p>
 
-<p><b><font size="12"><font color="8F2727">New Session 1 final choice</font></font></b></p>
+<p><b><font size="12"><font color="B8274C">New Session 1 final choice</font></font></b></p>
+
+<p><b><font size="6"><font color="A0CE67">New Session 1 hey there</font></font></b></p>
+
+<p><b><font size="24"><font color="006E51">New Session 1 hey there</font></font></b></p>
 
 **Main Content**
  * Lecture Notes 

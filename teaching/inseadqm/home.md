@@ -18,7 +18,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
- * Reading 1
+ * [Reading 1](002MathReview.pdf)
  * [Exercise 1](exercise1.pdf)
  * Solutions
 
@@ -32,9 +32,9 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
- * Reading 1
- * Reading 2
- * Case A
+ * [Reading 1](004ExponentialLogarithmicFunctions.pdf)
+ * [Reading 2](005NotesonExponentsLogarithms.pdf)
+ * [Case A](motorcycles_a.pdf)
  * [Exercise 2](exercise2.pdf)
  * Solutions
 
@@ -46,11 +46,11 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
- * Reading 1
- * Reading 2
- * Supp reading 1
+ * [Reading 1 (Math Review from Session 1)](002MathReview.pdf)
+ * [Reading 2](008AnalyticMethodsforManagerialDecisionMaking.pdf)
+ * [Supp reading 1](009ConsumerChoiceandDemand.pdf)
  * Solutions to Case A
- * Case B
+ * [Case B](motorcycles_b.pdf)
  * [Exercise 3](exercise3.pdf)
  * Solutions
 
@@ -62,7 +62,8 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
- * Reading 1
+ * [Reading 1](012BasicStatisticsChapter2.pdf)
+ * [Reading 2](013BasicStatisticsChapter3.pdf)
  * Handout: Finding summary statistics in R
  * Solutions to Case B
  * [Exercise 4](exercise4.pdf)
@@ -80,8 +81,9 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
- * Reading 1
- * Handout: Using R as a lookup table
+ * [Reading 1](015BasicStatisticsChapter5.4.pdf]
+ * [Handout 1: Lookup table](016TableStandardizedNormalProbabilities.pdf)
+ * Handout 2: Using R as a lookup table
  * [Exercise 5](exercise5.pdf)
  * Solutions
 

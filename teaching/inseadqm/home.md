@@ -19,7 +19,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
  * Reading 1
- * Exercise
+ * [Exercise 1](exercise1.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
@@ -35,7 +35,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Reading 1
  * Reading 2
  * Case A
- * Exercise
+ * [Exercise 2](exercise2.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
@@ -51,7 +51,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Supp reading 1
  * Solutions to Case A
  * Case B
- * Exercise
+ * [Exercise 3](exercise3.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
@@ -65,7 +65,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Reading 1
  * Handout: Finding summary statistics in R
  * Solutions to Case B
- * Exercise
+ * [Exercise 4](exercise4.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
@@ -82,7 +82,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Lecture Notes 
  * Reading 1
  * Handout: Using R as a lookup table
- * Exercise
+ * [Exercise 5](exercise5.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>

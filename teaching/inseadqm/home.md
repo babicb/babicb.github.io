@@ -19,7 +19,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font color="A0CE67">Main content</font></b></p>
  * Lecture Notes 
  * [Reading 1](002MathReview.pdf)
- * [Exercise 1](exercise1.pdf)
+ * [Exercise 1](exercises1.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>

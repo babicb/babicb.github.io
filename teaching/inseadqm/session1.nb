@@ -1,0 +1,97 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 10.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2554,         88]
+NotebookOptionsPosition[      2119,         69]
+NotebookOutlinePosition[      2477,         85]
+CellTagsIndexPosition[      2434,         82]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["Plot[2*x + 4, {x, -3, 3}]", "Input",
+ CellChangeTimes->{3.774709341003694*^9}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.774677367895802*^9, 3.7746773695613413`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"Plot", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"1000", " ", "+", " ", "Q"}], ",", " ", 
+     RowBox[{"100", " ", "+", " ", 
+      RowBox[{"3", "*", "Q"}]}]}], "}"}], ",", " ", 
+   RowBox[{"{", 
+    RowBox[{"Q", ",", " ", 
+     RowBox[{"-", "1000"}], ",", " ", "800"}], "}"}], ",", "  ", 
+   RowBox[{"PlotLegends", "\[Rule]", "\"\<Expressions\>\""}]}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.774677358785262*^9, 3.774677436976096*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.774679697680381*^9, 3.7746796999349623`*^9}}],
+
+Cell[BoxData[
+ RowBox[{"Plot", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "-", "x", "-", "2"}], ",", " ", 
+     RowBox[{
+      RowBox[{"4", 
+       RowBox[{"x", "^", "2"}]}], "-", 
+      RowBox[{"12", "x"}], "+", "9"}], ",", " ", 
+     RowBox[{
+      RowBox[{"x", "^", "2"}], "-", 
+      RowBox[{"2", "x"}], "+", "3"}]}], "}"}], ",", " ", 
+   RowBox[{"{", 
+    RowBox[{"x", ",", " ", 
+     RowBox[{"-", "3"}], ",", " ", "4"}], "}"}], ",", "  ", 
+   RowBox[{"PlotLegends", "\[Rule]", "\"\<Expressions\>\""}]}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.774679736413334*^9, 3.774679792274488*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.774681117096962*^9, 3.774681139198948*^9}, {
+  3.7746811784403276`*^9, 3.7746812542974443`*^9}}]
+},
+WindowSize->{808, 751},
+WindowMargins->{{Automatic, 299}, {Automatic, 0}},
+FrontEndVersion->"10.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (December 10, \
+2015)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 84, 1, 29, "Input"],
+Cell[645, 23, 94, 1, 28, "Input"],
+Cell[742, 26, 481, 13, 28, "Input"],
+Cell[1226, 41, 94, 1, 28, "Input"],
+Cell[1323, 44, 644, 19, 28, "Input"],
+Cell[1970, 65, 145, 2, 28, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)

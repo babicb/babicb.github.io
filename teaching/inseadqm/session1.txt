@@ -1,0 +1,8 @@
+Plot[2*x + 4, {x, -3, 3}]
+
+In[217]:= Plot[{1000 + Q, 100 + 3*Q}, {Q, -1000, 800},  PlotLegends->"Expressions"]
+
+In[221]:=
+Plot[{x^2 - x - 2, 4*x^2 - 12*x + 9, x^2 - 2*x + 3}, {x, -3, 4}, 
+  PlotLegends -> "Expressions"]
+In[238]:= 

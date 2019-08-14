@@ -23,7 +23,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
- * [LaTeX file](session1_bb.tex) 
+ * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session1_bb.tex) 
  * [Python notebook](https://nbviewer.jupyter.org/github/babicb/babicb.github.io/blob/master/teaching/inseadqm/106session1.ipynb) 
  * [Mathematica notebook](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session1.txt)
 

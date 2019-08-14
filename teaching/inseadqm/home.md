@@ -17,13 +17,13 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font size="6"><font color="006E51">Session 1</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes 
+ * [Lecture Notes](session1_bb.pdf) 
  * [Reading 1](002MathReview.pdf)
  * [Exercise 1](exercises1.pdf)
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
- * LaTeX file 
+ * [LaTeX file](session1_bb.tex) 
  * [Python notebook](https://nbviewer.jupyter.org/github/babicb/babicb.github.io/blob/master/teaching/inseadqm/106session1.ipynb) 
  * [Mathematica notebook](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session1.txt)
 

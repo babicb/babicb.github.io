@@ -32,7 +32,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font size="6"><font color="006E51">Session 2</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes 
+ * [Lecture Notes](session2_bb.pdf)
  * [Reading 1](004ExponentialLogarithmicFunctions.pdf)
  * [Reading 2](005NotesonExponentsLogarithms.pdf)
  * [Case A](motorcycles_a.pdf)

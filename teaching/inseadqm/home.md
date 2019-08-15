@@ -20,7 +20,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Lecture Notes](session1_bb.pdf) 
  * [Reading 1](002MathReview.pdf)
  * [Exercise 1](exercises1.pdf)
- * Solutions
+ * [Solutions](exercise_solutions1.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session1_bb.tex) 

@@ -1,0 +1,11 @@
+
+Plot[{3^x, 4^x, 5^x}, {x, -2, 2}, PlotLegends->"Expressions", LegendPosition->{0.8,-0.8}]
+Needs["PlotLegends`"]
+
+Plot[{3^x, 4^x, 5^x}, {x, -2, 2}, PlotLegend->{"3^x", "4^x", "5^x"}, LegendPosition->{0.8,-0.8}]
+Plot[{2^x, 4^x, (1/3)^x, 0.2^x}, {x, -2, 2}]
+Plot[{E^x}, {x, -2, 2},  PlotLegend->{"e^x"}, LegendPosition->{1.0,-0.8}]
+Plot[{E^(0.03*x), E^(-0.03*x)}, {x, 0, 35}, PlotLegend->{"e^0.03x", "e^-0.03x"}, LegendPosition->{1.0,-0.8}]
+Plot[{E^(0.03*x), E^(-0.03*x)}, {x, 0, 35}, PlotLegend->{"e^0.03x", "e^-0.03x"}, LegendPosition->{1.0,-0.8}]
+Plot[{3^x, Log[3, x]}, {x, -2, 2}, PlotLegends->"Expressions"]
+Plot[{Log[E, x]}, {x, -2, 2}, PlotLegends->"Expressions"]

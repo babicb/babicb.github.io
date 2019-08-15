@@ -1,0 +1,553 @@
+\documentclass[xcolor=dvipsnames, 9pt]{beamer} % dvipsnames gives more built-in colors
+
+% theme and color settings
+\usetheme{Madrid}
+\useoutertheme[hideothersubsections, left, height=0pt]{sidebar}
+\useinnertheme{circles}
+
+\definecolor{insead_dark}{RGB}{0,110,91} 
+\definecolor{insead_light}{RGB}{160,206,103}
+\definecolor{fade}{HTML}{C1C7D0}
+\definecolor{light_red}{HTML}{DCBCBC}
+\definecolor{mid_red}{HTML}{B97C7C}
+\definecolor{dark_red}{HTML}{8F2727}
+
+\usecolortheme[named=insead_dark]{structure}
+\usefonttheme[onlymath]{serif}
+
+% some packages 
+\usepackage{xcolor}
+\usepackage{graphicx} 
+\usepackage{booktabs} 
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{setspace}
+\usepackage{tcolorbox}
+\usepackage{colortbl}
+
+%frontmatter
+\title[Session 2 (Exponents)]{\normalsize{MBA Business Foundations, \\Quantitative Methods: \\Session Two}}
+\author[Boris Babic, INSEAD]{Boris Babic, \\Assistant Professor of Decision Sciences}
+\institute[]{}
+\date{}
+
+%\beamerdefaultoverlayspecification{<+->}
+
+\begin{document}
+
+\setbeamertemplate{sidebar left}{}
+\begin{frame}
+\titlepage
+\vspace{-5em}
+\begin{center}
+\includegraphics[scale=0.4]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/insead_logo.png}
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Today}
+\begin{small}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{insead_dark}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{black}{ Exponents}\\ \textcolor{black}{ Application: interest rates}\\ \textcolor{black}{Exponential functions}\\ \textcolor{black}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{fade}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Logarithmic functions}\\ \textcolor{fade}{Logarithmic and exponential equations} \\ \textcolor{fade}{Case: pricing}\\ \textcolor{fade}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{fade}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Optimal decisions}\\ \textcolor{fade}{Case: production}\\\textcolor{fade}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{small}
+\end{frame}
+
+\setbeamertemplate{sidebar left}[sidebar theme]
+\section{Exponents}
+
+\begin{frame}
+\frametitle{Exponents}
+\begin{itemize}
+\item Essential for analysis of interest rates and growth. 
+\item Denotes repeated multiplication of the same quantity 
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.5]{expo_def.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponents}
+\begin{itemize}
+\item[] Examples:
+\item $3^4$
+\item $1.5^2$
+\item $\big( \frac{1}{2} \big)^2 $
+\item $(a + 2)^2 = $
+\item[] Solutions:
+\item $3^4 = 81$
+\item $1.5^2 = 2.25$
+\item $\big( \frac{1}{2} \big)^2 = \big( \frac{1}{4} \big)^2 $
+\item $(a + 2)^2 = a^2 + 4a + 4 $ (what kind of function?)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Some examples of exponential phenomena}
+\begin{center}
+\includegraphics[scale=0.25]{expo_life.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rules for exponents}
+
+\begin{table}[]
+\begin{tabular}{ll}
+Products & $b^c \cdot b^d = b^{c+d} $ \\
+\\ Powers & $(b^c)^d = (b^d)^c = b^{c \cdot d}$ \\
+\\ Negative exponents & $b^{-c} = \frac{1}{b^c}$ \\
+\\ Quotients & $\frac{b^c}{b^d} = b^{c-d}$ \\
+\\ Zero power & $b^0 = 1$ \\
+\\ Roots & $\sqrt[n]{b} = b^{1/n}$
+\end{tabular}
+\end{table}
+\end{frame}
+
+\begin{frame}
+\frametitle{The formulas in practice}
+Simplify the following: 
+
+\begin{itemize}
+\setlength\itemsep{1em}
+\item $(3^4)^2 =$ 
+\item $\frac{6^2}{6^5} =$ 
+\item $3^0 =$ 
+\item $27^{2/3} =$  
+\item $\bigg( \frac{x}{y} \bigg)^3 \cdot \bigg( \frac{x}{z} \bigg)^{-2}$
+\item $\frac{x^3y^2}{x^5y^{-2}}$
+\item $\frac{24x^5 y^3 z^7}{6x^3 y^2 z^4}$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solutions}
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item $(3^4)^2 = 3^8$ 
+\item $\frac{6^2}{6^5} = 6^{2-5} = 6^{-3} = \frac{1}{6^3}$ 
+\item $3^0 = 1$ 
+\item $27^{2/3} = \sqrt[3]{27^2}$  
+\item $\bigg( \frac{x}{y} \bigg)^3 \cdot \bigg( \frac{x}{z} \bigg)^{-2} = \bigg( \frac{x}{y} \bigg)^3 \cdot \bigg( \frac{z}{x} \bigg)^{2} = \frac{x^3z^2}{y^3x^2} = \frac{xz^2}{y^3}$
+\item $\frac{x^3y^2}{x^5y^{-2}} = \frac{x^3y^2y^2}{x^5} = x^{-2}y^4 = \frac{y^4}{x^2}$
+\item $\frac{24x^5 y^3 z^7}{6x^3 y^2 z^4} = 4x^2yz^3$
+\end{itemize}
+\end{frame}
+
+%\item $\frac{5x^6y^3}{4w^4z^2} \div \frac{8wz^3}{15x^2y} =$ 
+%\item $\frac{6xy^5}{5w^4z^4} \div \frac{2x^3y}{10w^3z^2} =$
+
+\section{Application: interest rates}
+
+\begin{frame}
+\frametitle{Simple interest, part 1}
+\begin{itemize}
+\item $I$: interest income in one period 
+\item $P$: capital to invest
+\item $r$: interest rate per period 
+\item $n$: number of periods invested
+\item $P = \$1,000$, $r = 4\%$, what is $I$ after one year?
+\item Solution: $\$40$
+\item if $n = 3$, what is $I$?
+\item Solution $\$120$
+\item In general, $I = P \cdot r \cdot n$
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Simple interest, part 2}
+
+Ex: Treasury notes. 
+
+\begin{center}
+\hspace*{-0.4cm} \includegraphics[scale=0.45]{interest2.png}
+\end{center}
+%\pause
+\vspace{-1em} 
+NOTE: If we assume annual interest (the part in yellow is just about how you are receiving your earnings):
+$5000 + 10 \cdot 0.08 \cdot 5000 - 4500 = 5000 + 10 \cdot 400 - 4500 = 4500$. 
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Compound interest, part 1}
+\begin{itemize}
+\item (Capital increases by interest every period)
+\item You invest $\$1$ at an annual interest rate $r=4\%$. 
+\item After year $1$: $1 + 1(0.04) = 1.04$
+\item After year $2$: $1.04 + 1.04(0.04) = 1.04(1 + 0.04) = 1.04^2$
+\item After year $3$: $1.04^2 + 1.04^2(0.04) = 1.04^2(1 + 0.04) = 1.04^3$
+\item After year $t$: $1.04^t$
+\item[] Some notation: 
+\item $P=$ present amount
+\item $A=$ final amount
+\item $r =$ interest rate
+\item $t=$ number of years money is invested. 
+\item General formula: if compounding annually, \textcolor{dark_red}{$A = P(1 + r)^t$}
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Compound interest, part 2}
+Compounding could be done: 
+
+\begin{itemize}
+\item Yearly $\rightarrow$ rate/period $=r$
+\item Semi-annually $\rightarrow$ rate/period $=r/2$
+\item Quarterly $\rightarrow$ rate/period $=r/4$
+\item Monthly $\rightarrow$ rate/period $=r/12$
+\item Some more notation: $n$ number of periods per year
+A more general formula: \textcolor{dark_red}{$A = P\big(1 + \frac{r}{n}\big)^{tn}$}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Compound interest, part 3}
+
+A general \textcolor{dark_red}{inverse} formula: if we know the final amount $A$, the interest rate $r$, the time money is invested $t$ and compounding periods per year, $n$, we can calculate the principal $P$. 
+
+\textcolor{dark_red}{$$ P = A \bigg(1 + \frac{r}{n}\bigg)^{-tn} $$}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Examples on interest rates, part 1}
+\begin{itemize}
+\item $P = \$1000$, $r = 4\%$, $t = 3$ years
+\item Compare the final amount $A$ for,
+\item Simple interest
+\item Compounded annually
+\item Compounded semi-annually 
+\item Compounded quarterly 
+\item Compounded monthly 
+\item [] Answers: 
+\item $1000 \cdot 0.04 \cdot 3 = 120 \rightarrow 1000 + 120 = 1120$
+\item $A = P(1 + r)^t \rightarrow 1000(1 +0.04)^3 = 1124.87$
+\item $A = P(1 + r/n)^{tn} = 1000(1+ 0.04/2)^{3 \cdot 2} = 1126.12$
+\item $A = P(1 + r/n)^{tn} = 1000(1+ 0.04/4)^{3 \cdot 4} = 1126.83$
+\item $A = P(1 + r/n)^{tn} = 1000(1+ 0.04/12)^{3 \cdot 12} = 1127.27$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Examples on interest rates, part 2}
+\begin{itemize}
+\item Problem 1: I borrowed $\$2,000$ for $5$ years at $r = 8\%$, compounded quarterly. How much do I have to pay back at the end of the term? 
+\item Problem 2: I put my money in a savings account at $r = 6\%$ which is compounded semi-annually and received $\$530.45$ at the end of the year. How much did I put in at the beginning? 
+\item Solution 1: $2000(1 + 0.08/4)^{5 \cdot 4} = 2971.89$
+\item Solution 2: $P = A(1 + r/n)^{-tn} = 530.45(1+0.06/2)^{-2} = 500$
+\end{itemize}
+\end{frame}
+
+\section{Exponential functions}
+
+\begin{frame}
+\frametitle{Exponential functions}
+
+$f(x) = b^x$ where $b > 0$, $b$ is the base, $x$ is the exponent. \\ (Check: is $x^2$ exponential? Why or why not?)
+
+\begin{center}
+\includegraphics[scale=0.4]{expo_function1.png}
+\includegraphics[scale=0.42]{expo_function2.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponential functions}
+\begin{itemize}
+\item All the curves pass through the point $(x, y) = (0, 1)$. 
+\item The exponential functions are always above the $f(x) = 0$ horizontal line. In fact, that line is an asymptote. 
+\item $f(x) \rightarrow 0$ as $x \rightarrow - \infty$ (when $b > 1$), and $f(x) \rightarrow 0$ as $x \rightarrow \infty$ when $0 < b < 1$. 
+\item Can we have $b < 0$? Consider $f(x) = -4^x$. What is $f(2)$?, $f(-3)$?, $f(1/2)$? 
+\item[] (hint: $\sqrt{-4} = 2i$). 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponential functions}
+\begin{itemize}
+\item If $b > 1$, the curve becomes steeper as $b$ increases
+\item if $0 < b < 1$, it is the other way around, the curve becomes steeper as the base gets closer to $0$. 
+\end{itemize}
+
+\begin{center}
+\includegraphics[scale=0.6]{expo_curves.png}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice}
+Match each equation with the graph of $f, g, h, k$: 
+%\pause
+\begin{itemize}
+\item[](A) $f(x) = 2^x$
+\item[](B) $f(x) = (0.2)^x$
+\item[](C) $f(x) = 4^x$
+\item[](D) $f(x) = (1/3)^x$
+\end{itemize}
+
+\begin{center}
+\includegraphics[scale=0.3]{practice_curves.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{A generalized example}
+\begin{itemize}
+\item Exponential functions can be generalized to $f(x) = ab^x$ where $a$ is now a scaling constant of the function. 
+\item Ex: Compound interest when compounded annually. 
+\item[] Recall it is given by $A = P(1+r)^t$. Here $a = P$, $b = (1+r)$, and $x=t$.
+\item Ex: Compound interest when compounded $n$ times per year. 
+\item[] Given by $A = P\big( 1 + \frac{r}{n} \big) ^{tn}$
+\item Why is this an exponential function of the form $f(x) = ab^x$?
+\item[] $A = P \bigg[ \big( 1 + \frac{r}{n} \big) ^{n} \bigg] ^t$
+\item[] Here $a = P, b = \big( 1 + \frac{r}{n} \big)^n, x = t$. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{A very special case}
+\begin{itemize}
+\item $f(x) = e^x$, where $e \approx 2.71828$, named after Leonhard Euler. 
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.5]{eulers_curve.pdf}
+\end{center}
+\vspace{-2em}
+\begin{itemize}
+\item Examples: 
+\item Finance: continuous compounding: $A = P \cdot e^{rt}$
+\item Economics: growth rate: $e^{0.03t}$
+\item Probability: exponential families (includes normal distribution!)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example: growth/decay}
+
+\begin{center}
+\includegraphics[scale=0.5]{growth_decay.png}
+\end{center}
+\begin{itemize}
+    \item $A = A_0e^{kt} $, where $A=$ ending value, $A_0=$ initial value, $t$ is elapsed time, and $k$ is the growth/decay rate. 
+    \item $k > 0$, the amount is increasing (growing); $k < 0$, the amount is decreasing (decaying).
+    \item Ex: bacteria grow continuously -- i.e., they do not ``wait'' and then all at once reproduce in the next period.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example: Carbon decay}
+\begin{itemize}
+\item Problem: A certain artifact originally had 12 grams of carbon-14 present.  Suppose the decay model $A = 12e^{-0.000121t}$ correctly describes the amount of carbon-14 present after $t$ years.  How many grams of carbon-14 will be present in this artifact after $10,000$ years? 
+\item[] \begin{align*}
+A 
+&= 12e^{-0.000121t} \\
+&= 12e^{-0.000121 \cdot 10000} \\
+&= 3.58
+\end{align*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example: Bacteria growth}
+\begin{itemize}
+\item Problem: A strain of bacteria growing on your desktop doubles every 5 minutes. Assuming that you start with only one bacterium, how many bacteria could be present after 1.5 hours? Hint: $ \log(e^x) = x$.
+\item[] \begin{align*}
+A
+&= A_0 e^{kt} \\
+&\rightarrow 2 = 1\cdot e^{k \cdot 5} \\
+&\rightarrow 2 = e^{5k} \\
+&\rightarrow \log 2 = \log e^{5k} \\
+&\rightarrow \log 2 = 5k \\
+&\rightarrow \frac{\log 2}{5} = k\\
+&\rightarrow k = 0.139 \\
+&\rightarrow A = A_0e^{0.139 \cdot 90} \\
+&\rightarrow A = 1 \cdot e^{0.139 \cdot 90} = 271,034!
+\end{align*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example: population growth}
+
+
+The expression $A=30\exp ( 0.019t )$ \textcolor{red}{(note: $\exp(x) = e^x)$} describes the population of a city, in thousands, $t$ years after 2015.  Use this expression to solve the following:
+
+\begin{itemize}
+\item What was the population of the city in 2015?
+\item By what \% is the population of the city increasing each year?
+\item What will the population be in 2026? 
+\item When will the city’s population be 60 thousand?
+\item[] Solutions
+\item Set $t = 0$, convert to thousands $=30,000 = A_0$.
+\item It is increasing $k \cdot 100 = 1.9\%$ each year.
+\item $30\exp\{0.019*11\} \approx 37 \rightarrow 37 \cdot 1000 = 37000$.
+\item $60 = 30e^{0.019t} \rightarrow t = 36 \rightarrow 2015 + 36 = 2051$.
+
+\end{itemize}
+
+\end{frame}
+
+\section{Logarithmic functions}
+
+\begin{frame}
+\frametitle{Logarithmic functions}
+\begin{itemize}
+\item A logarithmic function is the \textcolor{dark_red}{inverse} of an exponential function 
+\item If $b^x = c$ then $\log_b(c) = x$ 
+\item Natural log: if $e^x = c$ then $\ln (c) = x$ where $\ln x = \log_e x$
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.5]{log_exp.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Logarithmic functions}
+\begin{itemize}
+\item There are no logs of zero or negative numbers $( x > 0)$ (Why?).
+\item If $\log_b(-k) = c$ then $b^c = -k$. 
+\item Logs of numbers less than one are negative. 
+\item All curves pass through the point $(x, y) = (1, 0)$.
+\item When $x$ tends to $0$ in positive value, $f(x)$ is higher and higher in negative value.
+\item The vertical line at $x = 0$ is an asymptote: a straight line which the graph approaches but never touches. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Operations on logs}
+\begin{multicols}{2}
+\begin{itemize}
+\setlength\itemsep{1em}
+\item $\log_b(b^x) = x$
+\item $b^{\log_b(x)}=x$
+\item $\log_b(c \cdot d) = \log_b c + \log_b d$
+\item $\log_b \frac{c}{d} = \log_b c - \log_b d$
+\item $\log_b(c^d) = d \cdot \log_b c$
+\item $\log_b(b) = 1$
+\item $\log_b 1 = 0$
+\end{itemize}
+\end{multicols}
+\begin{center}
+\hspace*{-1cm} \includegraphics[scale=0.5]{natural_log.pdf}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice examples}
+
+\begin{itemize}
+	\setlength\itemsep{1em}
+\item[] Practice:
+\item Ex 1: $\log_5(4x+11) = 2$
+\item Ex 2: $\log_2(x+5) - \log_2(2x-1) =5$
+\item Ex 3: $\log_8(x) + \log_8(x+6) = \log_8(5x+12)$ 
+\item[] Hint: get into quadratic form, find positive root
+\item Ex 4: $\log_6(x) + \log_6(x - 9) = 2$
+\item Ex 5: $\ln (10) - \ln (7-x) = \ln (x)$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 1 Solution}
+\begin{align*}
+\log_5(4x+11) &= 2 \\
+4x + 11 &= 5^2 \\
+x &= 7/2 
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 2 Solution}
+\begin{align*}
+\log_2(x+5) - \log_2(2x-1) &= 5 \\
+\log_2 \bigg( \frac{x+5}{2x-1} \bigg) &= 5 \\
+\bigg( \frac{x+5}{2x-1} \bigg) &= 2^5 = 32 \\
+x + 5 &= 32(2x-1) \\
+x &= 37/63
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 3 Solution}
+\begin{align*}
+\log_8(x) + \log_8(x+6) &= \log_8(5x+12) \\
+\log_8(x(x+6)) &= \log_8 (5x + 12) \\
+x(x+6) &= 5x+12 \\
+x^2 + 6x &= 5x + 12 \\
+x^2 + x - 12 &= 0 \\
+(x - 3)(x +4) &= 0 \rightarrow x = 3
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 4 Solution}
+\begin{align*}
+\log_6(x) + \log_6(x - 9) &= 2 \\
+x(x-9) &= 36 \\
+(x +3)(x - 12) &= 0 \\
+x &= 12 
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 5 Solution}
+\begin{scriptsize}
+\begin{align*}
+\ln(10) - \ln(7-x) &= \ln(x) \\
+\ln \bigg( \frac{10}{7-x} \bigg) &= \ln x \\
+\bigg( \frac{10}{7-x} \bigg) &= x \\
+10 &= x(7-x) \\
+10 &= 7x - x^2 \\
+x^2 - 7x + 10 &= 0 \\
+(x - 5)(x-2) &= 0\\ 
+\rightarrow x = 2, x = 5
+\end{align*}
+\end{scriptsize}
+\begin{center}
+\includegraphics[scale=0.42]{ex6.png}
+\end{center}
+\end{frame}
+
+%endnotes
+\begin{frame}
+\frametitle{Today}
+\begin{small}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{insead_dark}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{black}{ Exponents}\\ \textcolor{black}{ Application: interest rates}\\ \textcolor{black}{Exponential functions}\\ \textcolor{black}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{fade}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Logarithmic functions}\\ \textcolor{fade}{Logarithmic and exponential equations} \\ \textcolor{fade}{Case: pricing}\\ \textcolor{fade}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{fade}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Optimal decisions}\\ \textcolor{fade}{Case: production}\\\textcolor{fade}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{small}
+\end{frame}
+
+
+	{\setbeamercolor{background canvas}{bg=insead_dark}
+    \begin{frame}[plain]
+    \begin{tikzpicture}[remember picture,overlay]
+    \node[at=(current page.center)] {
+    \includegraphics[keepaspectratio,
+    width=\paperwidth,
+    height=\paperheight]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/end_slide.png}};
+    \end{tikzpicture}
+    \end{frame}}
+\end{document}

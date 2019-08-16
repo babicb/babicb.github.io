@@ -1,0 +1,491 @@
+\documentclass[xcolor=dvipsnames]{beamer} % dvipsnames gives more built-in colors
+
+% theme and color settings
+\usetheme{Madrid}
+\useoutertheme[hideothersubsections, left, height=0pt]{sidebar}
+\useinnertheme{circles}
+
+\definecolor{insead_dark}{RGB}{0,110,91} 
+\definecolor{insead_light}{RGB}{160,206,103}
+\definecolor{fade}{HTML}{C1C7D0}
+\definecolor{light_red}{HTML}{DCBCBC}
+\definecolor{mid_red}{HTML}{B97C7C}
+\definecolor{dark_red}{HTML}{8F2727}
+
+\usecolortheme[named=insead_dark]{structure}
+\usefonttheme[onlymath]{serif}
+
+% some packages 
+\usepackage{xcolor}
+\usepackage{graphicx} 
+\usepackage{booktabs} 
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{setspace}
+\usepackage{tcolorbox}
+\usepackage{colortbl}
+
+%frontmatter
+\title[Session 3 (Logarithms)]{\normalsize{MBA Business Foundations, \\Quantitative Methods: \\Session Three}}
+\author[Boris Babic, INSEAD]{Boris Babic, \\Assistant Professor of Decision Sciences}
+\institute[]{}
+\date{}
+
+%\beamerdefaultoverlayspecification{<+->}    
+
+\begin{document}
+
+\setbeamertemplate{sidebar left}{}
+\begin{frame}
+\titlepage
+\vspace{-5em}
+\begin{center}
+\includegraphics[scale=0.4]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/insead_logo.png}
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Today}
+\begin{scriptsize}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{fade}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{fade}{ Exponents}\\ \textcolor{fade}{ Application: interest rates}\\ \textcolor{fade}{Exponential functions}\\ \textcolor{fade}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{black}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \\ \arrayrulecolor{fade}\hline \\ \textcolor{black}{Logarithmic functions}\\ \textcolor{black}{Logarithmic and exponential equations} \\ \textcolor{black}{Case: pricing}\\ \textcolor{black}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{fade}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Optimal decisions}\\ \textcolor{fade}{Case: production}\\\textcolor{fade}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{scriptsize}
+\end{frame}
+
+\setbeamertemplate{sidebar left}[sidebar theme]
+\section{Logarithmic functions}
+
+\begin{frame}
+\frametitle{Exponential functions: review}
+
+A hypothetical: \pause the infinitely evil loan shark... 
+\pause 
+\begin{center}
+\includegraphics[scale=0.3]{loanshark.png}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponential functions: review}
+\begin{scriptsize}
+\begin{itemize}
+\item[] Suppose you borrow one dollar from an \textcolor{dark_red}{ordinary loan shark} that charges $100\%$ interest, $n$ times per year. Then after the year, you will owe:
+\item[] $\bigg(1 + \frac{1}{n} \bigg)^n$
+\item In particular, after 1 year:
+\item[] For $n=1$, you will owe $2$.
+\item[] For $n=2$, you will owe $2.25$
+\item[] For $n=3$, you will owe $2.37$. 
+\item[] For $n=100$, you will owe $2.704$. 
+\item The \textcolor{dark_red}{infinitely evil loan shark}: $n = \infty$, \pause owe $e$. 
+\item That is, $\lim_{n \rightarrow \infty} \bigg(1 + \frac{1}{n} \bigg)^n =e \approx 2.7182818...$!! 
+\item Your debt to the infinitely evil loan shark is finitely bounded by $e$! 
+\item Thanks Euler! 
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponential functions: review}
+\begin{scriptsize}
+\begin{itemize}
+\item If you borrow $A_0$, after $t$ years, you will owe, $$\textcolor{dark_red}{A = \lim_{n \rightarrow \infty} A_0 \bigg[ \bigg(1 + \frac{1}{n} \bigg)^n \bigg]^t = A_0 e^{t}}$$
+\item  We have now recovered the growth model for bacteria and populations that we saw last class (with $k$, the growth rate, equal to 1)!
+\item Now suppose the loan shark charges $(k\cdot 100) \%$ interest continuously.
+\item Reminder: $A_0$ is your starting point, $(k\cdot 100)\%$ is the growth rate, $t$ is the number of periods, and $e = (1 + 1/n)^n$ as $n$ gets arbitrarily large. 
+\item Then in general you will owe $$\textcolor{dark_red}{A = A_0 e^{kt}} $$
+\item The growth model involving $e$ appears naturally as the continuous generalization of the compounding interest formula. 
+%\item Populations grow continuously. Compare: a city of fixed size and every so often we throw in a batch of people. 
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item[] The parents of a newborn child want to have $\$25,000$ for the child's college education when she is 18. 
+\item[] At what rate of interest, compounded continuously, must $\$10,000$ be invested now to achieve this goal? 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solution}
+
+\begin{align*}
+A &= A_0 e^{rt} \\
+25000 &= 10000 e^{r18} \\
+\ln(25000) &= \ln(10000 \cdot e^{r18} ) \\
+\ln (25000) &= \ln (10000) + \ln e^{r18} \\
+\ln (25000) &= \ln (10000) + r18 \\
+\ln (25000) - \ln(10000) &= r18 \\ 
+\ln ( \frac{25000}{10000}) &= r18 \\
+r &= 0.05 = 5\%
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Logarithms: review}
+\begin{itemize}
+\item A logarithmic function is the inverse of an exponential function:
+\item[] If $\log_b x = c$ then $b^c = x$ and $\log_b b^x = x$. 
+\item Special case where the base $b$ of the exponential is $e$.
+\item We call it the natural logarithm (\textcolor{dark_red}{natural log}) and it has its own notation: \textcolor{dark_red}{$\log_e x = \ln x$}. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Logarithms: review}
+Natural log is the inverse of the exponential function of base $e$: $e^x = c \leftrightarrow \ln c = x$ or $\ln e^x = x$. 
+
+\begin{center}
+\includegraphics[scale=0.5]{log_expo.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Logarithmic applications}
+\begin{scriptsize}
+\begin{itemize}
+\item Logarithms are often used for measurement scales, where we need to compare orders of magnitude. 
+\item Magnitude 6 earthquake is 10 times stronger than magnitude 5 earthquake. Magnitude 7 earthquake is $10\times 10=100$ times strong than magnitude 5 earthquake.
+\end{itemize}
+\end{scriptsize}
+\begin{center}
+\includegraphics[scale=0.23]{log_apps.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Logarithmic applications}
+Logarithms are also present in many ``laws'' in economics, statistics, finance, psychology, etc. 
+\begin{center}
+\includegraphics[scale=0.25]{log_apps2.png}
+\end{center}
+\end{frame}
+
+
+\section{Exponential and Logarithmic Equations}
+
+\begin{frame}
+\frametitle{Exponential and logarithmic equations }
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item How to solve equations that involve exponentials and logarithms? 
+\item Formulas at our disposal:
+    \begin{itemize}
+        \setlength\itemsep{1em}
+        \item[] $e^x = e^y \leftrightarrow x = y$
+        \item[] $\ln x = \ln y \leftrightarrow x = y$ 
+        \item[] $e^{\ln x} = x$
+        \item[] $\ln (e^y) = y$
+    \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice}
+Solve for $x$:
+\begin{enumerate}
+\item $e^x = p$
+\item $e^{3x} = 403.43$
+\item $\ln (x + 1) = 2$
+\item $\ln (3x-2) = 5$
+\item[] -- more challenging -- 
+\item $\ln(x) + \ln(x+6) = \ln(5x+12)$
+\item $\ln (10) - \ln (7-x) = \ln (x)$
+\end{enumerate}
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice Solutions, 1-4}
+Solve for $x$:
+\begin{itemize}
+\setlength\itemsep{1em}
+\item $e^x = p \rightarrow x = \ln p$
+\item $e^{3x} = 403.43 \rightarrow x = 2$
+\item $\ln (x + 1) = 2 \rightarrow x = e^2 - 1$
+\item $\ln (3x-2) = 5 \rightarrow x = \frac{1}{3} (e^5 + 2) \approx 50.138$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 5 Solution}
+\begin{align*}
+\ln(x) + \ln(x+6) &= \ln(5x+12) \\
+\ln(x(x+6)) &= \ln (5x + 12) \\
+x(x+6) &= 5x+12 \\
+x^2 + 6x &= 5x + 12 \\
+x^2 + x - 12 &= 0 \\
+(x - 3)(x +4) &= 0 \rightarrow x = 3
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex 6 Solution}
+\begin{scriptsize}
+\begin{flushright}
+\begin{align*}
+\ln(10) - \ln(7-x) &= \ln(x) \\
+\ln \bigg( \frac{10}{7-x} \bigg) &= \ln x \\
+\bigg( \frac{10}{7-x} \bigg) &= x \\
+10 &= x(7-x) \\
+10 &= 7x - x^2 \\
+x^2 - 7x + 10 &= 0 \\
+(x - 5)(x-2) &= 0\\ 
+\rightarrow x = 2, x = 5 
+\end{align*}
+\end{flushright}
+\vspace{-0.5cm}
+\end{scriptsize}
+\begin{flushleft} \includegraphics[scale=0.35]{ex6.png} \end{flushleft}
+\end{frame}
+
+\begin{frame}
+\frametitle{Exponents and logarithms: changing basis}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item How does one go from \textcolor{dark_red}{$a^x$} to \textcolor{dark_red}{$e^x$}?
+\item[] $a^x = \big( e^{\ln a} \big)^x = e^{x \ln a} = (e^x)^{\ln a}$
+\item How does one go from $\log_a y$ to $\ln y$?
+\item[] $\log_a y = \frac{\ln y}{\ln a}$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Summary of logs and exponents}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item Exponential function is a function of the type $f(x) = b^x$
+\item Logarithmic function is the inverse of this function, $\log_b (b^x) = x$
+\item Applications: for exponents, compounded growth (GDP, population growth, interest); for logarithms, order of magnitude scales, statistics, utility functions. 
+\item Solving exponential and logarithmic equations. 
+\item Special case of $b = e \approx 2.71828$: $f(x) = e^x$, and $f(x) = \ln x$.
+\end{itemize}
+\end{frame}
+
+\section{Case: pricing}
+
+\begin{frame}
+\frametitle{Case discussion}
+
+Case 1: Motorcycle helmets with bluetooth (A): pricing bluetooth chips
+\end{frame}
+
+\section{Derivatives}
+
+\begin{frame}
+\frametitle{Rate of change of linear functions}
+Example of linear function: $f(x) = 2x -1$
+\begin{center}
+\includegraphics[scale=0.5]{sample_linear.pdf}
+\end{center}
+\begin{itemize}
+\item Rate of change: $ \frac{\textrm{change in}~f(x)}{\textrm{change in}~x}$
+\item If $x$ changes from $0$ to $5$ what values does $f(x)$ take? 
+\item What is the rate of change here? 
+\item Does it depend on the points we pick? What does it correspond to?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rate of change of linear functions}
+\begin{center}
+\includegraphics[scale=0.5]{slopes.png}
+\end{center}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item The steeper the curve, the larger the rate of change 
+\item Slope $= 0$, horizontal line. Slope $= \infty$, vertical line. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rate of change of nonlinear functions}
+\begin{itemize}
+\setlength\itemsep{1em}
+\item Like linear functions, would like to find the slope of the curve.
+\item But the ``slope'' of the curve is changing along the curve. 
+\item Thus, rate of change will be point specific (point??).
+\item Given by the slope of the tangent line at that ``point.'' 
+\end{itemize}
+\begin{center}
+\includegraphics[scale=0.25]{parabola.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rate of change of nonlinear functions}
+\begin{center}
+\includegraphics[scale=0.25]{annot_parabola.png}
+\end{center}
+\begin{itemize}
+%\setlength\itemsep{1em}
+\item The slope of the tangent can be viewed as the slope of a (shrinking) chord (green) -- secant line. 
+\item[] $$\frac{y_2 - y_1}{x_2 - x_1} = \frac{\Delta y}{\Delta x}$$
+\item This gives us average rate of change over a (small) interval.
+\item Ex: average speed (per minute). %over an hour/ 15 minutes/ 5 minutes. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Derivatives}
+\begin{itemize}
+\item What if we want \textcolor{dark_red}{instantaneous speed} (huh?)
+\item Find the value as the chord shrinks to $0$.
+\item That is, as $\Delta x \rightarrow 0$ and $\Delta y \rightarrow 0$. 
+\item Derivative of $f$ at $x$: $$ f'(x) = \frac{d}{dx} f(x) = \lim_{h \rightarrow 0} \frac{f(x +h) - f(x)}{h} $$
+\item[] where $h = \Delta x$ and $[f( x + h) - f(x)] = \Delta y$.
+\item Ex: use this definition to find $\frac{d}{dx} x^2$. %Hint: $x/0 = ND$.
+\item Ex: use it to find $\frac{d}{dx} \log x$. Hint: $\lim_{k \rightarrow 0} \frac{ \log (1+k)}{k} =1$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex: $f(x) = x^2$}
+\begin{align*}
+f'(x) 
+&= \lim_{h \rightarrow 0} \frac{f(x +h) - f(x)}{h} \\
+&= \lim_{h \rightarrow 0} \frac{(x+h)^2 - x^2}{h} \\
+&= \lim_{h \rightarrow 0} \frac{x^2 + 2hx + h^2 - x^2}{h} \\
+&= \lim_{h \rightarrow 0} \frac{2hx + h^2}{h} \\
+&= \lim_{h \rightarrow 0} \frac{h(2x + h)}{h} \\ 
+&= \lim_{h \rightarrow 0} 2x + h \\
+&= 2x
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Ex $f(x) = \log x$}
+\begin{align*}
+f'(x) 
+&= \lim_{h \rightarrow 0} \frac{f(x +h) - f(x)}{h} \\
+&= \lim_{h \rightarrow 0} \frac{\log (x+h) - \log (x)}{h}\\ 
+&= \lim_{h \rightarrow 0} \frac{\log \bigg( \frac{x + h}{x} \bigg)  }{h} \\
+&= \lim_{h \rightarrow 0} \frac{ \log \bigg( 1 + \frac{h}{x} \bigg) }{h} \\
+&= \lim_{ h \rightarrow 0} \frac{ \log \bigg( 1 + \frac{h}{x} \bigg) }{\frac{h}{x}} \cdot \frac{1}{x} \\ 
+&= 1 \cdot \frac{1}{x} = \frac{1}{x}
+\end{align*}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rules for differentiation}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item $f(x) = a \rightarrow f'(x) = 0$, and $f(x) = x \rightarrow f'(x) = 1$
+\item $f(x) = bx \rightarrow f'(x) = b$
+\item $f(x) = x^n \rightarrow f'(x) = nx^{n-1}$ %(cf. $d/dx~x^2$ above.)
+\item $f(x) = bx^n \rightarrow f'(x) = b n x^{n-1}$
+\item $f(x) = x \rightarrow f'(x) = 1$
+\item $(f(x) +g(x))' = f'(x) + g'(x)$ 
+\item $[f(x)g(x)]' = f'(x)g(x) +f(x)g'(x)$
+\item $f(g(x)) =f'(g(x))g'(x)$
+\item $[\log(x)]' = 1/x$, and $(e^x)' = e^x$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item[] Differentiate the following functions: 
+\item $f(x) = 7x + 5$
+\item $f(x) = x^2 + 3x + 4$
+\item $f(x) = 5x^7 + 3x^4 + x^2 + 4x + 100$
+\item $f(x) = e^{3x^2}$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Practice Solutions}
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item[] Differentiate the following functions: 
+\item $f(x) = 7x + 5 \rightarrow f'(x) = 7$
+\item $f(x) = x^2 + 3x + 4 \rightarrow f'(x) = 2x + 3$
+\item $f(x) = 5x^7 + 3x^4 + x^2 + 4x + 100 \rightarrow f'(x) = 35x^6 + 12x^3 + 2x + 4$
+\item $f(x) = e^{3x^2}$
+\item[] $f(x) = e^x,~ g(x) = 3x^2 \rightarrow f'(g(x))g'(x) = e^{3x^2} \cdot 6x = 6xe^{3x^2}$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Analyzing functions with derivatives}
+
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item We are given some function $f(x)$ and want to know something about its behavior at $x_1$.
+\item Find $f'(x)$.
+\item Find $f'(x_1)$.
+\item If $f'(x_1) > 0$ the function is increasing ``at that point''.
+\item $f'(x_1) < 0$ the function is decreasing ``at that point''.
+\item if for all $x, f'(x) > 0$ the function is increasing.
+\item if for all $x, f'(x) < 0$ the function is decreasing.
+\item $f'(x_1) = 0$ the function is at a maximum or minimum (most likely). 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example}
+Consider the function $f(x) = 2x^3 + x^2 - 4x - 3$
+
+\begin{center}
+\includegraphics[scale=0.5]{def_example.pdf}
+\end{center}
+
+\begin{itemize}
+\item Find $f'(x)$. 
+\item Evaluate $x$ at $(-2, -1, 0, 1, 1.5)$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solution}
+\begin{itemize}
+\item $f'(x) = 6x^2 + 2x - 4$
+\item $f'(-2) = 16$
+\item $f'(-1) =  0$
+\item $f'(0) =  -4$
+\item $f'(1) =  4$
+\item $f'(1.5) = 12.5$
+\end{itemize}
+\end{frame}
+%endnotes
+\begin{frame}
+\frametitle{Today}
+\begin{scriptsize}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{fade}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{fade}{ Exponents}\\ \textcolor{fade}{ Application: interest rates}\\ \textcolor{fade}{Exponential functions}\\ \textcolor{fade}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{black}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \\ \arrayrulecolor{fade}\hline \\ \textcolor{black}{Logarithmic functions}\\ \textcolor{black}{Logarithmic and exponential equations} \\ \textcolor{black}{Case: pricing}\\ \textcolor{black}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{fade}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Optimal decisions}\\ \textcolor{fade}{Case: production}\\\textcolor{fade}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{scriptsize}
+\end{frame}
+
+
+    {\setbeamercolor{background canvas}{bg=insead_dark}
+    \begin{frame}[plain]
+    \begin{tikzpicture}[remember picture,overlay]
+    \node[at=(current page.center)] {
+    \includegraphics[keepaspectratio,
+    width=\paperwidth,
+    height=\paperheight]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/end_slide.png}};
+    \end{tikzpicture}
+    \end{frame}}
+\end{document}

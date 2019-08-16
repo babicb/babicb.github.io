@@ -1,0 +1,18 @@
+Plot[{Log[E, x], E^x, x}, {x, -3, 4}, PlotLegends->"Expressions"]
+	Subscript[log, E](x)
+	E^x
+	x
+
+
+Plot[{2x - 1}, {x, -3, 4}, PlotLegends->"Expressions"]
+
+Plot[{2x , x, 0.5x, 0}, {x, 0, 4}, PlotLegends->"Expressions"]
+	2 x
+	x
+	0.5 x
+	0
+
+
+Plot[{(x-2)^2 + 4 }, {x, -4, 8}, PlotLegends->"Expressions"]
+
+Plot[{2(x^3)+(x^2)-4x-3 }, {x, -25, 25}, PlotLegends->"Expressions"]

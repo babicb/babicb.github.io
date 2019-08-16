@@ -37,7 +37,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Reading 2](005NotesonExponentsLogarithms.pdf)
  * [Case A](motorcycles_a.pdf)
  * [Exercise 2](exercise2.pdf)
- * Solutions
+ * [Solutions](exercise_solutions2.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session2_bb.tex)
@@ -46,11 +46,11 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font size="6"><font color="006E51">Session 3</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes 
+ * [Lecture Notes](session3_bb.pdf) 
  * [Reading 1 (Math Review from Session 1)](002MathReview.pdf)
  * [Reading 2](008AnalyticMethodsforManagerialDecisionMaking.pdf)
  * [Supp reading 1](009ConsumerChoiceandDemand.pdf)
- * Solutions to Case A
+ * [Solutions to Case A](motorcycle_a_solution.pdf)
  * [Case B](motorcycles_b.pdf)
  * [Exercise 3](exercise3.pdf)
  * Solutions

@@ -62,7 +62,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font size="6"><font color="006E51">Session 4</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes 
+ * [Lecture Notes](session4_bb.pdf) 
  * [Reading 1](012BasicStatisticsChapter2.pdf)
  * [Reading 2](013BasicStatisticsChapter3.pdf)
  * Handout: Finding summary statistics in R
@@ -71,7 +71,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
- * LaTeX file 
+ * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
  * Mathematica notebook
  * R notebook 
  * [Beginner's guide to R](http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf) 

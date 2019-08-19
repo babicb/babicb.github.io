@@ -1,0 +1,575 @@
+\documentclass[xcolor=dvipsnames]{beamer} % dvipsnames gives more built-in colors
+
+% theme and color settings
+\usetheme{Madrid}
+\useoutertheme[hideothersubsections, left, height=0pt]{sidebar}
+\useinnertheme{circles}
+
+\definecolor{insead_dark}{RGB}{0,110,91} 
+\definecolor{insead_light}{RGB}{160,206,103}
+\definecolor{fade}{HTML}{C1C7D0}
+\definecolor{light_red}{HTML}{DCBCBC}
+\definecolor{mid_red}{HTML}{B97C7C}
+\definecolor{dark_red}{HTML}{8F2727}
+
+\usecolortheme[named=insead_dark]{structure}
+\usefonttheme[onlymath]{serif}
+
+% some packages 
+\usepackage{xcolor}
+\usepackage{graphicx} 
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{setspace}
+\usepackage{tcolorbox}
+\usepackage{colortbl}
+\usepackage{verbatim}
+\usepackage{listings}
+
+%frontmatter
+\title[Session 4 (Derivatives)]{\normalsize{MBA Business Foundations, \\Quantitative Methods: \\Session Four}}
+\author[Boris Babic, INSEAD]{Boris Babic, \\Assistant Professor of Decision Sciences}
+\institute[]{}
+\date{}
+
+%\beamerdefaultoverlayspecification{<+->}
+
+\begin{document}
+
+\setbeamertemplate{sidebar left}{}
+\begin{frame}
+\titlepage
+\vspace{-5em}
+\begin{center}
+\includegraphics[scale=0.4]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/insead_logo.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Today}
+\begin{scriptsize}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{fade}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{fade}{ Exponents}\\ \textcolor{fade}{ Application: interest rates}\\ \textcolor{fade}{Exponential functions}\\ \textcolor{fade}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{fade}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \\ \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Logarithmic functions}\\ \textcolor{fade}{Logarithmic and exponential equations} \\ \textcolor{fade}{Case: pricing}\\ \textcolor{fade}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{black}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{black}{Optimal decisions}\\ \textcolor{black}{Case: production}\\\textcolor{black}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{scriptsize}
+\end{frame}
+
+\setbeamertemplate{sidebar left}[sidebar theme]
+\section{Optimal decisions}
+
+\begin{frame}
+\frametitle{Analyzing functions with derivatives}
+
+\begin{itemize}
+    \setlength\itemsep{1em}
+\item We are given some function $f(x)$ and want to know something about its behavior at $x_1$.
+\item Find $f'(x)$.
+\item Find $f'(x_1)$.
+\item If $f'(x_1) > 0$ the function is increasing ``at that point''.
+\item $f'(x_1) < 0$ the function is decreasing ``at that point''.
+\item if for all $x, f'(x) > 0$ the function is increasing.
+\item if for all $x, f'(x) < 0$ the function is decreasing.
+\item $f'(x_1) = 0$ the function is at a maximum or minimum (most likely). 
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example}
+Consider the function $f(x) = 2x^3 + x^2 - 4x - 3$
+
+\begin{center}
+\includegraphics[scale=0.5]{def_example.pdf}
+\end{center}
+
+\begin{itemize}
+\item Find $f'(x)$. 
+\item Evaluate $x$ at $(-2, -1, 0, 1, 1.5)$.
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solution}
+\begin{itemize}
+\item $f'(x) = 6x^2 + 2x - 4$
+\item $f'(-2) = 16$
+\item $f'(-1) =  0$
+\item $f'(0) =  -4$
+\item $f'(1) =  4$
+\item $f'(1.5) = 12.5$
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Second derivatives}
+\begin{itemize}
+\item Consider a function which takes time as its input and gives us a car's distance traveled as its output. 
+\item The first derivative of such a function corresponds to the car's velocity. 
+\item The second derivative would be the derivative of the derivative. 
+\item This corresponds to the car's acceleration. 
+\item It measures how the rate of change is itself changing. 
+\item Graphically, this corresponds to a function's curvature -- degree of concavity/convexity.  
+\item Formally, there is nothing new -- to take the second derivative, treat the derivative function as your original function, and apply the rules from last class!
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Concavity/convexity}
+\begin{small}
+\begin{itemize}
+\item A function is called convex on an interval $[a, b]$ if the line segment between any two points on the graph of the function over that interval lies above or on the graph. Ex: $x^2$.
+\item If such line segment is below the graph of the function, it is concave. 
+\item Important wherever ``marginal" values are relevant -- utility, revenue, economies of scale, etc. 
+\item We denote the second derivative of $f(x)$ as $f''(x)$ or $$\frac{d}{dx} \frac{d}{dx} f(x) = \frac{d^2}{dx^2} f(x)$$
+\item \textcolor{dark_red}{If $f''(x) > 0$ for all $x$ in the interval $[a, b]$, then $f(x)$ is convex on $[a, b]$. Ex: $x^2$.}
+\item \textcolor{dark_red}{If $f''(x) < 0$ for all $x$ in the interval $[a, b]$, then $f(x)$ is concave on $[a, b]$. Ex: $x^{1/2}$.}
+\end{itemize}
+\end{small}
+\end{frame}
+
+\begin{frame}
+\frametitle{Maximum/minimum of a function}
+\begin{scriptsize}
+To find potential max-min points of a function $f(x)$:
+\begin{itemize}
+    \setlength\itemsep{1em}
+    \item Compute the (first) derivative $f'(x)$
+    \item Solve the equation $f'(x) = 0$. The points $x^*$ obtained are possible candidates for maxima/minima. %but need to be checked. 
+    \item[] \textcolor{dark_red}{$\longrightarrow$ First Order Condition (FOC)}
+    \item Compute the second derivative $f''(x)$ %(derivative of derivative)
+    \item If $f''(x^*) > 0$ then $x^*$ is a (local) minimum
+    \item[] If this is true for all $x$, then global minimum
+    \item If $f''(x^*) < 0$ then $x^*$ is a (local) maximum
+    \item[] If this is true for all $x$ then global maximum
+    \item[] \textcolor{dark_red}{$\longrightarrow$ Second Order Condition (SOC)}
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Example}
+Identify the local maximum/minimum of the function: $$ f(x) = 2x^3 + x^2 - 4x -3 $$
+\begin{center}
+\includegraphics[scale=0.5]{def_example.pdf}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solution}
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item $f(x) = 2x^3 + x^2 - 4x - 3$
+\item $f'(x) = 6x^2 + 2x - 4$
+\item $f''(x) = 12x + 2$
+\item FOC: $6x^2 + 2x - 4 = 0 \rightarrow x^* = -1, ~\textrm{and}~ x^* = 2/3$.
+\item SOC: 
+\item[] $12(-1) + 2 < 0$ (-1 is a maximum)
+\item[] $12(2/3) + 2 > 0$, (2/3 is a minimum). 
+\end{itemize}
+\end{frame}
+
+%\begin{frame}
+%\frametitle{Global minima/maxima}
+%\begin{center}
+%\hspace*{-0.6cm} \includegraphics[scale=0.5]{global_extrema.png}
+%\end{center}
+%\begin{scriptsize}
+%\begin{multicols}{2}
+%\begin{itemize}
+%\itemsep\setlength{1em}
+%\item $f$ has one global max. at $x_0$ if:
+%\item[] $f'(x_0) = 0$ FOC  
+%\item[] $f''(x) > 0$ $\forall \, x$ ($f$ is convex).
+%\item $f$ has one global min. at $x_0$ if: 
+%\item[] $f'(x_0) = 0$ (FOC) 
+%\item[] $f''(x) < 0$ $\forall \, x$ ($f$ is concave). 
+%\end{itemize}
+%\end{multicols}
+%\end{scriptsize}
+%\end{frame}
+
+\begin{frame}
+\frametitle{Application to quadratic function}
+\begin{center}
+\includegraphics[scale=0.5]{quad_example.pdf}
+\end{center}
+\vspace{-1em}
+\begin{scriptsize}
+\begin{itemize}
+    \setlength\itemsep{1em}
+
+\item $f(x) = ax^2 + bx + c$
+\item $f'(x) = 2ax + b \rightarrow ~\textrm{FOC:}~2ax + b = 0 \rightarrow x_0 = \frac{-b}{2a}$
+\item $f''(x) = 2a$
+\item if $a > 0$, $x_0 = \frac{-b}{2a}$ is global minimum (b/c $f''(x) = 2a >0$)
+\item if $a < 0$, $x_0 = \frac{-b}{2a}$ is global maximum (b/c $f''(x) = 2a <0$)
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Application of derivatives in economics}
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item Consider profit ($p$) as a function of advertising cost ($c$). 
+\item[] \textcolor{dark_red}{$p = f(c) = -c^2 + 3c -2 $}
+\item[] At what level of advertising will the profit be maximized? 
+\item Consider a demand function, with price ($p$) and quantity demanded ($q$).
+\item[] \textcolor{dark_red}{$p = f(q) = 120 - 4q$}
+\item[] Write revenue as a function of quantity demanded. 
+\item[] To maximize revenue, how many units should we sell? 
+\item[] Which price should we set?
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Solutions}
+\begin{itemize}
+\item Problem 1: $\arg \max f(c) = 3/2$ (you may often see this notation).
+\item Problem 2:
+\begin{itemize}
+\item[a.] Revenue = price $\times$ quantity $= -4q^2 + 120q$ 
+\item[b.] $-4q^2 + 120q = 0 \rightarrow q^* = 15$ units 
+\item[c.] $f(q^*) = 120 - 4 \times 15 = 60 \rightarrow p^* = 60$
+\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Marginal profit}
+\begin{scriptsize}
+\begin{center}
+\includegraphics[scale=0.25]{disc_mp.png}
+\end{center}
+\begin{itemize}
+     \itemsep\setlength{1em}
+\item Discrete case, where $\pi(q)$ is profit given $q$ units and $m \pi(q)$ marginal profit at $q$ : $ m\pi (q) = \pi (q + 1) - \pi (q)$
+\item ``Profit earned by producing one unit above q''
+\item Note this is \emph{also} the rate of change of $\pi(q)$ at $q$ $\rightarrow$ $\frac{\pi(q+1) - \pi(q)}{q + 1 - q}$
+\item Marginal profit is given by the \textcolor{dark_red}{slope} of the profit function at $q$.
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Marginal profit}
+\begin{scriptsize}
+\begin{center}
+\includegraphics[scale=0.25]{cont_mp.png}
+\end{center}
+\begin{itemize}
+     \itemsep\setlength{1em}
+\item Continuous case: $m \pi (q) = \pi'(q)$
+\item[] ``Profit earned by producing \emph{a little more} than q''
+\item[] [What is a little more?]
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Marginal functions}
+Likewise, we can define for continuous revenue/costs: 
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item If $r = f(q)$ is the revenue function, then the marginal revenue (MR) is $r' = f'(q)$. 
+\item If $c = f(q)$ is the cost function, then the marginal cost (MC) is $c' = f'(q)$.  
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Bonus example: marginal revenue}
+
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item Given the following demand function,
+\item[] $p = -5q^2 + 30q + 7$
+\item find the marginal revenue function, where price $=p$ and quantity $=q$.
+\item What is the marginal revenue at $q = 2, 3, 5$?
+\item For which $q$ do we maximize revenue? 
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Solution}
+\begin{center}
+\includegraphics[scale=0.5]{marg_profit.pdf}
+\end{center}
+\begin{itemize}
+    \item $f'(q) = - 10x + 30$
+    \item $f'(2) = 10, f'(3)=0, f'(5) = - 20$
+    \item $\arg \max f(q) = 3$
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{(Bonus) Overview of production planning}
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item Total profit = total revenue - total cost:
+\item[] $TP(Q) = TR(Q) - TC(Q)$
+\item Marginal profit = marginal revenue - marginal cost 
+\item[] $MP(Q) = MR(Q) - MC(Q)$
+\item $MR(Q) > MC(Q)$ $\rightarrow$ should produce more 
+\item $MR(Q) < MC(Q)$ $\rightarrow$ should produce less
+\item $MR(Q) = MC(Q)$ $\rightarrow$ optimal production, but check conditions for max
+\end{itemize}
+\end{frame}
+
+\section{Case: production}
+
+\begin{frame}
+\frametitle{Case discussion}
+Motor Cycle Helmets with Bluetooth (B) : Production
+\end{frame}
+
+\section{Statistics}
+
+\begin{frame}
+\frametitle{Statistics}
+\begin{center}
+\hspace*{-0.5cm} \includegraphics[scale=0.25]{stats_brands.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{The R statistical programming language}
+\begin{scriptsize}
+\begin{itemize}
+    \itemsep\setlength{1em}
+\item For the statistics section, we will periodically use the statistical programming language \textcolor{dark_red}{\textsf{R}} to perform some basic operations. 
+\item \textcolor{dark_red}{\textsf{R}} is an open source language, written in C and Fortran. 
+\item It was initially developed at Bell Labs, where it was known (creatively) as S. 
+\item Today it is the most widely used language among statisticians. 
+\item You can download a free distribution on the \textcolor{dark_red}{\textsf{R}} project web page (www.r-project.org/) together with RStudio (rstudio.com) which is the leading IDE for \textcolor{dark_red}{\textsf{R}} (basically a gui). 
+\item In this class, however, we will use the online implementation rdrr: \href{https://rdrr.io/snippets/}{ \textcolor{red}{https://rdrr.io/snippets/} }
+\item You do not need to download anything!
+\item Does anyone know why it is called rdrr? See \href{https://www.youtube.com/watch?v=gSFd_2oJgak}{\textcolor{red}{here}}.
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Measures of location}
+\begin{scriptsize}
+``If I was allowed one number to describe my dataset, what would it be?''
+\begin{itemize}
+\item Three notions: 
+\item Mean: average value, $\mathrm{E}[X] = \frac{1}{n} [x_1 + x_2 + ... + x_n]$
+\item[] \textcolor{dark_red}{\textsf{R}: mean()}
+\item Median: the middle value when the dataset is ordered from smallest to largest
+\item[] \textcolor{dark_red}{\textsf{R}: median()}
+\item Mode: the value with highest frequency
+\item[] \textcolor{dark_red}{\textsf{R}: mode.insead()}
+\item[] But we have to write the mode function first: 
+\begin{verbatim}
+mode.insead <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+\end{verbatim}
+\item Feel free to copy/paste!! 
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Measures of location}
+\begin{scriptsize}
+\begin{itemize}
+\item Go to: \href{https://rdrr.io/snippets/}{\textcolor{insead_light}{https://rdrr.io/snippets/}} 
+\item Consider: \begin{verbatim} mydata <- c(1, 2, 3, 3, 4, 5, 6) \end{verbatim}
+\item[] [the simplest type of data structure in \textsf{R}]
+\item Find the mean, median, and mode of mydata. Hint: for mode, you will have to write in the function first. 
+\item Here it is again: 
+\begin{verbatim}
+mode.insead <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+\end{verbatim}
+\item Solution:
+\begin{verbatim}  
+mode.insead <- function(x) {
+       ux <- unique(x)
+       ux[which.max(tabulate(match(x, ux)))]
+}
+
+mydata <- c(1, 2, 3, 3, 4, 5, 6)
+
+print(c(mean(mydata), median(mydata), mode.insead(mydata)))
+[1] 3.428571 3.000000 3.000000
+\end{verbatim}
+\item Note: We instruct \textcolor{dark_red}{\textsf{R}} to print a vector just to be concise. You \emph{can} just plug in mean, mode, and median and run it. 
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Example}
+\begin{scriptsize}
+Given the following data: 
+
+$$ 10, 3, 2, 15, 1, 3, 4, 5, 8, 2, 12, 20, 3, 5, 10 $$
+
+compute the mean, median and mode by hand, then verify in \textcolor{dark_red}{\textsf{R}}. 
+
+\pause 
+\vspace{0.5cm}
+Solution: 
+\begin{verbatim}
+mode.insead <- function(x) {
+       ux <- unique(x)
+       ux[which.max(tabulate(match(x, ux)))]
+}
+
+mydata <- c(10,3,2,15,1,3,4,5,8,2,12,20,3,5,10)
+
+print(c(round(mean(mydata),2), round(median(mydata),2), 
+round(mode.insead(mydata),2)))
+[1] 6.87 5.00 3.00
+\end{verbatim} 
+We have also instructed \textcolor{dark_red}{\textsf{R}} to round the output to two decimal points.
+\end{scriptsize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Measures of dispersion}
+\begin{scriptsize}
+How spread out is my data?
+\begin{itemize}
+\item Maximum, minimum, range
+\item[] \textcolor{dark_red}{ \textsf{R}: max(), min(), max() - min() }
+\item Variance 
+\item[] \textcolor{dark_red}{ \textsf{R}: var.insead() }
+\begin{verbatim}
+var.insead = function(x){var(x)*(length(x)-1)/length(x)}
+\end{verbatim}
+\item Standard deviation 
+\item[] \textcolor{dark_red}{\textsf{R}: sqrt(var.insead()) }
+\end{itemize}
+\end{scriptsize}
+\end{frame}
+
+
+
+\begin{frame}
+\frametitle{Dispersion on an example: oil prices}
+\begin{center}
+\hspace*{-0.55cm} \includegraphics[scale=0.5]{disp_1.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dispersion on an example: oil prices}
+\begin{center}
+\hspace*{-0.55cm} \includegraphics[scale=0.5]{disp_2.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Dispersion on an example: oil prices}
+\begin{center}
+\hspace*{-0.55cm} \includegraphics[scale=0.5]{disp_3.png}
+\end{center}
+\end{frame}
+
+\begin{frame}
+\frametitle{Variance and standard deviation}
+\begin{itemize}
+	\itemsep\setlength{1em}
+\item We will often use $\mu$ to denote the mean, and $\sigma$ to denote standard deviation. 
+\item Variance (when all outcomes are equally likely):
+\item[] $$ \textrm{Var} = \frac{1}{n} \sum_{i=1}^n (x - \mu)^2 $$
+\item Standard deviation: $\sigma = \sqrt{\textrm{Var}} $
+\item[] [So: $\textrm{Var} = \sigma^2$]
+\item Rougly speaking, 95\% of the data will be contained in the interval spanning $\pm 2$ standard deviations from the mean. 
+\end{itemize}
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Exercise}
+Consider the following data, drawn from a uniform distribution in \textcolor{dark_red}{\textsf{R}} using the command \textcolor{blue}{round(runif(10)*10, 0)}:
+
+$$ 8,  1,  2,  4,  8,  6,  2,  6,  9, 2 $$
+
+Find mean, variance, and standard deviation. Note:
+
+\begin{verbatim}
+var.insead = function(x)
+    {var(x)*(length(x)-1)/length(x)}
+\end{verbatim}
+
+\end{frame}
+
+\begin{frame}[fragile]
+\frametitle{Solution}
+\begin{verbatim}
+var.insead = function(x)
+    {var(x)*(length(x)-1)/length(x)}
+
+mydata <- c(8,1,2,4,8,6,2,6,9,2)
+
+mean(mydata) 
+
+var.insead(mydata) 
+
+sqrt(var.insead(mydata))
+
+[1] 4.8
+[1] 7.96
+[1] 2.821347
+\end{verbatim}
+\end{frame}
+
+%endnotes
+\begin{frame}
+\frametitle{Today}
+\begin{scriptsize}
+\begin{tabular}{ll}
+\textcolor{fade}{Basics} & \begin{tabular}[c]{@{}l@{}}\textcolor{fade}{Functions}\\ \textcolor{fade}{Linear}\\ \textcolor{fade}{Inverse}\\ \textcolor{fade}{Two equations}\\ \textcolor{fade}{Quadratic}\end{tabular} \vspace{0.25em} \\ 
+
+\textcolor{fade}{Exponents}   & \begin{tabular}[c]{@{}l@{} }\arrayrulecolor{fade}\hline \\ \textcolor{fade}{ Exponents}\\ \textcolor{fade}{ Application: interest rates}\\ \textcolor{fade}{Exponential functions}\\ \textcolor{fade}{Logarithmic functions}\end{tabular} \vspace{0.25em} \\
+
+\textcolor{fade}{Logarithms} & \begin{tabular}[c]{@{}l@{}} \\ \arrayrulecolor{fade}\hline \\ \textcolor{fade}{Logarithmic functions}\\ \textcolor{fade}{Logarithmic and exponential equations} \\ \textcolor{fade}{Case: pricing}\\ \textcolor{fade}{Derivatives} \end{tabular}   \vspace{0.25em}  \\
+
+\textcolor{black}{Derivatives}  & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\ \textcolor{black}{Optimal decisions}\\ \textcolor{black}{Case: production}\\\textcolor{black}{ Statistics}\end{tabular}        \vspace{0.25em} \\
+
+\textcolor{fade}{Uncertainty}    & \begin{tabular}[c]{@{}l@{}} \arrayrulecolor{fade}\hline \\\textcolor{fade}{ Probability \& statistics}\\ \textcolor{fade}{Normal distribution }\end{tabular}     \vspace{0.25em} \\       
+\end{tabular}
+\end{scriptsize}
+\end{frame}
+
+
+    {\setbeamercolor{background canvas}{bg=insead_dark}
+    \begin{frame}[plain]
+    \begin{tikzpicture}[remember picture,overlay]
+    \node[at=(current page.center)] {
+    \includegraphics[keepaspectratio,
+    width=\paperwidth,
+    height=\paperheight]{/Users/borisbabic/_INSEAD_teaching/_business_foundations/_syllabus/end_slide.png}};
+    \end{tikzpicture}
+    \end{frame}}
+\end{document}
+
+\begin{frame}
+\frametitle{}
+
+\begin{itemize}
+    \itemsep\setlength{1em}
+    \item 
+    \item 
+    \item 
+    \item 
+\end{itemize}
+\end{frame}
+
+\end{frame}

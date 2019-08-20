@@ -66,7 +66,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Reading 1](012BasicStatisticsChapter2.pdf)
  * [Reading 2](013BasicStatisticsChapter3.pdf)
  * Handout: Finding summary statistics in R
- * Solutions to Case B
+ * [Solutions to Case B](motorcycles_b_solution.pdf)
  * [Exercise 4](exercise4.pdf)
  * [Solutions](exercise_solutions4.pdf)
 

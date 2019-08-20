@@ -83,7 +83,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Lecture Notes](session5_bb.pdf)
  * [Reading 1](015BasicStatisticsChapter5.4.pdf)
  * [Handout 1: Lookup table](016TableStandardizedNormalProbabilities.pdf)
- * Handout 2: Using R as a lookup table
+ * [Handout 2: Using R as a lookup table](handout2.pdf)
  * [Exercise 5](exercise5.pdf)
  * [Solutions](exercise_solutions5.pdf)
 

@@ -81,7 +81,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 <p><b><font size="6"><font color="006E51">Session 5</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes 
+ * [Lecture Notes](session5_bb.pdf)
  * [Reading 1](015BasicStatisticsChapter5.4.pdf)
  * [Handout 1: Lookup table](016TableStandardizedNormalProbabilities.pdf)
  * Handout 2: Using R as a lookup table
@@ -89,6 +89,6 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Solutions
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
- * LaTeX file 
+ * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
  * Mathematica notebook
  * R notebook

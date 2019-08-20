@@ -1,0 +1,4 @@
+2*x^3 + x^2 - 4*x - 3
+Plot[-3-4 x+x^2+2 x^3,{x,-3,3}]
+Plot[{3x^2-3x-4, -x^2 + 4x - 2},{x,-3,6}, PlotLegends->Placed["Expressions",{pos,Center}]]
+Plot[{−5q^2+30q+7},{q,-3,6}, PlotLegends->Placed["Expressions",{pos,Center}]]

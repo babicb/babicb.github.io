@@ -53,7 +53,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Solutions to Case A](motorcycle_a_solution.pdf)
  * [Case B](motorcycles_b.pdf)
  * [Exercise 3](exercise3.pdf)
- * Solutions
+ * [Solutions](exercise_solutions3.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session3_bb.tex) 
@@ -68,7 +68,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * Handout: Finding summary statistics in R
  * Solutions to Case B
  * [Exercise 4](exercise4.pdf)
- * Solutions
+ * [Solutions](exercise_solutions4.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
@@ -86,7 +86,7 @@ All materials will also be posted to the course Canvas page, should you find it 
  * [Handout 1: Lookup table](016TableStandardizedNormalProbabilities.pdf)
  * Handout 2: Using R as a lookup table
  * [Exercise 5](exercise5.pdf)
- * Solutions
+ * [Solutions](exercise_solutions5.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)

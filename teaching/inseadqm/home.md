@@ -72,7 +72,7 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
- * Mathematica notebook
+ * [Mathematica notebook](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_mathematica_nb.txt)
  * R notebook 
  * [Beginner's guide to R](http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf) 
  * [Intermediate guide to R](https://r4ds.had.co.nz/index.html)
@@ -90,5 +90,5 @@ All materials will also be posted to the course Canvas page, should you find it 
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
- * Mathematica notebook
+ * [Mathematica notebook](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session5_mathematica.txt)
  * R notebook

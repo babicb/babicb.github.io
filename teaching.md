@@ -7,7 +7,7 @@ bigimg:
 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
-In August 2019, I am teaching Quantitative Methods as part of the INSEAD MBA Business Foundations Programme. 
+At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and Quantitative Methods (MBA).  
 
 At Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
 

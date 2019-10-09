@@ -15,7 +15,7 @@ bigimg:
 **Work in Progress** 
 
 <ol start="3">
-  <li>Assessment Reversal in Approximate Coherentism <a href="babic_arc.pdf">PDF</a> </li>
+  <li>A paper on approximate coherence <a href="babic_arc.pdf">PDF</a> </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>
   <li>Adaptive Burdens of Proof (e-mail for draft) </li>
   <li>Dynamic Epistemic Risk </li>

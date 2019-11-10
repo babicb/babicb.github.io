@@ -7,13 +7,24 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A Theory of Epistemic Risk  
-  **Philosophy of Science** (2019) [PDF](research/babic_ter.pdf)
-2. Moral Obligation and Epistemic Risk (with Zoë Johnson-King)  
-  **Oxford Studies in Normative Ethics, Vol 10** (forthcoming 2019, e-mail for draft)
+1. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter.pdf)
+2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) (e-mail for draft)
+  with Zoë Johnson-King
+3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019) (e-mail for draft)
+
   
 **Work in Progress** 
 
+<ol start="3">
+  <li>Approximate Coherentism and Luck (under review) </li>
+  <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (under review) </li>
+  <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
+  <li>Dynamic Epistemic Risk </li>
+  <li>Testing for Discrimination and the Risk of Error </li>
+  <li>Invariance, Entropy, and (Objective) Bayesianism </li>
+</ol> 
+
+<!---
 <ol start="3">
   <li>A paper on approximate coherence </li>
   <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>

@@ -7,7 +7,7 @@ bigimg:
 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
-At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and Quantitative Methods (MBA).  
+At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
 
 At Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
 

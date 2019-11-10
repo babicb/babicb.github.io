@@ -8,9 +8,9 @@ bigimg:
 
 **Publications**
 1. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter.pdf)
-2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) (e-mail for draft)
+2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019),
   with Zoë Johnson-King
-3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019) (e-mail for draft)
+3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019),
   with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 
   

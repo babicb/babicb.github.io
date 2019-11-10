@@ -11,17 +11,15 @@ bigimg:
 2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) (e-mail for draft)
   with Zoë Johnson-King
 3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019) (e-mail for draft)
+  with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 
   
 **Work in Progress** 
 
-<ol start="3">
+<ol start="4">
   <li>Approximate Coherentism and Luck (under review) </li>
   <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (under review) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
-  <li>Dynamic Epistemic Risk </li>
-  <li>Testing for Discrimination and the Risk of Error </li>
-  <li>Invariance, Entropy, and (Objective) Bayesianism </li>
 </ol> 
 
 <!---

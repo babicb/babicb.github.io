@@ -7,7 +7,7 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter.pdf)
+1. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
 2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics, Vol. 10** (2019)  
 with Zoë Johnson-King
 3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019)  

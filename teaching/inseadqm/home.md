@@ -15,7 +15,7 @@ You can find the syllabus [here](fbl_syllabus.pdf) and the schedule [here](fbl_s
 <p><b><font size="6"><font color="006E51">Session 1</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes <!--- [Lecture Notes](session1_bb.pdf) --->
+ * [Lecture Notes](session1_bb.pdf)
  * [Reading 1](002MathReview.pdf)
  * [Exercise 1](exercises1.pdf)
  * Solutions <!--- [Solutions](exercise_solutions1.pdf) --->

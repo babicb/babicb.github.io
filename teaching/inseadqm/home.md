@@ -10,7 +10,7 @@ meta-title: ""
 
 Welcome to INSEAD's 2019 Quantitative Methods course in the Business Foundations Programme! I will post all materials to this page so as to provide a one-stop-shop for lecture notes, handouts, readings, exercises/solutions, cases/solutions, and supplemantary material.  
 
-You can find the syllabus [here](001qm_syllabus_babic.pdf) and the schedule [here](002qm_schedule_babic.pdf).
+You can find the syllabus [here](fbl_syllabus.pdf) and the schedule [here](fbl_schedule.pdf).
  
 <p><b><font size="6"><font color="006E51">Session 1</font></font></b></p>
 
@@ -48,7 +48,7 @@ You can find the syllabus [here](001qm_syllabus_babic.pdf) and the schedule [her
  * [Reading 1 (Math Review from Session 1)](002MathReview.pdf)
  * [Reading 2](008AnalyticMethodsforManagerialDecisionMaking.pdf)
  * [Supp reading 1](009ConsumerChoiceandDemand.pdf)
- * [Solutions to Case A](motorcycle_a_solution.pdf)
+ * Solutions to Case A <!--- [Solutions to Case A](motorcycle_a_solution.pdf) --->
  * [Case B](motorcycles_b.pdf)
  * [Exercise 3](exercise3.pdf)
  * Solutions <!--- [Solutions](exercise_solutions3.pdf) --->
@@ -64,7 +64,7 @@ You can find the syllabus [here](001qm_syllabus_babic.pdf) and the schedule [her
  * [Reading 1](012BasicStatisticsChapter2.pdf)
  * [Reading 2](013BasicStatisticsChapter3.pdf)
  * [Handout: Finding summary statistics in R](handout1.pdf)
- * [Solutions to Case B](motorcycles_b_solution.pdf)
+ * Solutions to Case B <!--- [Solutions to Case B](motorcycles_b_solution.pdf) --->
  * [Exercise 4](exercise4.pdf)
  * Solutions <!--- [Solutions](exercise_solutions4.pdf) --->
 

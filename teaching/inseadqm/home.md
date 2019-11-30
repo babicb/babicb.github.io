@@ -60,13 +60,13 @@ You can find the syllabus [here](fbl_syllabus.pdf) and the schedule [here](fbl_s
 <p><b><font size="6"><font color="006E51">Session 4</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes <!--- [Lecture Notes](session4_bb.pdf) --->
+ * [Lecture Notes](session4_bb.pdf)
  * [Reading 1](012BasicStatisticsChapter2.pdf)
  * [Reading 2](013BasicStatisticsChapter3.pdf)
  * [Handout: Finding summary statistics in R](handout1.pdf)
- * Solutions to Case B <!--- [Solutions to Case B](motorcycles_b_solution.pdf) --->
+ * [Solutions to Case B](motorcycles_b_solution.pdf)
  * [Exercise 4](exercise4.pdf)
- * Solutions <!--- [Solutions](exercise_solutions4.pdf) --->
+ * [Solutions](exercise_solutions4.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)
@@ -78,12 +78,12 @@ You can find the syllabus [here](fbl_syllabus.pdf) and the schedule [here](fbl_s
 <p><b><font size="6"><font color="006E51">Session 5</font></font></b></p>
 
 <p><b><font color="A0CE67">Main content</font></b></p>
- * Lecture Notes <!--- [Lecture Notes](session5_bb.pdf) --->
+ * [Lecture Notes](session5_bb.pdf)
  * [Reading 1](015BasicStatisticsChapter5.4.pdf)
  * [Handout 1: Lookup table](016TableStandardizedNormalProbabilities.pdf)
  * [Handout 2: Using R as a lookup table](handout2.pdf)
  * [Exercise 5](exercise5.pdf)
- * Solutions <!--- [Solutions](exercise_solutions5.pdf) --->
+ * [Solutions](exercise_solutions5.pdf)
 
 <p><b><font color="A0CE67">Miscallaneous content</font></b></p>
  * [LaTeX file](https://github.com/babicb/babicb.github.io/blob/master/teaching/inseadqm/session4_bb.tex)

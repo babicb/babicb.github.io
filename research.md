@@ -20,6 +20,7 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
   <li>Approximate Coherentism and Luck (under review) </li>
   <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (under review) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
+  <li> Noisy Stereotypes (in progress) </li>
 </ol> 
 
 <!---

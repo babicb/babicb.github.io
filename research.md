@@ -7,18 +7,19 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
+1. Algorithms on Regulatory Lockdown, **Science** (2019)  
+with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics, Vol. 10** (2019)  
 with Zoë Johnson-King
-3. Algorithms on Regulatory Lockdown, **Science** (forthcoming 2019)  
-with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
+3. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
+
 
   
 **Work in Progress** 
 
 <ol start="4">
-  <li>Approximate Coherentism and Luck (under review) </li>
-  <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (under review) </li>
+  <li>Approximate Coherentism and Luck (R&R) </li>
+  <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (R&R) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
   <li> Noisy Stereotypes (in progress) </li>
 </ol> 

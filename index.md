@@ -9,7 +9,7 @@ bigimg:
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
 
-Hi! Welcome to my page. I recently joined [INSEAD](https://www.insead.edu/) as an Assistant Professor in the Decision Sciences department. Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial technology and machine learning (see [here](https://www.caltech.edu/about/news/can-ai-be-fair) for an article of a recent workshop I organized on this topic). 
+Hi! Welcome to my page. I recently joined [INSEAD](https://www.insead.edu/) as an Assistant Professor in the Decision Sciences department. Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning (see [here](https://www.caltech.edu/about/news/can-ai-be-fair) for an article of a recent workshop I organized on this topic). 
 
 <!--- The overarching theme of my research is **epistemic risk**. The core dimensions of this project span philosophy of science/formal epistemology, normative ethics, and law & public policy. The latter engages the emerging literature on fair AI and machine learning. You can learn more about epistemic risk by clicking on the Research tab. --> 
 

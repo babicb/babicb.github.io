@@ -7,7 +7,7 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. Algorithms on Regulatory Lockdown, **Science** (2019)  
+1. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics, Vol. 10** (2019)  
 with Zoë Johnson-King

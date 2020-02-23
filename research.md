@@ -10,7 +10,7 @@ bigimg:
 1. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)
-2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics, Vol. 10** (2019) [PDF](research/jkb_mer.pdf) 
+2. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics, Vol. 10** (2019) [PDF](research/jkb_mer.pdf)  
 with Zoë Johnson-King
 3. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
 

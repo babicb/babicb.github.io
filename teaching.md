@@ -9,6 +9,8 @@ bigimg:
 
 At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
 
+Here is a lecture I like comparing frequentist to Bayesian approaches to inference using the case of the mystery coin: [Bayes Lecture](teaching/teaching_pres_new.pdf). 
+
 At Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
 
 At the University of Michigan, I designed an introductory class on [statistical methodology and the nature of science](teaching/PHIL155syllabus.pdf). I also TA'd several classes in the Philosophy, Politics, Economics (PPE) program. 

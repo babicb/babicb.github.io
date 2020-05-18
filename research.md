@@ -11,7 +11,7 @@ bigimg:
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. A Better Way to Onboard AI, **Harvard Business Review** (2020)  
 with Daniel L. Chen, Theodoros Evgeniou and Anne-Laure Fayard 
-3. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
+3. Algorithms on Regulatory Lockdown, **Science** (2019) <b><font color="A0CE67">[link](https://science.sciencemag.org/content/366/6470/1202)</font></b>  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)
 4. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) [PDF](research/jkb_mer.pdf)  

@@ -7,22 +7,20 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A System View for Medical Machine Learning Policy, **Nature Digitimal Medicine** (2020) [PDF](research/nature_system_view.pdf)   
+1. A System View for Medical ML Policy, **Nature Digitimal Medicine** (2020) [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
-2. A Better Way to Onboard AI, **Harvard Business Review** (2020)  
-with Daniel L. Chen, Theodoros Evgeniou and Anne-Laure Fayard 
-3. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
+2. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)
-4. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) [PDF](research/jkb_mer.pdf)  
+3. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) [PDF](research/jkb_mer.pdf)  
 with Zoë Johnson-King
-5. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
+4. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf)
 
 
   
 **Work in Progress** 
 
-<ol start="6">
+<ol start="5">
   <li>Approximate Coherentism and Luck (R&R) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
   <li> Noisy Stereotypes (in progress) </li>

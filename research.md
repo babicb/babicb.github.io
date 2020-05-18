@@ -24,7 +24,6 @@ with Zoë Johnson-King
 
 <ol start="6">
   <li>Approximate Coherentism and Luck (R&R) </li>
-  <li> Regulating Artificial Intelligence/Machine Learning Based Software as a Medical Device (R&R) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
   <li> Noisy Stereotypes (in progress) </li>
 </ol> 

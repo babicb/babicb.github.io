@@ -7,9 +7,9 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A System View for Medical Machine Learning Policy, **Nature Digitimal Medicine** (2020)  
+1. A System View for Medical Machine Learning Policy, **Nature Digitimal Medicine** (2020) [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
-2. A Better Way to Onboard AI, **Harvard Business Review** (2020)  
+2. A Better Way to Onboard AI, **Harvard Business Review** (July/August 2020)  
 with Daniel L. Chen, Theodoros Evgeniou and Anne-Laure Fayard 
 2. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  

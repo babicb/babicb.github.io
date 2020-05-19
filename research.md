@@ -7,7 +7,7 @@ bigimg:
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Publications**
-1. A System View for Medical ML Policy, **Nature Digitimal Medicine** (2020) [PDF](research/nature_system_view.pdf)   
+1. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  

@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Research
-bigimg:
-  - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 

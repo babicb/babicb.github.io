@@ -61,7 +61,7 @@ link-col: "#0747A6" #"#008AFF"
 hover-col: "#97A0AF"
 #footer-col: "#F5F5F5"
 #footer-text-col: "#777777"
-footer-link-col: "#172B4D" #"#404040"
+footer-link-col: "#0747A6" #"#404040"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

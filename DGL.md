@@ -2,9 +2,9 @@
 layout: page 
 title: ""
 meta-title: "DGL"
-bigimg:
-  - "/img/P718006624.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"
 ---
+<!--bigimg:
+  - "/img/P718006624.jpg" : "Alexandra Park (Toronto), photo by Nevena Novakovic (2017)"-->
 **Decisions, Games & Logic Workshop**
 
 The 10th DGL Workshop will be held June 10-12 2019 at Caltech. The focus of this iteration will be on algorithmic fairness and more generally risk and ethics in statistics and computer science. 

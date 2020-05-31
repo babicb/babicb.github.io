@@ -18,3 +18,10 @@ Directions to Caltech: [https://www.caltech.edu/about/visit/directions](https://
 Campus parking ($6/day): [http://parking.caltech.edu/Parking](http://parking.caltech.edu/Parking).
 
 For earlier iterations of the Workshop, follow [this](http://www-personal.umich.edu/~skaron/dgl/) link. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;

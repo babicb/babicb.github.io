@@ -24,6 +24,12 @@ Prior to that, I studied law at [Harvard University](https://hls.harvard.edu/), 
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 This website is created with <a href="http://jekyllrb.com/">jekyll</a> and based on <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>. 
+
+&nbsp;
+&nbsp;
+&nbsp;
 <!-- And prior to that, [I mostly tried](/img/hockey.jpg), and failed, to become a professional hockey player. -->

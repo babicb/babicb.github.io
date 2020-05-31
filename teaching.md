@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Teaching
-bigimg:
-  - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
-
+<!---bigimg:
+  - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"--> 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
 At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  

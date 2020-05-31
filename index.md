@@ -27,6 +27,8 @@ Prior to that, I studied law at [Harvard University](https://hls.harvard.edu/), 
 &nbsp;
 &nbsp;
 
+<p><font color="006E51">Session 1</font></p>
+
 This website is created with <a href="http://jekyllrb.com/">jekyll</a> and based on <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>. 
 
 &nbsp;

@@ -29,7 +29,7 @@ Prior to that, I studied law at [Harvard University](https://hls.harvard.edu/), 
 
 * * *
 
-<p><font color="#97A0AF">This website is created with <a href="http://jekyllrb.com">jekyll</a> and based on the theme <a href="https://beautifuljekyll.com">beautiful-jekyll</a>. 
+<p><font color="#97A0AF">This website is created with jekyll and based on the theme <a href="https://beautifuljekyll.com">beautiful-jekyll</a>. 
 
 &nbsp;
 &nbsp;

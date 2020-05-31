@@ -5,8 +5,6 @@ subtitle: Assistant Professor of Decision Sciences, INSEAD
 css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Asistant Professor, INSEAD"
-bigimg:
-  - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"
 ---
 
 Hi! Welcome to my page. I recently joined [INSEAD](https://www.insead.edu/) as an Assistant Professor in the Decision Sciences department. Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning (see [here](https://www.caltech.edu/about/news/can-ai-be-fair) for an article of a recent workshop I organized on this topic). 

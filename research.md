@@ -6,15 +6,14 @@ title: Research
 
 **Publications**
 1. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
-with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
+with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
+&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Healthcare Dive](https://www.healthcaredive.com/news/harvard-insead-authors-pitch-systemic-regulatory-approach-to-aiml-devices/575712/)
 2. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202), [PDF](locked_ai.pdf)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)
 3. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) [PDF](research/jkb_mer.pdf)  
 with Zoë Johnson-King
 4. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [link](https://doi.org/10.1086/703552), [PDF](research/babic_ter_final.pdf)
-
-
   
 **Work in Progress** 
 

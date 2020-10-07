@@ -5,21 +5,21 @@ title: Research
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
 **Peer Reviewed Journal Publications**
-1. Approximate Coherentism and Luck, **Philosophy of Science** (forthcoming) [PDF](research/acl.pdf)   <br /> 
+1. Approximate Coherentism and Luck, **Philosophy of Science** (forthcoming) [PDF](research/acl.pdf)   <p>&nbsp;</p> 
 2. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
-with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   <br />
+with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   <p>&nbsp;</p>
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
 3. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202), [PDF](locked_ai.pdf)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
-&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   <p>&nbsp;</p>
 4. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2019) [PDF](research/jkb_mer.pdf)  
-with Zoë Johnson-King   <br />
+with Zoë Johnson-King   <p>&nbsp;</p>
 5. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [link](https://doi.org/10.1086/703552), [PDF](research/babic_ter_final.pdf)
   
 **Other Writing**   
 <ol start="6">
-  <li> A Better Way to Onboard AI, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/07/a-better-way-to-onboard-ai">link</a> <br>  
-with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
+  <li> A Better Way to Onboard AI, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/07/a-better-way-to-onboard-ai">link</a> <br>   
+with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li> <p>&nbsp;</p>
   <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (forthcoming) <br>  
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
 </ol>
@@ -27,9 +27,9 @@ with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
 **Work in Progress** 
 
 <ol start="8">
-  <li> Noisy Stereotypes (under review) </li>
-  <li> DTC Medical ML Applications (under review) </li>
-  <li> A Lockean Theory of Fair Machine Learning (in progress) </li>
+  <li> Noisy Stereotypes (under review) </li> <p>&nbsp;</p>
+  <li> DTC Medical ML Applications (under review) </li> <p>&nbsp;</p>
+  <li> A Lockean Theory of Fair Machine Learning (in progress) </li> <p>&nbsp;</p>
   <li> Moral Encoachment and Moral Uncertainty (in progress) </li>
 </ol> 
 

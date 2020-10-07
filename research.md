@@ -17,10 +17,12 @@ with Zoë Johnson-King
 5. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [link](https://doi.org/10.1086/703552), [PDF](research/babic_ter_final.pdf)
   
 **Other Writing**   
-6. A Better Way to Onboard AI, **Harvard Business Review** (2020) [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)   
-with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard   
-7. When Machine Learning Goes off the Rails, **Harvard Business Review** (forthcoming 2020)   
-with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke
+<ol start="6">
+  <li> A Better Way to Onboard AI, **Harvard Business Review** (2020) [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)   
+with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
+  <li> When Machine Learning Goes off the Rails, **Harvard Business Review** (forthcoming 2020)   
+with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
+</ol>
 
 **Work in Progress** 
 

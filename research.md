@@ -18,9 +18,9 @@ with Zoë Johnson-King   <br />
   
 **Other Writing**   
 <ol start="6">
-  <li> A Better Way to Onboard AI, **Harvard Business Review** (2020) <a href="https://hbr.org/2020/07/a-better-way-to-onboard-ai">link</a> <br>  
+  <li> A Better Way to Onboard AI, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/07/a-better-way-to-onboard-ai">link</a> <br>  
 with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
-  <li> When Machine Learning Goes off the Rails, **Harvard Business Review** (forthcoming) <br>  
+  <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (forthcoming) <br>  
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
 </ol>
 

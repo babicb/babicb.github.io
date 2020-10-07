@@ -18,7 +18,7 @@ with Zoë Johnson-King
   
 **Other Writing**   
 6. A Better Way to Onboard AI, **Harvard Business Review** (2020) [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)   
-with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard
+with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard   
 7. When Machine Learning Goes off the Rails, **Harvard Business Review** (forthcoming 2020)   
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke
 

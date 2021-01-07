@@ -18,10 +18,12 @@ with Zoë Johnson-King
   
 **Other Writing**   
 <ol start="6">
+    <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails">link</a> <br>  
+with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
+  <li> Can AI Fairly Decide Who Gets an Organ Transplant?, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/12/can-ai-fairly-decide-who-gets-an-organ-transplant">link</a> <br>  
+with I. Glenn Cohen, Theodoros Evgeniou, Sara Gerke, and Nikos Trichakis </li>
   <li> A Better Way to Onboard AI, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/07/a-better-way-to-onboard-ai">link</a> <br>   
 with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li> 
-  <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (forthcoming) <br>  
-with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
 </ol>
 
 **Work in Progress** 

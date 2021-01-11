@@ -7,7 +7,7 @@ meta-title: "Boris Babic"
 meta-description: "Asistant Professor, INSEAD"
 ---
 
-Hi! Welcome to my page. I am an Assistant Professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). Starting July 2021, I will be an Assistant Professor of Philosophy and of Statistics at the [University of Toronto](https://www.utoronto.ca).
+Hi! Welcome to my page. I am an Assistant Professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). Starting July 2021, I will be an Assistant Professor of Philosophy and of Statistics (joint) at the [University of Toronto](https://www.utoronto.ca).
 
 Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning. 
 

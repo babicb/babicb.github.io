@@ -9,9 +9,7 @@ meta-description: "Asistant Professor, INSEAD"
 
 Hi! Welcome to my page. I am an Assistant Professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). Starting July 2021, I will be an Assistant Professor of Philosophy and of Statistics (joint) at the [University of Toronto](https://www.utoronto.ca).
 
-Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning. 
-
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao). 
+Previously, I was a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning.  
 
 <!---(see [here](https://www.caltech.edu/about/news/can-ai-be-fair) for an article of a recent workshop I organized on this topic).  The overarching theme of my research is **epistemic risk**. The core dimensions of this project span philosophy of science/formal epistemology, normative ethics, and law & public policy. The latter engages the emerging literature on fair AI and machine learning. You can learn more about epistemic risk by clicking on the Research tab. --> 
 

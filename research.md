@@ -7,9 +7,10 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. Normativity, Epistemic Rationality and Noisy Statistical Evidence, **The British Journal for the Philosophy of Science** (forthcoming) [PDF](research/noisy_stereotypes_march2021.pdf)   
-2. Approximate Coherentism and Luck, **Philosophy of Science** (forthcoming) [PDF](research/acl.pdf)  
-3. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
+1. Normativity, Epistemic Rationality and Noisy Statistical Evidence,   **The British Journal for the Philosophy of Science** (forthcoming) [PDF](research/noisy_stereotypes_march2021.pdf)   
+with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler   
+3. Approximate Coherentism and Luck, **Philosophy of Science** (forthcoming) [PDF](research/acl.pdf)  
+4. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
 4. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202), [PDF](locked_ai_nov2019.pdf)  

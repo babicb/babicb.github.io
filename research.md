@@ -7,7 +7,8 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. Direct to Consumer Advertising of Medical Machine Learning, **Nature Machine Intelligence** (forthcoming)   
+1. Direct to Consumer Advertising of Medical Machine Learning,   
+**Nature Machine Intelligence** (forthcoming)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. Normativity, Epistemic Rationality and Noisy Statistical Evidence,   
 **The British Journal for the Philosophy of Science** (forthcoming) [PDF](research/noisy_stereotypes_march2021.pdf)   

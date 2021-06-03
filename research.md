@@ -37,6 +37,7 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 **Work in Progress** 
 
 <ol start="11">
+  <li> The Case Against Explainable Medical Machine Learning (in progress) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li> 
   <li> Moral Encoachment and Moral Uncertainty (in progress) </li>
 </ol> 

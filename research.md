@@ -13,9 +13,9 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 **Nature Machine Intelligence** (2021) [link](https://www.nature.com/articles/s42256-021-00331-0)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 3. Normativity, Epistemic Rationality and Noisy Statistical Evidence,   
-**The British Journal for the Philosophy of Science** (forthcoming) [PDF](research/noisy_stereotypes_march2021.pdf)   
+**The British Journal for the Philosophy of Science** (2021) [PDF](research/noisy_stereotypes_march2021.pdf)   
 with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler   
-4. Approximate Coherentism and Luck, **Philosophy of Science** (forthcoming) [PDF](research/acl.pdf)  
+4. Approximate Coherentism and Luck, **Philosophy of Science** (2021) [PDF](research/acl.pdf)  
 5. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)

@@ -7,8 +7,7 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. The Case Against Explainable Medical Machine Learning,   
-**Science** (Forthcoming) [link]()   
+1. The Case Against Explainable Medical Machine Learning, **Science** (forthcoming) [link]()   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 2. Direct to Consumer Advertising of Medical Machine Learning,   
 **Nature Machine Intelligence** (2021) [link](https://www.nature.com/articles/s42256-021-00331-0)   

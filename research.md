@@ -40,7 +40,7 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 
 **Work in Progress** 
 
-<ol start="12">
+<ol start="13">
   <li> Resolute and Correlated Bayesians (in progress) </li>
   <li> A Lockean Theory of Fair Machine Learning (in progress) </li> 
   <li> Moral Encoachment and Moral Uncertainty (in progress) </li>

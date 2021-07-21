@@ -28,6 +28,8 @@ with Zoë Johnson-King
   
 **Other Writing**   
 <ol start="9">
+    <li> Explaining Medical AI is Easier Said than Done, <b>STAT News</b> (2020) <a href="https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/">link</a> <br>  
+with Sara Gerke </li>
     <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails">link</a> <br>  
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke </li>
   <li> Can AI Decide Who Gets an Organ Transplant?, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2020/12/can-ai-fairly-decide-who-gets-an-organ-transplant">link</a> <br>  

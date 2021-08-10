@@ -22,7 +22,7 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 6. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202), [PDF](locked_ai_nov2019.pdf)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   
-7. Moral Obligation and Epistemic Risk, **Oxford Studies in Normative Ethics** (2020) [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5), [PDF](research/bjk_mer_2019.pdf)   
+7. Moral Obligation & Epistemic Risk, **Oxford Studies in Normative Ethics** (2020) [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5), [PDF](research/bjk_mer_2019.pdf)   
 with Zoe Johnson King  
 9. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [link](https://doi.org/10.1086/703552), [PDF](research/babic_ter_final.pdf)
   

@@ -7,8 +7,9 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. The Case Against Explainable Medical Machine Learning, **Science** (forthcoming) [link]()   
-with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
+1. Beware Explanations from AI in Health Care, **Science** (forthcoming) [link](https://science.sciencemag.org/content/373/6552/284)   
+with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
+&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions)
 2. Direct to Consumer Advertising of Medical Machine Learning,   
 **Nature Machine Intelligence** (2021) [link](https://www.nature.com/articles/s42256-021-00331-0)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke

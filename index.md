@@ -7,7 +7,7 @@ meta-title: "Boris Babic"
 meta-description: "Asistant Professor, INSEAD"
 ---
 
-Hi! Welcome to my page. I am an Assistant Professor at [The University of Toronto](https://www.utoronto.ca), where I have a joint appointment in the [Department of Philosophy](https://philosophy.utoronto.ca) and the [Department of Statistics](https://www.statistics.utoronto.ca).
+Hi! Welcome to my page. I am an Assistant Professor at [The University of Toronto](https://www.utoronto.ca), where I have a joint appointment in the [Department of Philosophy](https://philosophy.utoronto.ca) and the [Department of Statistics](https://www.statistics.utoronto.ca). I am also a faculty affiliate of the [Schwartz Reisman Institute](https://srinstitute.utoronto.ca). 
 
 Before joining UofT, I was an Assistant Professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/), and a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). I am primarily interested in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning.  
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Boris Babic
-subtitle: Assistant Professor of Decision Sciences, INSEAD
+subtitle: Assistant Professor, The University of Toronto
 css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Asistant Professor, INSEAD"

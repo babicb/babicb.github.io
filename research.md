@@ -9,7 +9,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 **Peer Reviewed Journal Publications**
 1. Beware Explanations from AI in Health Care, **Science** (forthcoming) [link](https://science.sciencemag.org/content/373/6552/284)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
-&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions)
+&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions)
 2. Direct to Consumer Advertising of Medical Machine Learning,   
 **Nature Machine Intelligence** (2021) [link](https://www.nature.com/articles/s42256-021-00331-0)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke

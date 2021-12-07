@@ -8,7 +8,7 @@ baseurl: ""
 # Name of website
 title: Home
 # Short description of your site
-description: Postdoc, Caltech
+description: Assistant Professor, University of Toronto
 
 
 # --- Navigation bar options --- #
@@ -22,24 +22,12 @@ navbar-links:
   Research: "research"
   Teaching: "teaching"
   CV: "Babic_CV.pdf"
-  DGL: "DGL"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Boris Babic
-  email: "bbabic@caltech.edu"
-  github: babicb
-
-# Select which links to show in the footer
-footer-links-active:
-  email: true
-  github: false
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "borisbabic.com"
 
 # --- Misc --- #
 
@@ -48,7 +36,7 @@ google_analytics: "UA-122236544-1"
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator: ""
 
 # --- Background colour/image options --- #
 

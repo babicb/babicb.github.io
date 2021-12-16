@@ -9,7 +9,8 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 **Peer Reviewed Journal Publications**
 1. Beware Explanations from AI in Health Care, **Science** (forthcoming) [link](https://science.sciencemag.org/content/373/6552/284)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
-&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [Proto (Time Magazine/MGH)](http://protomag.com/research-studies/ai-explain-thyself/), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions), [Tencent QQ](https://new.qq.com/omn/20210903/20210903A0C0DC00.html), [China Business News](https://www.yicai.com/news/101163033.html)
+&nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
+&nbsp;&nbsp;&nbsp;&nbsp; [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [Proto (Time Magazine/MGH)](http://protomag.com/research-studies/ai-explain-thyself/), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions), [Tencent QQ](https://new.qq.com/omn/20210903/20210903A0C0DC00.html), [China Business News](https://www.yicai.com/news/101163033.html)
 2. Direct to Consumer Advertising of Medical Machine Learning,   
 **Nature Machine Intelligence** (2021) [link](https://www.nature.com/articles/s42256-021-00331-0)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke

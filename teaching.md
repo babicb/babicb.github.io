@@ -14,9 +14,10 @@ Here is an introductory lecture I like comparing frequentist to Bayesian approac
 
 As a postdoc at Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
 
+<!---
 At the University of Michigan, I designed an introductory class on [statistical methodology and the nature of science](teaching/PHIL155syllabus.pdf). I also TA'd several classes in the Philosophy, Politics, Economics (PPE) program. 
 
-<!---**Califoria Institute of Technology**
+**Califoria Institute of Technology**
 Previously taught:  
   * Statistics, Ethics & Law (Spring 2018) [Syllabus PDF](teaching/sel102_syllabus.pdf)
   * Probability, Evidence & Belief (Spring 2018) [Syllabus PDF](teaching/peb122_syllabus.pdf)

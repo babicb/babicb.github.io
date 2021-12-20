@@ -8,7 +8,7 @@ title: Teaching
 
 My full time tenure stream appointment is at the University of Toronto, where I teach Bayesian Statistics (STA 365), Statistics Ethics and Law (STA 2052), Ethical Aspects of Data Science (PHL 377) and a philosophy of science graduate seminar (PHL 2223). 
 
-At INSEAD, where I am a visiting professor, I teach an MBA class entitled Ethics of Algorithms. Previously, I was a tenure steram professor at INSEAD, and I taught Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
+At INSEAD, where I am a visiting professor, I teach an MBA class entitled Ethics of Algorithms. Previously, I was a tenure stream professor at INSEAD, and I taught Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
 
 Here is an introductory lecture I like comparing frequentist to Bayesian approaches to inference: [Bayes Lecture](teaching/teaching_pres_new.pdf). 
 

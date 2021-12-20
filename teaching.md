@@ -6,11 +6,13 @@ title: Teaching
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"--> 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
-At INSEAD, I teach Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
+My full time tenure stream appointment is at the University of Toronto, where I teach Bayesian Statistics (STA 365), Statistics Ethics and Law (STA 2052), Ethical Aspects of Data Science (PHL 377) and a philosophy of science graduate seminar (PHL 2223). 
+
+At INSEAD, where I am a visiting professor, I teach an MBA class entitled Ethics of Algorithms. Previously, I was a tenure steram professor at INSEAD, and I taught Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
 
 Here is an introductory lecture I like comparing frequentist to Bayesian approaches to inference: [Bayes Lecture](teaching/teaching_pres_new.pdf). 
 
-At Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
+As a postdoc at Caltech, I designed and taught a course entitled [Statistics, Ethics & Law](teaching/sel102_syllabus.pdf). I also taught classes in foundations of probability and philosophy of science. 
 
 At the University of Michigan, I designed an introductory class on [statistical methodology and the nature of science](teaching/PHIL155syllabus.pdf). I also TA'd several classes in the Philosophy, Politics, Economics (PPE) program. 
 

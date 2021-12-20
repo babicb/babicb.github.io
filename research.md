@@ -7,7 +7,7 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. Beware Explanations from AI in Health Care, **Science** (forthcoming) [link](https://science.sciencemag.org/content/373/6552/284)   
+1. Beware Explanations from AI in Health Care, **Science** (2021) [link](https://science.sciencemag.org/content/373/6552/284)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
 &nbsp;&nbsp;&nbsp;&nbsp; [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [Proto (Time Magazine/MGH)](http://protomag.com/research-studies/ai-explain-thyself/), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions),   

@@ -7,7 +7,7 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Peer Reviewed Journal Publications**
-1. Beware Explanations from AI in Health Care, **Science** (2021) [link](https://science.sciencemag.org/content/373/6552/284)   
+1. Beware Explanations from AI in Health Care, **Science** (2021) [link](https://www.science.org/doi/10.1126/science.abg1834)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
 &nbsp;&nbsp;&nbsp;&nbsp; [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [Proto (Time Magazine/MGH)](http://protomag.com/research-studies/ai-explain-thyself/),   
@@ -23,7 +23,7 @@ with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler
 5. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
-6. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://science.sciencemag.org/content/366/6470/1202), [PDF](locked_ai_nov2019.pdf)  
+6. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://www.science.org/doi/abs/10.1126/science.aay9547), [PDF](locked_ai_nov2019.pdf)  
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   
 7. Moral Obligation & Epistemic Risk, **Oxford Studies in Normative Ethics** (2020) [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5), [PDF](research/bjk_mer_2019.pdf)   

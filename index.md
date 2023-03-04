@@ -16,11 +16,11 @@ Before joining the University of Toronto, I was an Assistant Professor at [INSEA
 
 <!--
 My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/).
-From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). <!--- My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk.--> 
+From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). <!--- My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk.
 I also received a [JD from Harvard Law School](https://hls.harvard.edu/), and practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, where I represented companies fighting over fashion dolls, cell phones, and comic books. In particular, I spent most of my time representing Mattel, the makers of Barbie, in the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) against rival company, MGA, the makers of Bratz.
 My primary research interests are in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning. I teach BA, MA, MBA, and PhD classes in statistics, philosophy, and decision making.
 ![profile_pic](/img/profile_photo4.jpg)
-![profile_pic](/img/profile_photo.png)
+![profile_pic](/img/profile_photo.png) --> 
 &nbsp;
 &nbsp;
 &nbsp;

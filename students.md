@@ -4,9 +4,9 @@ title: Students
 ---
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
-Below is a list of my current and former students. 
+Below is a list of my current and former students at the University of Toronto. 
 
-**Doctoral Students**
+**PhD Students**
 
 Alice Huang (Philosophy, current)
 

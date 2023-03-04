@@ -11,10 +11,18 @@ Hi! Welcome to my page. I am an Assistant Professor at the [University of Toront
 
 Before joining UofT, I was an Assistant Professor at [INSEAD](https://www.insead.edu/), both in France and Singapore, and a postdoc at the [California Institute of Technology](http://hss.divisions.caltech.edu/people/boris-babic). My primary research interests are in (a) questions in Bayesian inference and decision-making and (b) normative questions in the implementation of artificial intelligence and machine learning. I teach BA, MA, MBA, and PhD classes in statistics, philosophy, and decision making. 
 
-<img src="/img/profile_photo4.jpg" width="50%" height="auto">
-
-From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). <!--- My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk.--> 
-I also received a [JD from Harvard Law School](https://hls.harvard.edu/), and practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, where I represented companies fighting over fashion dolls, cell phones, and comic books. In particular, I spent most of my time representing Mattel, the makers of Barbie, in the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) against rival company, MGA, the makers of Bratz. 
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <img src="/img/profile_photo4.jpg" width="50%" height="auto">
+    <p>Column 1</p>
+  </div>
+  <div style="flex: 1;">
+    From 2013-2017, I was a student at the University of Michigan, Ann Arbor, where I received a [PhD in Philosophy](https://lsa.umich.edu/philosophy) and [MS in Statistics](https://lsa.umich.edu/stats). My supervisor was [Jim Joyce](http://www-personal.umich.edu/~jjoyce/). <!--- My dissertation was entitled, unsurprisingly, Foundations of Epistemic Risk.--> 
+I also received a [JD from Harvard Law School](https://hls.harvard.edu/), and practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, where I represented companies fighting over fashion dolls, cell phones, and comic books. In particular, I spent most of my time representing Mattel, the makers of Barbie, in the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) against rival company, MGA, the makers of Bratz.
+    <p>Column 2</p>
+  </div>
+</div>
+ 
 
 <!--
 ![profile_pic](/img/profile_photo4.jpg)

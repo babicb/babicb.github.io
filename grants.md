@@ -15,7 +15,7 @@ Insight Development Grant,
 Title: Reconceiving Procedural Fairness (2021-2024).
 
 3. **The Connaught Labs Fund**,    
-New Researcher Award, 
+New Researcher Award,      
 Title: Mitigating Machine Bias (2022-2024). 
 
 4. Schwartz Reisman Institute for Technology & Society, 

@@ -16,3 +16,10 @@ Welcome to my website. I am an Assistant Professor at the [University of Toronto
 I work primarily in ethics, law, and policy of artificial intelligence and machine learning, especially in medical applications. I also work in Bayesian statistics and epistemology. My research has appeared in Science, Nature Machine Intelligence, Nature Digitial Medicine, and the Harvard Business Review, among other venues. It has also been profiled in Forbes, STAT News, China Business News, Tencent QQ, and The Edge Markets (Singapore). I teach BA, MA, MBA, and PhD classes in statistics, philosophy, and decision making.
 
 Before joining the University of Toronto, I was an Assistant Professor at [INSEAD](https://www.insead.edu/), both in France and Singapore, and a postdoc at the [California Institute of Technology (Caltech)](http://hss.divisions.caltech.edu/people/boris-babic). I received a JD, cum laude, from [Harvard Law School](https://hls.harvard.edu/), an MS in [Statistics](https://lsa.umich.edu/stats) and a PhD in [Philosophy](https://lsa.umich.edu/philosophy), from the University of Michigan, Ann Arbor. I also practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, a leading business litigation firm, where I represented Samsung, Google, Mattel, and DreamWorks Animation, among other clients. In particular, I spent much of my time working on the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) litigation between Mattel, the makers of Barbie, and rival company MGA, the makers of the Bratz dolls. 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+

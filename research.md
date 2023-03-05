@@ -10,7 +10,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 1. The Algorithmic Explainability Bait and Switch,   
 **Minnesota Law Review** (2023) [PDF](research/explainability_march2023.pdf)   
-with I. Glernn Cohen     
+with I. Glenn Cohen     
 2. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023) [PDF](research/encroachment_march2023.pdf)   
 with Zoe Johnson King    

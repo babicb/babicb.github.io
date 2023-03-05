@@ -14,7 +14,7 @@ with I. Glenn Cohen
 2. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023) [PDF](research/encroachment_march2023.pdf)   
 with Zoe Johnson King    
-3. Comment on Ariel D. Stern's Regulation of Medical AI,   
+3. Comment on Ariel Dora Stern's Regulation of Medical AI,   
 **The Economics of Artificial Intelligence**    
 edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf)       
 4. Beware Explanations from AI in Health Care,      

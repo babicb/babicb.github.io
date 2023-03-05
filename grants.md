@@ -25,3 +25,7 @@ Title: Noise and Bias, Algorithmic Fairness in a Messy Data World (2022-2024).
 5. The Desmarais Fund for Research in AI,
 Faculty Research Grant,       
 Title: Fair Machine Learning (2019-2021). 
+
+6. **Social Sciences and Humanities Research Council of Canada**, 
+Doctoral Fellowship,     
+Title: A Theory of Epistemic Risk (2015-2018).

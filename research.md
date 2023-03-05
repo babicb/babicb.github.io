@@ -16,7 +16,7 @@ with I. Glernn Cohen
 with Zoe Johnson King    
 3. Comment on Ariel D. Stern's Regulation of Medical AI,   
 **The Economics of Artificial Intelligence**    
-edited by A. Agarwal, J. Gans, and A. Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf)       
+edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf)       
 4. Beware Explanations from AI in Health Care, **Science** (2021) [PDF](research/beware_march2023.pdf), [link](https://www.science.org/doi/10.1126/science.abg1834)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   

@@ -18,11 +18,11 @@ Title: Reconceiving Procedural Fairness (2021-2024).
 New Researcher Award,      
 Title: Mitigating Machine Bias (2022-2024). 
 
-4. Schwartz Reisman Institute for Technology & Society, 
+4. **Schwartz Reisman Institute for Technology & Society**, 
 Faculty Fellow Scholarship,    
 Title: Noise and Bias, Algorithmic Fairness in a Messy Data World (2022-2024).    
 
-5. The Desmarais Fund for Research in AI,
+5. **The Desmarais Fund for Research in AI**,
 Faculty Research Grant,       
 Title: Fair Machine Learning (2019-2021). 
 

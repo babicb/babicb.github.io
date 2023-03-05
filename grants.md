@@ -6,7 +6,7 @@ title: Grants
 
 Below is a list of larger grants on which I am or have been a PI, Co-PI or Collaborator. 
 
-1. **Social Sciences and Humanities Research Council of Canada**, 
+1. **Social Sciences and Humanities Research Council of Canada**,      
 Insight Grant,     
 Title: From Observed Disparity to Historical Inequality: A Data-Centric Approach to Machine Bias (2022-2025). 
 
@@ -18,7 +18,7 @@ Title: Reconceiving Procedural Fairness (2021-2024).
 New Researcher Award,      
 Title: Mitigating Machine Bias (2022-2024). 
 
-4. **Schwartz Reisman Institute for Technology & Society**, 
+4. **Schwartz Reisman Institute for Technology & Society**,      
 Faculty Fellow Scholarship,    
 Title: Noise and Bias, Algorithmic Fairness in a Messy Data World (2022-2024).    
 

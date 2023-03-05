@@ -15,7 +15,7 @@ with I. Glernn Cohen
 **Philosophers' Imprint** (2023) [PDF](research/encroachment_march2023.pdf)   
 with Zoe Johnson King    
 3. Comment on Ariel D. Stern's Regulation of Medical AI,   
-**The Economics of Artificial Intelligence** (Ajay Agarwal, Joshua Gans, and Avi GOldfarb, eds) (2023) [PDF](research/ads_comment_march2023.pdf)       
+**The Economics of Artificial Intelligence** (A. Agarwal, J. Gans, and A. Goldfarb, eds) (2023) [PDF](research/ads_comment_march2023.pdf)       
 4. Beware Explanations from AI in Health Care, **Science** (2021) [PDF](research/beware_march2023.pdf) [link](https://www.science.org/doi/10.1126/science.abg1834)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
@@ -26,18 +26,18 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 **Nature Machine Intelligence** (2021) [PDF](research/dtc_march2023.pdf) [link](https://www.nature.com/articles/s42256-021-00331-0)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke
 6. Normativity, Epistemic Rationality and Noisy Statistical Evidence,   
-**The British Journal for the Philosophy of Science** (2021) [PDF](research/noisy_stereotypes_march2021.pdf)   
+**The British Journal for the Philosophy of Science** (2021) [PDF](research/noisy_stereotypes_march2021.pdf) [link](https://www.journals.uchicago.edu/doi/10.1086/715196)   
 with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler   
-7. Approximate Coherentism and Luck, **Philosophy of Science** (2021) [PDF](research/acl.pdf)  
-8. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [link](https://www.nature.com/articles/s41746-020-0262-2), [PDF](research/nature_system_view.pdf)   
+7. Approximate Coherentism and Luck, **Philosophy of Science** (2021) [PDF](research/acl.pdf) [link](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/approximate-coherentism-and-luck/362F44FD87EEA07E0E60EF57CD34768D) 
+8. A System View for Medical ML Policy, **Nature Digital Medicine** (2020) [PDF](research/nature_system_view.pdf) [link](https://www.nature.com/articles/s41746-020-0262-2)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
-9. Algorithms on Regulatory Lockdown, **Science** (2019) [link](https://www.science.org/doi/abs/10.1126/science.aay9547), [PDF](locked_ai_nov2019.pdf)  
+9. Algorithms on Regulatory Lockdown, **Science** (2019) [PDF](locked_ai_nov2019.pdf) [link](https://www.science.org/doi/abs/10.1126/science.aay9547)   
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   
-10. Moral Obligation & Epistemic Risk, **Oxford Studies in Normative Ethics** (2020) [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5), [PDF](research/bjk_mer_2019.pdf)   
+10. Moral Obligation & Epistemic Risk, **Oxford Studies in Normative Ethics** (2020) [PDF](research/bjk_mer_2019.pdf) [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)   
 with Zoe Johnson King  
-11. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [link](https://doi.org/10.1086/703552), [PDF](research/babic_ter_final.pdf)
+11. A Theory of Epistemic Risk, **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf) [link](https://doi.org/10.1086/703552)    
   
 **Other Writing**   
 <ol start="12">

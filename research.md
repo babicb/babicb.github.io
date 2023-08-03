@@ -42,18 +42,18 @@ with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler [PDF](research/noisy_stereot
 **Nature Digital Medicine** (2020)     
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/nature_system_view.pdf), [link](https://www.nature.com/articles/s41746-020-0262-2)   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
-9. Algorithms on Regulatory Lockdown,      
+11. Algorithms on Regulatory Lockdown,      
 **Science** (2019)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  [PDF](locked_ai_nov2019.pdf), [link](https://www.science.org/doi/abs/10.1126/science.aay9547)    
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   
-10. Moral Obligation & Epistemic Risk,        
+12. Moral Obligation & Epistemic Risk,        
 **Oxford Studies in Normative Ethics** (2020)    
 with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)    
-11. A Theory of Epistemic Risk,     
+13. A Theory of Epistemic Risk,     
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)    
   
 **Other Writing**   
-<ol start="12">
+<ol start="14">
     <li> Explaining Medical AI is Easier Said than Done, <b>STAT News</b> (2020) <a href="https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/">link</a> <br>  
 with Sara Gerke </li>
     <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails">link</a> <br>  
@@ -66,7 +66,7 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 
 **Work in Progress** 
 
-<ol start="16">
+<ol start="18">
   <li> Resolute and Correlated Bayesians (under review) </li>
   <li> Reframing the Accuracy-Interpretability Tradeoff (under review) </li>
 </ol> 

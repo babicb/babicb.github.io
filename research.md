@@ -16,7 +16,7 @@ with I. Glenn Cohen [PDF](research/explainability_march2023.pdf)
 with Zoe Johnson King [PDF](research/afr.pdf)
 3. Appealing AI,      
 **Nature Digital Medicine** (2023)    
-with I. Glenn Cohen, Sara Gerke, Quiong Xia, Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
+with I. Glenn Cohen, Sara Gerke, Qiong Xia, Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
 4. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023)    
 with Zoe Johnson King [PDF](research/encroachment_march2023.pdf)       

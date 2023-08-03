@@ -16,40 +16,41 @@ with I. Glenn Cohen [PDF](research/explainability_march2023.pdf)
 with Zoe Johnson King [PDF](research/afr.pdf)
 3. Appealing AI,      
 **Nature Digital Medicine** (2023)    
-with I. Glenn Cohen, Sara Gerke, Qiong Xia, Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
-4. Moral Encroachment Under Moral Uncertainty,   
+with I. Glenn Cohen, Sara Gerke, Qiong Xia,
+Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
+5. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023)    
 with Zoe Johnson King [PDF](research/encroachment_march2023.pdf)       
-5. Comment on Ariel Dora Stern's Regulation of Medical AI,   
+6. Comment on Ariel Dora Stern's Regulation of Medical AI,   
 **The Economics of Artificial Intelligence**    
 edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf)           
-6. Beware Explanations from AI in Health Care,      
+7. Beware Explanations from AI in Health Care,      
 **Science** (2021)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/beware_march2023.pdf), [link](https://www.science.org/doi/10.1126/science.abg1834)  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
 &nbsp;&nbsp;&nbsp;&nbsp; [Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/08/23/10-key-questions-every-company-should-ask-before-using-ai/?sh=6070c2415d62), [Proto (Time Magazine/MGH)](http://protomag.com/research-studies/ai-explain-thyself/),   
 &nbsp;&nbsp;&nbsp;&nbsp; [Tencent QQ](https://new.qq.com/omn/20210903/20210903A0C0DC00.html), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions),   
 &nbsp;&nbsp;&nbsp;&nbsp; [China Business News](https://www.yicai.com/news/101163033.html)
-7. Direct to Consumer Advertising of Medical Machine Learning,      
+8. Direct to Consumer Advertising of Medical Machine Learning,      
 **Nature Machine Intelligence** (2021)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/dtc_march2023.pdf), [link](https://www.nature.com/articles/s42256-021-00331-0)     
-8. Normativity, Epistemic Rationality and Noisy Statistical Evidence,       
+9. Normativity, Epistemic Rationality and Noisy Statistical Evidence,       
 **The British Journal for the Philosophy of Science** (2021)       
 with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler [PDF](research/noisy_stereotypes_march2021.pdf), [link](https://www.journals.uchicago.edu/doi/10.1086/715196)    
-9. Approximate Coherentism and Luck,     
+10. Approximate Coherentism and Luck,     
 **Philosophy of Science** (2021) [PDF](research/acl.pdf), [link](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/approximate-coherentism-and-luck/362F44FD87EEA07E0E60EF57CD34768D) 
-10. A System View for Medical ML Policy,      
+11. A System View for Medical ML Policy,      
 **Nature Digital Medicine** (2020)     
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/nature_system_view.pdf), [link](https://www.nature.com/articles/s41746-020-0262-2)   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)
-11. Algorithms on Regulatory Lockdown,      
+12. Algorithms on Regulatory Lockdown,      
 **Science** (2019)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  [PDF](locked_ai_nov2019.pdf), [link](https://www.science.org/doi/abs/10.1126/science.aay9547)    
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)   
-12. Moral Obligation & Epistemic Risk,        
+13. Moral Obligation & Epistemic Risk,        
 **Oxford Studies in Normative Ethics** (2020)    
 with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)    
-13. A Theory of Epistemic Risk,     
+14. A Theory of Epistemic Risk,     
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)    
   
 **Other Writing**   

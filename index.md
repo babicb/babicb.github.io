@@ -11,7 +11,9 @@ meta-description: "Asistant Professor, University of Toronto"
   <p><img src="/img/profile_photo4.jpg" width="60%" height="auto"></p>
 </div>
 
-Welcome to my website. Starting Fall 2023, I will be HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Law](https://www.law.hku.hk/) and [Philosophy](https://philosophy.hku.hk/dept/) at the [University of Hong Kong](https://www.hku.hk/). 
+Welcome to my website. 
+
+Starting Fall 2023, I will be HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Law](https://www.law.hku.hk/) and [Philosophy](https://philosophy.hku.hk/dept/) at the [University of Hong Kong](https://www.hku.hk/). 
 
 For 2023-2024, I will be on leave from the [University of Toronto](https://www.utoronto.ca), where I am Assistant Professor in the [Department of Statistics](https://www.statistics.utoronto.ca/people/directories/all-faculty/boris-babic) and the [Department of Philosophy](https://philosophy.utoronto.ca/directory/boris-babic/) and a faculty fellow of the [Schwartz Reisman Institute for Technology & Society](https://srinstitute.utoronto.ca). I will remain an occasional visiting professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). 
 

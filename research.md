@@ -7,14 +7,16 @@ title: Research
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Academic Articles**
-
-1. The Algorithmic Explainability Bait and Switch,   
-**Minnesota Law Review** (2023)    
+1. On the Epistemic Significance of Noise,   
+**Oxford Studies in Epistemology** (Exp 2024)    
+with Zoe Johnson King     
+2. The Algorithmic Explainability Bait and Switch,   
+**Minnesota Law Review** (Exp 2024)    
 with I. Glenn Cohen [PDF](research/explainability_march2023.pdf)
-2. Algorithmic Fairness and Resentment,   
+3. Algorithmic Fairness and Resentment,   
 **Philosophical Studies** (2023)    
 with Zoe Johnson King [PDF](research/afr.pdf)
-3. Appealing AI,      
+4. Appealing AI,      
 **Nature Digital Medicine** (2023)    
 with I. Glenn Cohen, Sara Gerke, Qiong Xia,   
 Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
@@ -54,7 +56,7 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)    
   
 **Other Writing**   
-<ol start="14">
+<ol start="15">
     <li> Explaining Medical AI is Easier Said than Done, <b>STAT News</b> (2020) <a href="https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/">link</a> <br>  
 with Sara Gerke </li>
     <li> When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails">link</a> <br>  
@@ -67,8 +69,8 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 
 **Work in Progress** 
 
-<ol start="18">
-  <li> Resolute and Correlated Bayesians (under review) </li>
+<ol start="20">
+  <li> Resolute and Correlated Bayesians (review and revise) </li>
   <li> Reframing the Accuracy-Interpretability Tradeoff (under review) </li>
 </ol> 
 

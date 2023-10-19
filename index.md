@@ -13,7 +13,7 @@ meta-description: "Asistant Professor, University of Toronto"
 
 Welcome to my website.     
 
-I am a tenure-track Assistant Professor at the [University of Toronto](https://www.utoronto.ca), where I have joint appointment in the [Department of Statistics](https://www.statistics.utoronto.ca/people/directories/all-faculty/boris-babic) and the [Department of Philosophy](https://philosophy.utoronto.ca/directory/boris-babic/). I am also a faculty fellow of the [Schwartz Reisman Institute for Technology & Society](https://srinstitute.utoronto.ca) and an occasional visiting professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). 
+I am a tenure-track Assistant Professor at the [University of Toronto](https://www.utoronto.ca), where I have a joint appointment in the [Department of Statistics](https://www.statistics.utoronto.ca/people/directories/all-faculty/boris-babic) and the [Department of Philosophy](https://philosophy.utoronto.ca/directory/boris-babic/). I am also a faculty fellow of the [Schwartz Reisman Institute for Technology & Society](https://srinstitute.utoronto.ca) and an occasional visiting professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). 
 
 For 2023-2024, I will be HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Law](https://www.law.hku.hk/) and [Philosophy](https://philosophy.hku.hk/dept/) at the [University of Hong Kong](https://www.hku.hk/). 
 

@@ -15,7 +15,7 @@ Welcome to my website.
 
 I am a tenure-track Assistant Professor at the [University of Toronto](https://www.utoronto.ca), where I have a joint appointment in the [Department of Statistics](https://www.statistics.utoronto.ca/people/directories/all-faculty/boris-babic) and the [Department of Philosophy](https://philosophy.utoronto.ca/directory/boris-babic/). I am also a faculty fellow of the [Schwartz Reisman Institute for Technology & Society](https://srinstitute.utoronto.ca) and an occasional visiting professor in the Decision Sciences department at [INSEAD](https://www.insead.edu/). 
 
-For 2023-2024, I will be HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Law](https://www.law.hku.hk/) and [Philosophy](https://philosophy.hku.hk/dept/) at the [University of Hong Kong](https://www.hku.hk/). 
+For 2023-2024, I will be on a leave of absence from UofT, and at the [University of Hong Kong](https://www.hku.hk/), as HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Law](https://www.law.hku.hk/) and [Philosophy](https://philosophy.hku.hk/dept/). 
 
 I work primarily in ethics, law, and policy of artificial intelligence and machine learning, especially in medical applications. I also work in Bayesian statistics and epistemology. My research has appeared in Science, Nature Machine Intelligence, Nature Digitial Medicine, and the Harvard Business Review. It has also been profiled in Forbes, STAT News, China Business News, Tencent QQ, and The Edge Markets (Singapore). I teach BA, MA, MBA, and PhD classes in statistics, philosophy, and decision making.
 

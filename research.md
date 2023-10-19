@@ -69,7 +69,7 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 
 **Work in Progress** 
 
-<ol start="20">
+<ol start="19">
   <li> Resolute and Correlated Bayesians (review and revise) </li>
   <li> Reframing the Accuracy-Interpretability Tradeoff (under review) </li>
 </ol> 

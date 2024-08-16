@@ -53,11 +53,7 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  [PDF](locked_ai_nov2019.
 **Oxford Studies in Normative Ethics** (2020)    
 with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)    
 14. A Theory of Epistemic Risk,     
-**Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)
-
-**Other Writing**    
-15. Explaining Medical AI is Easier Said than Done, <b>STAT News</b> (2020) <a href="https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/">link</a> Hi    
-16. When Machine Learning Goes off the Rails, <b>Harvard Business Review</b> (2020) <a href="https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails">link</a> Hi     
+**Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)  
   
 **Other Writing**   
 <ol start="15">
@@ -75,7 +71,7 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard </li>
 
 <ol start="19">
   <li> Resolute and Correlated Bayesians (review and revise) <a href="research/RCB__August2024.pdf">PDF</a> </li>
-  <li> Reframing the Accuracy-Interpretability Tradeoff (under review) [PDF](research/IAT_August2024.pdf) </li>
+  <li> Reframing the Accuracy-Interpretability Tradeoff (under review) <a href="research/IAT_August2024.pdf">PDF</a> </li>
 </ol> 
 
 &nbsp;

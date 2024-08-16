@@ -8,7 +8,7 @@ meta-description: "Associate Professor, University of Hong Kong"
 ---
 
 <div style="text-align: center;">
-  <p><img src="/img/profile_photo5.jpg" width="60%" height="auto"></p>
+  <p><img src="/img/profile_photo6.jpg" width="60%" height="auto"></p>
 </div>
 
 Welcome to my website.     
@@ -20,6 +20,10 @@ I work primarily in ethics, law, and policy of artificial intelligence and machi
 Before joining the University of Hong Kong, I was tenure track Assistant Professor of Statistics and Philosophy at the [University of Toronto](https://www.utoronto.ca) and tenure track Assistant Professor of Decision Sciences at [INSEAD](https://www.insead.edu/) (both in France and Singapore). I completed my postdoc at the [California Institute of Technology (Caltech)](http://hss.divisions.caltech.edu/people/boris-babic). 
 
 I received a JD, cum laude, from [Harvard Law School](https://hls.harvard.edu/), an MS in [Statistics](https://lsa.umich.edu/stats) and a PhD in [Philosophy](https://lsa.umich.edu/philosophy), from the University of Michigan, Ann Arbor. I practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, a leading business litigation firm, where I represented Samsung, Google, Mattel, and DreamWorks Animation, among other clients. In particular, I spent much of my time working on the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) litigation between Mattel, the makers of Barbie, and rival company MGA, the makers of Bratz. 
+
+<div style="text-align: center;">
+  <p><img src="/img/hkulogo.png" width="60%" height="auto"></p>
+</div>
 
 &nbsp;
 &nbsp;

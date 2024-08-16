@@ -6,9 +6,11 @@ title: Teaching
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"--> 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
-My full time tenure stream appointment is at the University of Toronto, where I teach Bayesian Statistics (STA 365), Statistics Ethics and Law (STA 2052), Ethics of Data Science (PHL 377) and a philosophy of science graduate seminar (PHL 2223). 
+At the University of Hong Kong, my tenure stream appointment is in the Department of Philosophy, the Institute of Data Science and (by courtesy) the Faculty of Law. I teach courses across all three departments. In Philosophy, I teach core foundations courses for MA PPE students (PHIL 7101), and MA AIES (PHIL 7010) students. In Data Science, I teach a research oriented PhD course on ethical dimensions of machine learning and artificial intelligence (DATA 8013). And in Law, I teach an LLB course on law and ethics of artificial intelligence (LLAW 3065). 
 
-At INSEAD, where I am a visiting professor, I teach an MBA class entitled Ethics of Algorithms. Previously, I was a tenure stream professor at INSEAD, and I taught Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
+At the University of Toronto, I taught Bayesian Statistics (STA 365), Statistics Ethics and Law (STA 2052), Ethics of Data Science (PHL 377) and a philosophy of science graduate seminar (PHL 2223). 
+
+At INSEAD, where I am a visiting professor, I occasioanlly teach an MBA class entitled Ethics of Algorithms. Previously, I was a tenure stream professor at INSEAD, and I taught Management Decision Making (MBA), Bayesian Statistics (PhD), and [Quantitative Methods (MBA)](https://borisbabic.com/teaching/inseadqm/home/).  
 
 Here is an introductory lecture I like comparing frequentist to Bayesian approaches to inference: [Bayes Lecture](teaching/teaching_pres_new.pdf).  
 

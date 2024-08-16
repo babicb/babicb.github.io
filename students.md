@@ -4,16 +4,11 @@ title: Students
 ---
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
-Below is a list of my current and former students at the University of Toronto. 
+Below is a list of current and former PhD students whose committees I serve or have served on.   
 
-**PhD Students**
-
-Alice Huang (Philosophy, current)
+Alice Huang (Philosophy, former, Postdoc at Harvard and tenure track at Western Ontario)
 
 Leena Abdelrahim (Philosophy, current)
 
 Mark Hallap (Philosophy, current) 
 
-**Undergraduate Students**
-
-Zhanghan Yin (Mathematics, former, now PhD student at UC Berkeley)

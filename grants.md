@@ -6,7 +6,7 @@ title: Grants
 
 Below is a list of larger grants on which I am or have been a PI, Co-PI or Collaborator. 
 
-1. **(Co-PI) DOSS, ECE, Transform Heart Failure/Ted Rogers Centre for Heart Research**,
+1. **(Co-PI) DOSS, ECE, Transform Heart Failure/Ted Rogers Centre for Heart Research**,    
 XSeed Grant,       
 Title: Regulating the AI Lifecycle: A Multidisciplinary Perspective (2023-2025).
 

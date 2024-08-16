@@ -14,24 +14,24 @@ with Zoe Johnson King [PDF](research/epistemic_noise_nov2023.pdf)
 
 2\. The Algorithmic Explainability Bait and Switch,   
 **Minnesota Law Review** (Exp 2024)    
-with I. Glenn Cohen [PDF](research/explainability_march2023.pdf)    
+with I. Glenn Cohen [PDF](research/explainability_march2023.pdf), [link](https://minnesotalawreview.org/article/the-algorithmic-explainability-bait-and-switch/)            
 
 3\. Algorithmic Fairness and Resentment,   
 **Philosophical Studies** (2023)    
-with Zoe Johnson King [PDF](research/afr.pdf)    
+with Zoe Johnson King [PDF](research/afr.pdf), [link](https://link.springer.com/article/10.1007/s11098-023-02006-5)   
 
-4\. Appealing AI,      
+4\. How AI Can Learn from the Law,      
 **Nature Digital Medicine** (2023)    
 with I. Glenn Cohen, Sara Gerke, Qiong Xia,   
-Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf)    
+Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf), [link](https://www.nature.com/articles/s41746-023-00906-8)     
 
 5\. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023)    
-with Zoe Johnson King [PDF](research/encroachment_march2023.pdf)       
+with Zoe Johnson King [PDF](research/encroachment_march2023.pdf), [link](https://journals.publishing.umich.edu/phimp/article/id/2073/)           
 
 6\. Comment on Ariel Dora Stern's Regulation of Medical AI,   
 **The Economics of Artificial Intelligence**    
-edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf)         
+edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf), [link](https://www.nber.org/books-and-chapters/economics-artificial-intelligence-health-care-challenges)             
 
 7\. Beware Explanations from AI in Health Care,      
 **Science** (2021)    

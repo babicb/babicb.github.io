@@ -8,7 +8,7 @@ meta-description: "Associate Professor, University of Hong Kong"
 ---
 
 <div style="text-align: center;">
-  <p><img src="/img/profile_photo6.jpg" width="60%" height="auto"></p>
+  <p><img src="/img/profilephoto6.jpg" width="60%" height="auto"></p>
 </div>
 
 Welcome to my website.     

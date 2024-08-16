@@ -106,15 +106,8 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.o
 &nbsp;
 
 
-<!---
-<ol start="3">
-  <li>A paper on approximate coherence </li>
-  <li>Norms, Stereotypes and Accuracy <a href="babic_nsa.pdf">PDF</a> </li>
-  <li>Adaptive Burdens of Proof (e-mail for draft) </li>
-  <li>Dynamic Epistemic Risk </li>
-  <li>Testing for Discrimination and the Risk of Error </li>
-  <li>Invariance, Entropy, and (Objective) Bayesianism </li>
-</ol> 
+
+
 <!---
 **Overview**
   The overaching theme of my current research is **epistemic risk**. It consists of three principal components:

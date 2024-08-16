@@ -21,7 +21,7 @@ description: Assistant Professor, University of Toronto
 navbar-links:
   Research: "research"
   Teaching: "teaching"
-  Students: "students"
+  #Students: "students"
   Grants/Funding: "grants"
   CV: "Babic_CV.pdf"
 # --- Footer options --- #

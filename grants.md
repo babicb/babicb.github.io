@@ -7,12 +7,12 @@ title: Grants
 Below is a list of larger grants on which I am or have been a PI, Co-PI or Collaborator. 
 
 1. **DOSS, ECE, Transform Heart Failure/Ted Rogers Centre for Heart Research**,
-XSeed Grant,
+XSeed Grant,    
 Co-PI,     
 Title: Regulating the AI Lifecycle: A Multidisciplinary Perspective (2023-2025).
 
 3. **Social Sciences and Humanities Research Council of Canada**,      
-Insight Grant,
+Insight Grant,    
 PI,     
 Title: From Observed Disparity to Historical Inequality: A Data-Centric Approach to Machine Bias (2022-2025). 
 

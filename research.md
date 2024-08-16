@@ -57,9 +57,29 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 
 **Other Writing1234**
 
-15\. Hi hi hi    
+15\. Explaining Medical AI is Easier Said than Done,   
+**STAT News** (2021)    
+with Sara Gerke [link](https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/)   
 
-16\. Hi hi hi hi 
+16\. When Machine Learning Goes off the Rails,   
+**Harvard Business Review** (2020)    
+with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke [link](https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails)    
+
+17\. Can AI Decide Who Gets an Organ Transplant?,   
+**Harvard Business Review** (2020)    
+with I. Glenn Cohen, Theodoros Evgeniou, Sara Gerke, and Nikos Trichakis [link](https://hbr.org/2020/12/can-ai-fairly-decide-who-gets-an-organ-transplant)    
+
+18\. A Better Way to Onboard AI,   
+**Harvard Business Review** (2020)    
+with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)    
+
+**Work in Progress**
+
+19\. Resolute and Correlated Bayesians [PDF](research/RCB__August2024.pdf)    
+
+20\. Reframing the Accuracy-Interpretability Tradeoff [PDF](research/IAT_August2024.pdf)
+
+
   
 **Other Writing**   
 <ol start="15">

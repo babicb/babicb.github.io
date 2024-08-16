@@ -43,7 +43,7 @@ title-separator: ""
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#4ebd88" #"#172B4D"
+navbar-col: "#40826D" #"#172B4D"
 navbar-text-col: "#FFFFFF"
 #navbar-children-col: "#403294"
 #page-col: "#9370DB" 

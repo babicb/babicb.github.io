@@ -6,7 +6,8 @@ title: Research
 
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
-**Academic Articles**
+**Academic Articles**    
+
 1\. On the Epistemic Significance of Noise,   
 **Oxford Studies in Epistemology** (Exp 2024)    
 with Zoe Johnson King [PDF](research/epistemic_noise_nov2023.pdf)    
@@ -67,7 +68,7 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 14\. A Theory of Epistemic Risk,     
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)
 
-**Other Writing**
+**Other Writing**    
 
 15\. Explaining Medical AI is Easier Said than Done,   
 **STAT News** (2021)    
@@ -85,7 +86,7 @@ with I. Glenn Cohen, Theodoros Evgeniou, Sara Gerke, and Nikos Trichakis [link](
 **Harvard Business Review** (2020)    
 with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)    
 
-**Work in Progress**
+**Work in Progress**    
 
 19\. Resolute and Correlated Bayesians [PDF](research/RCB__August2024.pdf)    
 

@@ -53,7 +53,13 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  [PDF](locked_ai_nov2019.
 **Oxford Studies in Normative Ethics** (2020)    
 with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)    
 14. A Theory of Epistemic Risk,     
-**Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)  
+**Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)
+
+**Other Writing1234**
+
+15\. Hi hi hi    
+
+16\. Hi hi hi hi 
   
 **Other Writing**   
 <ol start="15">

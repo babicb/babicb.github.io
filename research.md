@@ -92,18 +92,18 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.o
 
 20\. Reframing the Accuracy-Interpretability Tradeoff [PDF](research/IAT_August2024.pdf)
 
-
-  
-
-
-
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 <!---
 <ol start="3">
   <li>A paper on approximate coherence </li>

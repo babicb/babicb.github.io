@@ -9,7 +9,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 **Academic Articles**
 1. On the Epistemic Significance of Noise,   
 **Oxford Studies in Epistemology** (Exp 2024)    
-with Zoe Johnson King [PDF](research/epistemic_noise_november2023.pdf)    
+with Zoe Johnson King [PDF](research/epistemic_noise_nov2023.pdf)    
 2. The Algorithmic Explainability Bait and Switch,   
 **Minnesota Law Review** (Exp 2024)    
 with I. Glenn Cohen [PDF](research/explainability_march2023.pdf)

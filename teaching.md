@@ -6,7 +6,7 @@ title: Teaching
   - "/img/pasadena.jpg" : "South Pasadena, photo by Nevena Novakovic (2018)"--> 
 <!---Here you will find information about my teaching experience and graphical summaries of quantitative student feedback.-->
 
-At the University of Hong Kong, my tenure stream appointment is in the Department of Philosophy, the Institute of Data Science and (by courtesy) the Faculty of Law. I teach courses across all three departments. In Philosophy, I teach core foundations courses for MA PPE students (PHIL 7101), and MA AIES (PHIL 7010) students. In Data Science, I teach a research oriented PhD course on ethical dimensions of machine learning and artificial intelligence (DATA 8013). And in Law, I teach an LLB course on law and ethics of artificial intelligence (LLAW 3065). 
+At the University of Hong Kong, my tenure stream appointment is in the Department of Philosophy, the Institute of Data Science and (by courtesy) the Faculty of Law. I teach courses across all three departments. In Philosophy, I teach core foundations courses for MA PPE students (PHIL 7101), and MA AIES (PHIL 7001 and PHIL 7010) students. In Data Science, I teach a research oriented PhD course on ethical dimensions of machine learning and artificial intelligence (DATA 8013). And in Law, I teach an LLB course on law and ethics of artificial intelligence (LLAW 3065). 
 
 At the University of Toronto, I taught Bayesian Statistics (STA 365), Statistics Ethics and Law (STA 2052), Ethics of Data Science (PHL 377) and a philosophy of science graduate seminar (PHL 2223). 
 

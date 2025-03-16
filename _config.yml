@@ -33,6 +33,13 @@ author:
 
 # --- Misc --- #
 
+# Select the social network links that you want to show in the footer.
+# You can change the order that they show up on the page by changing the order here.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+linkedin: boris-babic-31110b2a1
+google-scholar: https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en
+
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-122236544-1"
 

@@ -11,9 +11,11 @@ meta-description: "Associate Professor, University of Hong Kong"
   <p><img src="/img/profilephoto6.jpg" width="60%" height="auto"></p>
 </div>
 -->
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="flex: 1;">
-    <p><img src="/img/profilephoto6.jpg" width="50%" height="auto"></p>
+    <p><img src="/img/profilephoto6.jpg" width="60%" height="auto"></p>
+    <p> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="-boris-babic" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/-boris-babic?trk=profile-badge"></a></div> </p>
   </div>
   <div style="flex: 1.25;">
 
@@ -24,9 +26,6 @@ meta-description: "Associate Professor, University of Hong Kong"
 <p>Before joining the University of Hong Kong, I was tenure track Assistant Professor of Statistics and Philosophy at the [University of Toronto](https://www.utoronto.ca) and tenure track Assistant Professor of Decision Sciences at [INSEAD](https://www.insead.edu/) (both in France and Singapore). I completed my postdoc at the [California Institute of Technology (Caltech)](http://hss.divisions.caltech.edu/people/boris-babic).</p> 
 
 <p>I received a JD, cum laude, from [Harvard Law School](https://hls.harvard.edu/), an MS in [Statistics](https://lsa.umich.edu/stats) and a PhD in [Philosophy](https://lsa.umich.edu/philosophy), from the University of Michigan, Ann Arbor. I practiced law at [Quinn Emanuel Urquhart & Sullivan, LLP](https://www.quinnemanuel.com/) in Los Angeles, a leading business litigation firm, where I represented Samsung, Google, Mattel, and DreamWorks Animation, among other clients. In particular, I spent much of my time working on the now famous (infamous?) ["doll wars"](https://www.newyorker.com/magazine/2018/01/22/when-barbie-went-to-war-with-bratz) litigation between Mattel, the makers of Barbie, and rival company MGA, the makers of Bratz.</p> 
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="-boris-babic" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/-boris-babic?trk=profile-badge"></a></div>
               
 <div style="text-align: center;">
   <p><img src="/img/hkulogo.png" width="40%" height="auto"></p>

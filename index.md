@@ -24,8 +24,8 @@ I received a JD, cum laude, from [Harvard Law School](https://hls.harvard.edu/),
 You are welcome to contact me by e-mail (found on my CV and HKU profile) or connect with me on LinkedIn
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="boris-babic-31110b2a1" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/boris-babic-31110b2a1?trk=profile-badge">Boris Babic</a></div>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="-boris-babic" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/-boris-babic?trk=profile-badge"></a></div>
+              
 <div style="text-align: center;">
   <p><img src="/img/hkulogo.png" width="40%" height="auto"></p>
 </div>

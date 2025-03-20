@@ -14,7 +14,7 @@ meta-description: "Associate Professor, University of Hong Kong"
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <div style="flex: 1;">
-    <p><img src="/img/profilephoto6.jpg" width="90%" height="auto"></p>
+    <p><img src="/img/profilephoto6.jpg" width="75%" height="auto"></p>
     <p> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="dark" data-type="VERTICAL" data-vanity="-boris-babic" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://hk.linkedin.com/in/-boris-babic?trk=profile-badge"></a></div> </p>
   </div>
   <div style="flex: 1.25;">

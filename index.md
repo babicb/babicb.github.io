@@ -7,7 +7,7 @@ meta-title: "Boris Babic"
 meta-description: "Associate Professor, University of Hong Kong"
 ---
 <div style="text-align: center;">
-  <p><img src="/img/557bc72b-fdf4-4b4d-bff1-0d7cf038266b.jpg" width="60%" height="auto"></p>
+  <p><img src="/img/profilephoto7.jpg" width="50%" height="auto"></p>
 </div>
 
 Welcome to my website. I am HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Philosophy](https://philosophy.hku.hk/dept/), and [Law](https://www.law.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I am also one of the principal investigators at the [AI and Humanity Lab](https://ai-humanity.net/), a research fellow of the [Urban Systems Institute](https://www.usi.hku.hk/), and a faculty affiliate of the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca).

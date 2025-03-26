@@ -1,8 +1,5 @@
 ---
 layout: page
-title: Boris Babic
-subtitle: HKU100 Associate Professor, University of Hong Kong
-css: "/css/index.css"
 meta-title: "Boris Babic"
 meta-description: "Associate Professor, University of Hong Kong"
 ---

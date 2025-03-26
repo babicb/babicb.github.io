@@ -78,9 +78,9 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 
 **Essays**    
 
-17. The West Can't Have it Both Ways on Overcapacity,
-**South China Morning Post** (2024)
-with Herman Cappelen [link](https://www.scmp.com/opinion/china-opinion/article/3286374/west-cant-have-it-both-ways-overcapacity)
+17\. The West Can't Have it Both Ways on Overcapacity,    
+**South China Morning Post** (2024)    
+with Herman Cappelen [link](https://www.scmp.com/opinion/china-opinion/article/3286374/west-cant-have-it-both-ways-overcapacity)     
 
 18\. Explaining Medical AI is Easier Said than Done,   
 **STAT News** (2021)    

@@ -20,10 +20,11 @@ description: Associate Professor, University of Hong Kong
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   #Students: "students"
   Grants/Funding: "grants"
   CV: "Babic_CV.pdf"
+  LinkedIn: "https://www.linkedin.com/in/-boris-babic/"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.

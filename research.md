@@ -123,6 +123,9 @@ with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.o
 
 
 <!---
+title: Boris Babic
+subtitle: HKU100 Associate Professor, University of Hong Kong
+css: "/css/index.css"
 **Overview**
   The overaching theme of my current research is **epistemic risk**. It consists of three principal components:
 **Philosophy of science/formal epistemology**. I try to motivate and construct a general theory of epistemic risk in terms of alethic sensitivity to small changes in accuracy. This theory is currently developed within the epistemic utility framework, though I think of this as a starting point rather than a fundamental commitment. If you would like to learn more, see the paper entitled A Theory of Epistemic Risk. This project proposes a way of measuring the riskiness of a credence function and connects risk to measures of uncertainty. In particular, I show that under very general conditions epistemic risk is dual to information entropy. 

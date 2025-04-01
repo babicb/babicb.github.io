@@ -8,9 +8,9 @@ meta-description: "Associate Professor, University of Hong Kong"
 </div>
 
 <p><a href="https://www.linkedin.com/in/-boris-babic/">
-<img src="/img/linkedin.png" alt="https://www.linkedin.com/in/-boris-babic/" width="5%" height="auto">
+<img src="/img/linkedin.png" alt="https://www.linkedin.com/in/-boris-babic/" width="6%" height="auto">
 </a><a href="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao">
-<img src="/img/googlescholar.png" alt="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao" width="4.9%" height="auto">
+<img src="/img/googlescholar.png" alt="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao" width="5.9%" height="auto">
 </a></p>
 
 Welcome to my website. I am HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Philosophy](https://philosophy.hku.hk/dept/), and [Law](https://www.law.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I am also one of the principal investigators at the [AI and Humanity Lab](https://ai-humanity.net/), a research fellow of the [Urban Systems Institute](https://www.usi.hku.hk/), and a faculty affiliate of the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca).

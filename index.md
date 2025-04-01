@@ -7,8 +7,9 @@ meta-description: "Associate Professor, University of Hong Kong"
   <p><img src="/img/profilephoto7.jpg" width="50%" height="auto"></p>
 </div>
 
-<p><a href="https://www.w3schools.com">
+<p><a href="https://www.linkedin.com/in/-boris-babic/">
 <img src="/img/linkedin.png" alt="https://www.linkedin.com/in/-boris-babic/" width="5%" height="auto">
+</a><a href="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao">
 <img src="/img/googlescholar.png" alt="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao" width="4.9%" height="auto">
 </a></p>
 

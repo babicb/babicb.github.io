@@ -22,13 +22,13 @@ navbar-links:
   Research: "research"
   Grants/Funding: "grants"
   CV: "Babic_CV.pdf"
-  LinkedIn: "https://www.linkedin.com/in/-boris-babic/"
+ # LinkedIn: "https://www.linkedin.com/in/-boris-babic/"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Boris Babic
+  name: Home
 
 # --- Misc --- #
 

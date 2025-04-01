@@ -7,6 +7,11 @@ meta-description: "Associate Professor, University of Hong Kong"
   <p><img src="/img/profilephoto7.jpg" width="50%" height="auto"></p>
 </div>
 
+<p><a href="https://www.w3schools.com">
+<img src="ADD" alt="https://www.linkedin.com/in/-boris-babic/" width="50%" height="auto">
+<img src="ADD" alt="https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao" width="50%" height="auto">
+</a></p>
+
 Welcome to my website. I am HKU100 Associate Professor of [Data Science](https://datascience.hku.hk/), [Philosophy](https://philosophy.hku.hk/dept/), and [Law](https://www.law.hku.hk/) at the [University of Hong Kong](https://www.hku.hk/). I am also one of the principal investigators at the [AI and Humanity Lab](https://ai-humanity.net/), a research fellow of the [Urban Systems Institute](https://www.usi.hku.hk/), and a faculty affiliate of the [Schwartz Reisman Institute for Technology and Society](https://srinstitute.utoronto.ca/) at the [University of Toronto](https://www.utoronto.ca).
 
 I work primarily in ethics, law, and policy of artificial intelligence and machine learning, including generative AI. I also work in Bayesian statistics and epistemology. My research has appeared in Science, Nature Machine Intelligence, Nature Digitial Medicine, and the Harvard Business Review. It has also been profiled in Forbes, STAT News, China Business News, Tencent QQ, and The Edge Markets (Singapore). I teach BA, MA, MBA, and PhD classes in statistics, philosophy, and decision making.

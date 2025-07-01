@@ -4,7 +4,7 @@ meta-title: "Boris Babic"
 meta-description: "Associate Professor, University of Hong Kong"
 ---
 <div style="text-align: center;">
-  <p><img src="/img/profilephoto8.jpg" width="50%" height="auto"></p>
+  <p><img src="/img/profilephoto9.jpg" width="50%" height="auto"></p>
 </div>
 
 <p><a href="https://www.linkedin.com/in/-boris-babic/">

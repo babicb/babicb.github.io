@@ -4,7 +4,7 @@ title: Research
 ---
 <!--- You will find below a list of publications and works in progress, followed by a general overview of my research. --> 
 
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
+Below is a list of my published academic articles, followed by essays written for more general audiences. You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
 **Academic Articles**     
 
@@ -80,33 +80,33 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 17\. A Theory of Epistemic Risk,     
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)
 
-**Essays**    
+**Essays**   
 
-18\. The West Can't Have it Both Ways on Overcapacity,    
+18\. Countries Must Move Beyond Seeing AI as a Race,    
+**Fortune Magazine** (2024)    
+with Brian Wong [link](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)    
+
+19\. The West Can't Have it Both Ways on Overcapacity,    
 **South China Morning Post** (2024)    
 with Herman Cappelen [link](https://www.scmp.com/opinion/china-opinion/article/3286374/west-cant-have-it-both-ways-overcapacity)     
 
-19\. Explaining Medical AI is Easier Said than Done,   
+20\. Explaining Medical AI is Easier Said than Done,   
 **STAT News** (2021)    
 with Sara Gerke [link](https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/)   
 
-20\. When Machine Learning Goes off the Rails,   
+21\. When Machine Learning Goes off the Rails,   
 **Harvard Business Review** (2020)    
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke [link](https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails)    
 
-21\. Can AI Decide Who Gets an Organ Transplant?,   
+22\. Can AI Decide Who Gets an Organ Transplant?,   
 **Harvard Business Review** (2020)    
 with I. Glenn Cohen, Theodoros Evgeniou, Sara Gerke, and Nikos Trichakis [link](https://hbr.org/2020/12/can-ai-fairly-decide-who-gets-an-organ-transplant)    
 
-22\. A Better Way to Onboard AI,   
+23\. A Better Way to Onboard AI,   
 **Harvard Business Review** (2020)    
-with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)    
+with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)      
 
-**Work in Progress**      
-
-23\. Reframing the Accuracy-Interpretability Tradeoff [PDF](research/IAT_August2024.pdf)
-
-24\. Justifiable AI: How to Seek Assurance for Large Language Models    
+ 
 
 &nbsp;
 &nbsp;

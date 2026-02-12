@@ -83,7 +83,7 @@ with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.un
 **Essays**   
 
 18\. Countries Must Move Beyond Seeing AI as a Race,    
-**Fortune Magazine** (2024)    
+**Fortune Magazine** (2026)    
 with Brian Wong [link](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)    
 
 19\. The West Can't Have it Both Ways on Overcapacity,    

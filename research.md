@@ -9,7 +9,7 @@ Below is a list of my published academic articles, followed by essays written fo
 **Academic Articles**  
 
 1\. Justifiability and AI: Putting Explainability in its Place,    
-**AI & Society** (2025)    
+**AI & Society** (2026)    
 with I. Glenn Cohen and Julian Savulescu [PDF](research/bcs_justifiability.pdf), [link]()    
 
 2\. A General Framework for Governing Marketed AI/ML Medical Devices,    

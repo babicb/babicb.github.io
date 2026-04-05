@@ -6,7 +6,11 @@ title: Research
 
 Below is a list of my published academic articles, followed by essays written for more general audiences. You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=4qmPIBgAAAAJ&hl=en&oi=ao).
 
-**Academic Articles**     
+**Academic Articles**  
+
+1\. Justifiability and AI: Putting Explainability in its Place,    
+**AI & Society** (2025)    
+with I. Glenn Cohen and Julian Savulescu [PDF](research/bcs_justifiability.pdf), [link]()    
 
 1\. A General Framework for Governing Marketed AI/ML Medical Devices,    
 **Nature Digital Medicine** (2025)    

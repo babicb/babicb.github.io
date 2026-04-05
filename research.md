@@ -12,44 +12,44 @@ Below is a list of my published academic articles, followed by essays written fo
 **AI & Society** (2025)    
 with I. Glenn Cohen and Julian Savulescu [PDF](research/bcs_justifiability.pdf), [link]()    
 
-1\. A General Framework for Governing Marketed AI/ML Medical Devices,    
+2\. A General Framework for Governing Marketed AI/ML Medical Devices,    
 **Nature Digital Medicine** (2025)    
 with I. Glenn Cohen, Yiwen Li, Melissa Ouellet, and Ariel Dora Stern [PDF](research/agf2025.pdf), [link](https://www.nature.com/articles/s41746-025-01717-9)    
 
-2\. Notice and Explanation in Healthcare AI,    
+3\. Notice and Explanation in Healthcare AI,    
 **American Journal of Bioethics** (2025)    
 with Sara Gerke [PDF](https://www.tandfonline.com/doi/epdf/10.1080/15265161.2025.2458421?needAccess=true), [link](https://www.tandfonline.com/doi/full/10.1080/15265161.2025.2458421#d1e120)   
 
-3\. Resolute and Correlated Bayesians,       
+4\. Resolute and Correlated Bayesians,       
 **Philosophers' Imprint** (2025)       
 with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler [PDF](research/RCB__August2024.pdf), [link](https://doi.org/10.3998/phimp.3416)
 
-4\. On the Epistemic Significance of Noise,   
+5\. On the Epistemic Significance of Noise,   
 **Oxford Studies in Epistemology** (2025)    
 with Zoe Johnson King [PDF](research/epistemic_noise_nov2023.pdf)    
 
-5\. The Algorithmic Explainability Bait and Switch,   
+6\. The Algorithmic Explainability Bait and Switch,   
 **Minnesota Law Review** (2024)    
 with I. Glenn Cohen [PDF](research/explainability_march2023.pdf), [link](https://minnesotalawreview.org/article/the-algorithmic-explainability-bait-and-switch/)            
 
-6\. Algorithmic Fairness and Resentment,   
+7\. Algorithmic Fairness and Resentment,   
 **Philosophical Studies** (2023)    
 with Zoe Johnson King [PDF](research/afr.pdf), [link](https://link.springer.com/article/10.1007/s11098-023-02006-5)   
 
-7\. How AI Can Learn from the Law,      
+8\. How AI Can Learn from the Law,      
 **Nature Digital Medicine** (2023)    
 with I. Glenn Cohen, Sara Gerke, Qiong Xia,   
 Theodoros Evgeniou and Klaus Werternbroch [PDF](research/AppealingAI.pdf), [link](https://www.nature.com/articles/s41746-023-00906-8)     
 
-8\. Moral Encroachment Under Moral Uncertainty,   
+9\. Moral Encroachment Under Moral Uncertainty,   
 **Philosophers' Imprint** (2023)    
 with Zoe Johnson King [PDF](research/encroachment_march2023.pdf), [link](https://journals.publishing.umich.edu/phimp/article/id/2073/)           
 
-9\. Comment on Ariel Dora Stern's Regulation of Medical AI,   
+10\. Comment on Ariel Dora Stern's Regulation of Medical AI,   
 **The Economics of Artificial Intelligence**    
 edited by Ajay Agrawal, Joshua Gans, and Avi Goldfarb (2023) [PDF](research/ads_comment_march2023.pdf), [link](https://www.nber.org/books-and-chapters/economics-artificial-intelligence-health-care-challenges)             
 
-10\. Beware Explanations from AI in Health Care,      
+11\. Beware Explanations from AI in Health Care,      
 **Science** (2021)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/beware_march2023.pdf), [link](https://www.science.org/doi/10.1126/science.abg1834)  
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage:   
@@ -57,56 +57,56 @@ with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/beware_mar
 &nbsp;&nbsp;&nbsp;&nbsp; [Tencent QQ](https://new.qq.com/omn/20210903/20210903A0C0DC00.html), [The Edge](https://www.theedgemarkets.com/article/ai-are-we-ready-black-box-solutions),   
 &nbsp;&nbsp;&nbsp;&nbsp; [China Business News](https://www.yicai.com/news/101163033.html)    
 
-11\. Direct to Consumer Advertising of Medical Machine Learning,      
+12\. Direct to Consumer Advertising of Medical Machine Learning,      
 **Nature Machine Intelligence** (2021)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/dtc_march2023.pdf), [link](https://www.nature.com/articles/s42256-021-00331-0)     
 
-12\. Normativity, Epistemic Rationality and Noisy Statistical Evidence,       
+13\. Normativity, Epistemic Rationality and Noisy Statistical Evidence,       
 **The British Journal for the Philosophy of Science** (2021)       
 with Anil Gaba, Ilia Tsetlin, and Robert L. Winkler [PDF](research/noisy_stereotypes_march2021.pdf), [link](https://www.journals.uchicago.edu/doi/10.1086/715196)    
 
-13\. Approximate Coherentism and Luck,     
+14\. Approximate Coherentism and Luck,     
 **Philosophy of Science** (2021) [PDF](research/acl.pdf), [link](https://www.cambridge.org/core/journals/philosophy-of-science/article/abs/approximate-coherentism-and-luck/362F44FD87EEA07E0E60EF57CD34768D)     
 
-14\. A System View for Medical ML Policy,      
+15\. A System View for Medical ML Policy,      
 **Nature Digital Medicine** (2020)     
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke [PDF](research/nature_system_view.pdf), [link](https://www.nature.com/articles/s41746-020-0262-2)   
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [STAT News](https://www.statnews.com/2020/10/05/duke-artificial-intelligence-hospital-medicine/)    
-15\. Algorithms on Regulatory Lockdown,      
+16\. Algorithms on Regulatory Lockdown,      
 **Science** (2019)    
 with I. Glenn Cohen, Theodoros Evgeniou and Sara Gerke  [PDF](locked_ai_nov2019.pdf), [link](https://www.science.org/doi/abs/10.1126/science.aay9547)    
 &nbsp;&nbsp;&nbsp;&nbsp; Media Coverage: [Forbes](https://www.forbes.com/sites/lanceeliot/2019/12/18/latest-ai-that-learns-on-the-fly-is-raising-serious-concerns-including-for-self-driving-cars/#7ea94f162813)    
 
-16\. Moral Obligation & Epistemic Risk,        
+17\. Moral Obligation & Epistemic Risk,        
 **Oxford Studies in Normative Ethics** (2020)    
 with Zoe Johnson King [PDF](research/bjk_mer_2019.pdf), [link](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198867944.001.0001/oso-9780198867944-chapter-5)    
 
-17\. A Theory of Epistemic Risk,     
+18\. A Theory of Epistemic Risk,     
 **Philosophy of Science** (2019) [PDF](research/babic_ter_final.pdf), [link](https://doi.org/10.1086/703552)
 
 **Essays**   
 
-18\. Countries Must Move Beyond Seeing AI as a Race,    
+19\. Countries Must Move Beyond Seeing AI as a Race,    
 **Fortune Magazine** (2026)    
 with Brian Wong [link](https://fortune.com/2026/01/03/ai-geopolitics-chips-race-stag-hunt-boris-babic-brian-wong/)    
 
-19\. The West Can't Have it Both Ways on Overcapacity,    
+20\. The West Can't Have it Both Ways on Overcapacity,    
 **South China Morning Post** (2024)    
 with Herman Cappelen [link](https://www.scmp.com/opinion/china-opinion/article/3286374/west-cant-have-it-both-ways-overcapacity)     
 
-20\. Explaining Medical AI is Easier Said than Done,   
+21\. Explaining Medical AI is Easier Said than Done,   
 **STAT News** (2021)    
 with Sara Gerke [link](https://www.statnews.com/2021/07/21/explainable-medical-ai-easier-said-than-done/)   
 
-21\. When Machine Learning Goes off the Rails,   
+22\. When Machine Learning Goes off the Rails,   
 **Harvard Business Review** (2020)    
 with I. Glenn Cohen, Theodoros Evgeniou, and Sara Gerke [link](https://hbr.org/2021/01/when-machine-learning-goes-off-the-rails)    
 
-22\. Can AI Decide Who Gets an Organ Transplant?,   
+23\. Can AI Decide Who Gets an Organ Transplant?,   
 **Harvard Business Review** (2020)    
 with I. Glenn Cohen, Theodoros Evgeniou, Sara Gerke, and Nikos Trichakis [link](https://hbr.org/2020/12/can-ai-fairly-decide-who-gets-an-organ-transplant)    
 
-23\. A Better Way to Onboard AI,   
+24\. A Better Way to Onboard AI,   
 **Harvard Business Review** (2020)    
 with Daniel Chen, Theodoros Evgeniou, and Anne-Laure Fayard [link](https://hbr.org/2020/07/a-better-way-to-onboard-ai)      
 
